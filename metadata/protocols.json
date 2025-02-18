@@ -22634,7 +22634,6 @@
         "name": "omnidrome",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23112,8 +23111,7 @@
     "4204": {
         "name": "rockswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4205": {
         "name": "cygnus-finance",
