@@ -1815,8 +1815,7 @@
     "391": {
         "name": "pantherswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "392": {
         "name": "wardenswap",
@@ -14871,8 +14870,7 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2752": {
         "name": "onchain-trade",
@@ -19198,7 +19196,8 @@
         "name": "abachi",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "3511": {
         "name": "leech-protocol",
@@ -22575,7 +22574,8 @@
     "4130": {
         "name": "blueprint",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4131": {
         "name": "harbor-market",
