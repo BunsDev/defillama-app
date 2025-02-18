@@ -761,6 +761,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -3525,7 +3526,8 @@
     "677": {
         "name": "borgswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "678": {
         "name": "jswap",
@@ -22205,7 +22207,8 @@
     "4069": {
         "name": "possum-labs",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4070": {
         "name": "ionic-protocol",
@@ -25911,7 +25914,8 @@
     "4750": {
         "name": "bbqswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4751": {
         "name": "the-vault",
@@ -27118,7 +27122,7 @@
         "yields": false
     },
     "4977": {
-        "name": "goplus-security",
+        "name": "goplus-security-app",
         "tvl": false,
         "yields": false,
         "raises": true,
@@ -31540,6 +31544,17 @@
         "tvl": true,
         "yields": false
     },
+    "5806": {
+        "name": "bloom-trading-bot",
+        "tvl": false,
+        "yields": false,
+        "revenue": true
+    },
+    "5807": {
+        "name": "goplus-locker",
+        "tvl": false,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32930,6 +32945,9 @@
         "raises": true
     },
     "parent#goplus-security": {
+        "name": "goplus-security",
+        "yields": false,
+        "fees": true,
         "revenue": true
     },
     "parent#grizzlyfi": {
