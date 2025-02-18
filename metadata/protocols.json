@@ -3728,7 +3728,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -5621,8 +5621,7 @@
     "1076": {
         "name": "arbicheems",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1077": {
         "name": "bring.finance",
@@ -5933,7 +5932,8 @@
     "1132": {
         "name": "genesys",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1133": {
         "name": "ice-colony",
@@ -6976,7 +6976,8 @@
         "name": "dna-dollar",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "1333": {
         "name": "oceanus",
@@ -15431,7 +15432,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -15445,7 +15446,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
