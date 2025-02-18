@@ -1657,7 +1657,6 @@
         "name": "pinkswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "368": {
@@ -3728,7 +3727,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "dexs": true
     },
@@ -28138,8 +28137,7 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "5158": {
         "name": "enosys-amm-v3",
@@ -30595,7 +30593,7 @@
     },
     "5615": {
         "name": "zoth-zeusd",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5616": {
@@ -32240,9 +32238,6 @@
         "dexs": true,
         "emissions": true
     },
-    "parent#canary": {
-        "activeUsers": true
-    },
     "parent#cap-finance": {
         "name": "cap-finance",
         "yields": false,
@@ -32933,6 +32928,9 @@
         "yields": false,
         "tvl": true,
         "raises": true
+    },
+    "parent#goplus-security": {
+        "revenue": true
     },
     "parent#grizzlyfi": {
         "name": "grizzlyfi",
