@@ -4452,8 +4452,7 @@
     "857": {
         "name": "aliensfarm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "858": {
         "name": "piggybank-dao",
@@ -31586,7 +31585,7 @@
     },
     "5792": {
         "name": "nome-protocol",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5793": {
