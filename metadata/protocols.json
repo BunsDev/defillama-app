@@ -4378,7 +4378,8 @@
     "850": {
         "name": "polyroll",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "851": {
         "name": "nest-protocol-staking",
@@ -11681,7 +11682,6 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "2178": {
@@ -22284,7 +22284,8 @@
     "4083": {
         "name": "ninjaroll",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4084": {
         "name": "hydro-protocol",
