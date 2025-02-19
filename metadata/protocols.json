@@ -4433,7 +4433,6 @@
         "name": "snowdog",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "860": {
@@ -5116,8 +5115,7 @@
     "982": {
         "name": "vikingsfinance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "984": {
         "name": "galaxygoogle-dao",
@@ -9225,8 +9223,7 @@
     "1739": {
         "name": "valerian",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1740": {
         "name": "linear-protocol",
@@ -15442,7 +15439,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -32529,6 +32526,7 @@
         "liquidity": true
     },
     "parent#desk": {
+        "fees": true,
         "revenue": true,
         "perps": true
     },
