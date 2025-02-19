@@ -31563,7 +31563,9 @@
     "5809": {
         "name": "flashbots",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5810": {
         "name": "coinbase-btc",
