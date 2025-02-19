@@ -78,6 +78,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "bridge-aggregators": true,
         "chainAssets": true,
         "gecko_id": "aptos",
         "tokenSymbol": "APT"
@@ -530,6 +531,7 @@
     },
     "cube": {
         "name": "Cube",
+        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -766,6 +768,7 @@
         "name": "Fantom",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "options": true,
         "bridge-aggregators": true,
