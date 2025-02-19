@@ -1405,8 +1405,7 @@
     "328": {
         "name": "steakbank-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "329": {
         "name": "sovryn-dex",
@@ -12301,8 +12300,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "perps": true,
-        "emissions": true
+        "perps": true
     },
     "2297": {
         "name": "fairfi",
@@ -15429,7 +15427,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -15523,7 +15521,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -23776,7 +23774,7 @@
         "yields": false
     },
     "4350": {
-        "name": "smilee-finance",
+        "name": "smilee-finance-arbitrum",
         "tvl": true,
         "yields": false,
         "options": true
@@ -31568,6 +31566,21 @@
         "tvl": true,
         "yields": false
     },
+    "5811": {
+        "name": "smilee-finance-gbera",
+        "tvl": true,
+        "yields": false
+    },
+    "5812": {
+        "name": "a-dex",
+        "tvl": true,
+        "yields": false
+    },
+    "5813": {
+        "name": "desk-perps",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32526,9 +32539,14 @@
         "liquidity": true
     },
     "parent#desk": {
+        "name": "desk",
+        "yields": true,
+        "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
-        "perps": true
+        "perps": true,
+        "emissions": true
     },
     "parent#desyn-protocol": {
         "name": "desyn-protocol",
@@ -34412,6 +34430,9 @@
         "dexs": true
     },
     "parent#smilee-finance": {
+        "name": "smilee-finance",
+        "yields": false,
+        "tvl": true,
         "options": true
     },
     "parent#solayer": {
