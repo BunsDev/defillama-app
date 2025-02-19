@@ -428,8 +428,7 @@
     "168": {
         "name": "dev-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "169": {
         "name": "basis-cash",
@@ -958,7 +957,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -1983,7 +1981,8 @@
     "416": {
         "name": "westarter",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "417": {
         "name": "solyard",
@@ -6790,7 +6789,8 @@
     "1288": {
         "name": "mover",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "liquidity": true
     },
     "1289": {
         "name": "beamswap-classic",
@@ -9888,8 +9888,7 @@
     "1849": {
         "name": "acala-liquid-staking",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1850": {
         "name": "union-protocol",
@@ -10060,8 +10059,7 @@
     "1879": {
         "name": "acala-lcdot",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1880": {
         "name": "minto",
@@ -12930,6 +12928,7 @@
         "name": "bluemove-staking",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -20657,8 +20656,7 @@
     "3754": {
         "name": "acala-euphrates",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3755": {
         "name": "hot-takes",
@@ -23500,8 +23498,7 @@
     "4275": {
         "name": "illuminex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4276": {
         "name": "cian-vaults",
@@ -23972,7 +23969,8 @@
     "4363": {
         "name": "yield-wars",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4364": {
         "name": "ix-swap-rwa",
@@ -32298,6 +32296,7 @@
         "name": "bluemove",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
