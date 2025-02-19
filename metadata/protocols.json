@@ -15456,7 +15456,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -24643,7 +24643,7 @@
     },
     "4511": {
         "name": "pay-protocol",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4512": {
@@ -31318,7 +31318,7 @@
     },
     "5760": {
         "name": "snake-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5761": {
@@ -32527,6 +32527,10 @@
         "tvl": true,
         "treasury": true,
         "liquidity": true
+    },
+    "parent#desk": {
+        "revenue": true,
+        "perps": true
     },
     "parent#desyn-protocol": {
         "name": "desyn-protocol",
