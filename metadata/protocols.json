@@ -3753,8 +3753,7 @@
     "717": {
         "name": "decubate",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "718": {
         "name": "alium-swap",
@@ -7975,7 +7974,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1516": {
@@ -18274,8 +18273,7 @@
     "3347": {
         "name": "meridian-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3348": {
         "name": "soswap",
@@ -18498,8 +18496,7 @@
     "3386": {
         "name": "meridian-trade",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3387": {
         "name": "bryan-on-base",
@@ -21487,8 +21484,7 @@
     "3938": {
         "name": "unitus",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3940": {
         "name": "archly-v2",
@@ -22395,7 +22391,6 @@
         "name": "pike",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true,
         "emissions": true
     },
@@ -23874,7 +23869,6 @@
         "name": "javsphere",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -27409,7 +27403,6 @@
         "name": "meridian-swap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "5027": {
@@ -33648,7 +33641,6 @@
         "name": "meridian",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "dexs": true,
         "emissions": true
     },
