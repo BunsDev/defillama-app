@@ -2064,7 +2064,8 @@
     "433": {
         "name": "daoventures",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "434": {
         "name": "tarot",
@@ -3064,7 +3065,6 @@
         "tvl": true,
         "yields": false,
         "forks": true,
-        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
@@ -4965,8 +4965,7 @@
     "955": {
         "name": "houses-of-rome",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "956": {
         "name": "swarm-markets",
@@ -6232,7 +6231,8 @@
     "1190": {
         "name": "magnet-dao",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1191": {
         "name": "katana",
@@ -17577,7 +17577,8 @@
     "3236": {
         "name": "colafactory",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3237": {
         "name": "skydex",
@@ -18233,6 +18234,7 @@
         "name": "magnate-finance",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "3343": {
@@ -30151,7 +30153,9 @@
         "name": "silverswap",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5530": {
         "name": "bucket-farm",
@@ -30767,7 +30771,8 @@
     "5648": {
         "name": "o.lab",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5649": {
         "name": "yoko",
@@ -31349,7 +31354,8 @@
     "5766": {
         "name": "bulla-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5767": {
         "name": "ucs-finance",
@@ -34401,6 +34407,9 @@
         "fees": true,
         "revenue": true,
         "dexs": true
+    },
+    "parent#smilee-finance": {
+        "options": true
     },
     "parent#solayer": {
         "name": "solayer",
