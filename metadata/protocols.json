@@ -678,8 +678,7 @@
     "209": {
         "name": "autofarm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "210": {
         "name": "yaxis",
@@ -8032,8 +8031,7 @@
     "1533": {
         "name": "life",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1534": {
         "name": "strikex",
@@ -31506,6 +31504,26 @@
         "tvl": true,
         "yields": false
     },
+    "5814": {
+        "name": "pico-staked-sol",
+        "tvl": true,
+        "yields": false
+    },
+    "5815": {
+        "name": "colors",
+        "tvl": true,
+        "yields": false
+    },
+    "5816": {
+        "name": "defive-v2",
+        "tvl": true,
+        "yields": false
+    },
+    "5817": {
+        "name": "electra",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32426,6 +32444,14 @@
         "yields": false,
         "tvl": true,
         "liquidity": true,
+        "dexs": true
+    },
+    "parent#defive": {
+        "name": "defive",
+        "yields": false,
+        "tvl": true,
+        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "parent#degenhive": {
@@ -34323,8 +34349,7 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#skullswap": {
         "name": "skullswap",
@@ -34983,8 +35008,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#uniwswap": {
         "name": "uniwswap",

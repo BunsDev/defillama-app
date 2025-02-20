@@ -244,6 +244,7 @@
         "fees": true,
         "dexs": true,
         "derivatives": true,
+        "aggregators": true,
         "gecko_id": "bitcoin-cash",
         "tokenSymbol": "BCH"
     },
@@ -598,6 +599,7 @@
     "dogechain": {
         "name": "Dogechain",
         "fees": true,
+        "aggregators": true,
         "inflows": true,
         "gecko_id": "dogechain",
         "tokenSymbol": "DG"
@@ -1191,6 +1193,7 @@
     "litecoin": {
         "name": "Litecoin",
         "fees": true,
+        "aggregators": true,
         "bridge-aggregators": true,
         "gecko_id": "litecoin",
         "tokenSymbol": "LTC"
