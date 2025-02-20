@@ -1934,8 +1934,7 @@
     "411": {
         "name": "pippi",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "412": {
         "name": "thorchain",
@@ -2920,8 +2919,7 @@
     "574": {
         "name": "fuzz-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "575": {
         "name": "coinswap-space",
@@ -31634,6 +31632,11 @@
     },
     "5821": {
         "name": "chickendefi",
+        "tvl": true,
+        "yields": false
+    },
+    "5824": {
+        "name": "steamm",
         "tvl": true,
         "yields": false
     },
