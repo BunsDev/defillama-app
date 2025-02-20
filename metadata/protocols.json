@@ -1175,7 +1175,8 @@
     "289": {
         "name": "yetiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "290": {
         "name": "penguin-finance",
@@ -1327,6 +1328,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "activeUsers": true,
         "dexs": true
     },
     "318": {
@@ -2114,8 +2116,7 @@
     "441": {
         "name": "pylon-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "442": {
         "name": "universe-xyz",
@@ -5034,7 +5035,8 @@
     "968": {
         "name": "zai-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "969": {
         "name": "dehive",
@@ -11726,7 +11728,8 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2187": {
         "name": "dolomite",
@@ -13642,7 +13645,8 @@
         "name": "flux-finance",
         "tvl": true,
         "yields": true,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2538": {
         "name": "parcl-v2",
@@ -16688,8 +16692,7 @@
     "3076": {
         "name": "minerva",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3077": {
         "name": "fathom-amm",
