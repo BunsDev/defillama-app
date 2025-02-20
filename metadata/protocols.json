@@ -818,7 +818,6 @@
         "name": "idex-classic",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "231": {
@@ -5150,7 +5149,8 @@
     "982": {
         "name": "vikingsfinance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "984": {
         "name": "galaxygoogle-dao",
@@ -9272,7 +9272,8 @@
     "1739": {
         "name": "valerian",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1740": {
         "name": "linear-protocol",
@@ -21925,8 +21926,7 @@
     "3998": {
         "name": "idex-v1",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3999": {
         "name": "cega-v2",
@@ -27807,7 +27807,6 @@
         "name": "idex-v4",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "perps": true
     },
     "5080": {
@@ -29161,7 +29160,8 @@
     "5322": {
         "name": "mon-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5323": {
         "name": "exsat-bridge",
@@ -33288,7 +33288,6 @@
         "name": "idex",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "perps": true
     },
     "parent#iguanadex": {
