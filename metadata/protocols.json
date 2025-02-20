@@ -1233,7 +1233,6 @@
         "tvl": false,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "raises": true
     },
     "301": {
@@ -2329,7 +2328,6 @@
         "name": "baguette",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true
     },
     "474": {
