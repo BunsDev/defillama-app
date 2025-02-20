@@ -3611,7 +3611,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -4745,6 +4746,7 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -13642,8 +13644,7 @@
         "name": "flux-finance",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2538": {
         "name": "parcl-v2",
@@ -28117,8 +28118,7 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "5158": {
         "name": "enosys-amm-v3",
@@ -32499,7 +32499,8 @@
     "parent#cygnus-finance": {
         "name": "cygnus",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "raises": true
     },
     "parent#dackieswap": {
         "name": "dackieswap",
