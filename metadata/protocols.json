@@ -31592,6 +31592,13 @@
         "tvl": true,
         "yields": false
     },
+    "5818": {
+        "name": "foom",
+        "tvl": false,
+        "yields": false,
+        "treasury": true,
+        "liquidity": true
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32025,7 +32032,6 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "forks": true,
         "treasury": true,
         "liquidity": true,
         "activeUsers": true,
@@ -33512,8 +33518,7 @@
         "tvl": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#lynex": {
         "name": "lynex",
