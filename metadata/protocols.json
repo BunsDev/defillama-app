@@ -1176,8 +1176,7 @@
     "289": {
         "name": "yetiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "290": {
         "name": "penguin-finance",
@@ -4745,7 +4744,6 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -12260,6 +12258,9 @@
         "yields": false,
         "hacks": true,
         "raises": true
+    },
+    "2286": {
+        "hacks": true
     },
     "2289": {
         "name": "cetus-amm",
