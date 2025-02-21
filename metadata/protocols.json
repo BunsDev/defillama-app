@@ -6820,7 +6820,8 @@
         "name": "iron-bank",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "1304": {
         "name": "buffer-finance",
@@ -12487,7 +12488,8 @@
     "2333": {
         "name": "julswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2334": {
         "name": "defiedge",
@@ -23373,7 +23375,8 @@
     "4275": {
         "name": "illuminex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4276": {
         "name": "cian-vaults",
@@ -31662,6 +31665,11 @@
         "tvl": true,
         "yields": false
     },
+    "5829": {
+        "name": "onedollardcae",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32002,7 +32010,8 @@
     "parent#arbswap": {
         "name": "arbswap",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "activeUsers": true
     },
     "parent#arcadia-finance": {
         "name": "arcadia-finance",
