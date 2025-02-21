@@ -2558,8 +2558,7 @@
     "510": {
         "name": "gaj-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "511": {
         "name": "frost-finance",
@@ -12321,8 +12320,7 @@
     "2302": {
         "name": "goober",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2303": {
         "name": "revert-v3-staker",
@@ -14860,8 +14858,7 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -34195,7 +34192,6 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
