@@ -8122,8 +8122,7 @@
     "1534": {
         "name": "strikex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1535": {
         "name": "cubo",
@@ -32793,8 +32792,7 @@
         "fees": true,
         "revenue": true,
         "dexs": true,
-        "aggregator": true,
-        "emissions": true
+        "aggregator": true
     },
     "parent#dojoswap": {
         "name": "dojoswap",
