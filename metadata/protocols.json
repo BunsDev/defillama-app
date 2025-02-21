@@ -5998,8 +5998,7 @@
     "1145": {
         "name": "ftm-frens",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1146": {
         "name": "cyberfantasyfembots",
@@ -9676,7 +9675,7 @@
     },
     "1821": {
         "name": "astarfarm",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1822": {
@@ -11467,6 +11466,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -20019,7 +20019,7 @@
     "3663": {
         "name": "nolus-protocol",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true
     },
     "3664": {
@@ -31456,6 +31456,7 @@
         "name": "eggs-finance",
         "tvl": true,
         "yields": false,
+        "forks": true,
         "liquidity": true
     },
     "5790": {
@@ -31646,6 +31647,11 @@
     },
     "5826": {
         "name": "bamm",
+        "tvl": true,
+        "yields": false
+    },
+    "5827": {
+        "name": "beratlas-finance",
         "tvl": true,
         "yields": false
     },
