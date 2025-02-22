@@ -520,8 +520,7 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "183": {
         "name": "wing-finance",
@@ -7576,8 +7575,7 @@
         "tvl": true,
         "yields": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "1434": {
         "name": "newspace-finance",
@@ -15545,7 +15543,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -15618,7 +15616,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -18381,7 +18379,8 @@
     "3347": {
         "name": "meridian-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3348": {
         "name": "soswap",
@@ -18605,7 +18604,8 @@
     "3386": {
         "name": "meridian-trade",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3387": {
         "name": "bryan-on-base",
@@ -20703,8 +20703,7 @@
     "3764": {
         "name": "boom",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3765": {
         "name": "cryptoo-tech",
@@ -27825,8 +27824,7 @@
     "5080": {
         "name": "boomswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5081": {
         "name": "kujata",
@@ -32539,8 +32537,7 @@
         "forks": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#charm-finance": {
         "name": "charm-finance",
@@ -33868,6 +33865,7 @@
         "name": "meridian",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true,
         "emissions": true
     },
