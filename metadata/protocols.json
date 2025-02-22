@@ -4182,8 +4182,7 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "816": {
         "name": "xsigma",
@@ -8202,8 +8201,7 @@
     "1558": {
         "name": "gogocoin",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1559": {
         "name": "kdlaunch",
@@ -11462,7 +11460,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11723,8 +11720,7 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2187": {
         "name": "dolomite",
