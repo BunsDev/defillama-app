@@ -15521,7 +15521,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -18881,8 +18881,7 @@
     "3436": {
         "name": "fedex-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3437": {
         "name": "pyswap",
@@ -30853,7 +30852,8 @@
     "5641": {
         "name": "citrex-markets",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "perps": true
     },
     "5642": {
         "name": "edbank",
