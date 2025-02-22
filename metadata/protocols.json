@@ -30773,7 +30773,8 @@
         "name": "o.lab",
         "tvl": true,
         "yields": false,
-        "dexs": true
+        "dexs": true,
+        "options": true
     },
     "5649": {
         "name": "yoko",
