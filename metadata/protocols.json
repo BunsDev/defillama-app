@@ -1924,8 +1924,7 @@
         "name": "cafeswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "410": {
         "name": "swamp-finance",
@@ -7741,8 +7740,7 @@
     "1471": {
         "name": "bethash",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1472": {
         "name": "electrik-finance",
@@ -11760,8 +11758,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -30835,7 +30832,8 @@
     "5659": {
         "name": "treble",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5660": {
         "name": "ethos-network",
