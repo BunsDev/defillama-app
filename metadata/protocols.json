@@ -19402,7 +19402,8 @@
     "3526": {
         "name": "rexdex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3527": {
         "name": "blazebot",
