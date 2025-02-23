@@ -7224,7 +7224,8 @@
         "name": "based-v1",
         "tvl": true,
         "yields": false,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "1380": {
         "name": "minimax",
@@ -18995,7 +18996,8 @@
     "3480": {
         "name": "based-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3481": {
         "name": "solidly-v3",
@@ -19710,6 +19712,7 @@
         "name": "basedmarkets",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -31664,6 +31667,21 @@
         "tvl": true,
         "yields": false
     },
+    "5831": {
+        "name": "curves-protocol",
+        "tvl": true,
+        "yields": false
+    },
+    "5832": {
+        "name": "fibonacci-dex",
+        "tvl": true,
+        "yields": false
+    },
+    "5834": {
+        "name": "ethereal",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32134,7 +32152,8 @@
     "parent#based-finance": {
         "name": "based-finance",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#baseswap": {
         "name": "baseswap",
