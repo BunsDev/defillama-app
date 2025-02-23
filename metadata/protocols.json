@@ -14558,7 +14558,7 @@
     "2683": {
         "name": "davos-protocol",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "2684": {
         "name": "arc-swap",
