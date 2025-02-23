@@ -1921,8 +1921,7 @@
         "name": "cafeswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "410": {
         "name": "swamp-finance",
@@ -4177,7 +4176,8 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "816": {
         "name": "xsigma",
@@ -13568,6 +13568,7 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -14845,8 +14846,7 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2750": {
         "name": "nuon-finance",
