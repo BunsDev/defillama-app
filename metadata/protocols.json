@@ -16032,8 +16032,7 @@
     "2963": {
         "name": "memedex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2964": {
         "name": "cozy-v2",
