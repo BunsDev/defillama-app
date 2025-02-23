@@ -2842,6 +2842,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -3687,7 +3688,6 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -8563,7 +8563,8 @@
     "1623": {
         "name": "troydefi",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1624": {
         "name": "ambire-wallet",
@@ -12761,7 +12762,8 @@
         "name": "oreoswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2385": {
         "name": "exactly",
@@ -23200,8 +23202,7 @@
     "4246": {
         "name": "blastoff",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4247": {
         "name": "lazyotter-finance",
