@@ -3687,6 +3687,7 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -7998,7 +7999,7 @@
     },
     "1523": {
         "name": "klaystation",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1524": {
