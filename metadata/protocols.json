@@ -1352,7 +1352,8 @@
     "320": {
         "name": "depth",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "321": {
         "name": "ram-protocol",
@@ -3948,8 +3949,7 @@
     "754": {
         "name": "bossswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "755": {
         "name": "arrow",
@@ -14845,8 +14845,7 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2750": {
         "name": "nuon-finance",
