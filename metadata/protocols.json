@@ -176,9 +176,6 @@
         "revenue": true,
         "options": true
     },
-    "129": {
-        "liquidity": true
-    },
     "130": {
         "name": "the-tokenized-bitcoin",
         "tvl": true,
@@ -6372,8 +6369,7 @@
     "1216": {
         "name": "farm-hero",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1217": {
         "name": "parallel-polkadot-crowdloan",
@@ -18142,7 +18138,7 @@
     },
     "3331": {
         "name": "tetu-pawnshop",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true
     },
@@ -19300,7 +19296,8 @@
     "3529": {
         "name": "dip-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3530": {
         "name": "bmx-classic-perps",
@@ -24644,8 +24641,7 @@
     "4514": {
         "name": "snail-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4515": {
         "name": "glowswap",
