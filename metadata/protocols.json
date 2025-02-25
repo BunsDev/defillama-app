@@ -31706,7 +31706,8 @@
     "5841": {
         "name": "jupiter-dca",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
