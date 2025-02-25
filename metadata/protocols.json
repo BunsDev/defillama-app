@@ -2713,7 +2713,8 @@
         "name": "teddy-cash",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "536": {
         "name": "larix",
@@ -10443,8 +10444,7 @@
     "1949": {
         "name": "civfund",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1950": {
         "name": "baryon-network",
@@ -24745,7 +24745,7 @@
     },
     "4511": {
         "name": "pay-protocol",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4512": {
@@ -26670,8 +26670,7 @@
     "4874": {
         "name": "re.al-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4875": {
         "name": "kernel-protocol",
@@ -31850,6 +31849,11 @@
     },
     "5843": {
         "name": "flex-perpetuals",
+        "tvl": true,
+        "yields": false
+    },
+    "5844": {
+        "name": "aquabera",
         "tvl": true,
         "yields": false
     },
