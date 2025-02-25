@@ -2251,7 +2251,8 @@
     "461": {
         "name": "planet-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "462": {
         "name": "augury-finance",
@@ -2391,8 +2392,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -2838,7 +2838,8 @@
     "558": {
         "name": "magic-land",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "559": {
         "name": "dapp-account-dao",
@@ -11558,6 +11559,7 @@
         "name": "blue-planet",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "2159": {
@@ -15463,8 +15465,7 @@
         "liquidity": true
     },
     "2862": {
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "2863": {
         "name": "saitaswap",
@@ -27437,6 +27438,7 @@
         "name": "aquarius-stellar",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "5036": {
@@ -29041,7 +29043,8 @@
     "5321": {
         "name": "aqualoan",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5322": {
         "name": "mon-protocol",
@@ -34284,6 +34287,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
+        "liquidity": true,
         "dexs": true
     },
     "parent#plunderswap": {
