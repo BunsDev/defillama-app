@@ -3632,7 +3632,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -3650,6 +3651,7 @@
         "name": "dinosaur-eggs",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "696": {
@@ -6812,7 +6814,6 @@
         "name": "burgerswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true,
         "activeUsers": true
     },
@@ -7156,7 +7157,8 @@
     "1359": {
         "name": "capitaldex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1360": {
         "name": "meld",
@@ -10129,7 +10131,8 @@
     "1893": {
         "name": "mind-games",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1894": {
         "name": "filet-finance",
@@ -15459,7 +15462,8 @@
         "name": "solisnek-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2847": {
         "name": "world-mobile-token",
@@ -22908,8 +22912,7 @@
     "4170": {
         "name": "deltafi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4171": {
         "name": "poseidollar",
