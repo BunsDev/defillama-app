@@ -757,7 +757,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -952,6 +951,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -1056,6 +1056,7 @@
         "name": "honeyswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -1808,7 +1809,8 @@
     "391": {
         "name": "pantherswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "392": {
         "name": "wardenswap",
@@ -2840,7 +2842,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -3422,6 +3423,7 @@
         "name": "jetswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "660": {
@@ -4176,8 +4178,7 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "816": {
         "name": "xsigma",
@@ -4738,7 +4739,6 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -9536,6 +9536,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11247,8 +11248,7 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2109": {
         "name": "pyeswap",
@@ -12321,8 +12321,7 @@
     "2306": {
         "name": "bored-candy-city",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2307": {
         "name": "camelot-v2",
@@ -15453,7 +15452,8 @@
         "liquidity": true
     },
     "2862": {
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2863": {
         "name": "saitaswap",
@@ -34557,7 +34557,6 @@
         "name": "smbswap",
         "yields": false,
         "tvl": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
