@@ -3688,7 +3688,6 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -6592,8 +6591,7 @@
     "1261": {
         "name": "darkcrypto",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1262": {
         "name": "saros",
@@ -6769,8 +6767,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "1296": {
         "name": "zipswap",
@@ -14676,7 +14673,8 @@
         "name": "flair-dex",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2722": {
         "name": "metavisor",
@@ -18017,8 +18015,7 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "3315": {
         "name": "crescentswap",
