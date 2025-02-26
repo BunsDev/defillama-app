@@ -6267,6 +6267,7 @@
         "name": "chronicle",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "raises": true
     },
     "1199": {
