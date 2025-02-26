@@ -21578,7 +21578,8 @@
     "3959": {
         "name": "poor-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3960": {
         "name": "landx-finance",
