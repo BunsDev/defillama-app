@@ -1037,7 +1037,8 @@
     "267": {
         "name": "s-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "269": {
         "name": "yfii",
@@ -10341,7 +10342,8 @@
     "1939": {
         "name": "emp-money",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1940": {
         "name": "apeswap-lending",
@@ -32896,7 +32898,8 @@
     "parent#empmoney": {
         "name": "empmoney",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#enosys": {
         "name": "enosys",
