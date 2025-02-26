@@ -10341,8 +10341,7 @@
     "1939": {
         "name": "emp-money",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1940": {
         "name": "apeswap-lending",
@@ -32897,8 +32896,7 @@
     "parent#empmoney": {
         "name": "empmoney",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#enosys": {
         "name": "enosys",
