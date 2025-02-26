@@ -15536,7 +15536,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -26599,7 +26599,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
