@@ -5937,8 +5937,7 @@
     "1134": {
         "name": "duckydefi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1135": {
         "name": "meowswap",
@@ -7141,8 +7140,7 @@
     "1364": {
         "name": "narwhalswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1365": {
         "name": "etha-lend",
@@ -17695,7 +17693,6 @@
         "name": "narwhal-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "3259": {
@@ -21727,7 +21724,6 @@
         "name": "cleopatra-cl",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23420,7 +23416,6 @@
         "name": "cleopatra-legacy",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32648,7 +32643,6 @@
         "name": "cleopatra-exchange",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
