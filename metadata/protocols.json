@@ -11215,6 +11215,7 @@
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "2103": {
@@ -18020,7 +18021,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -25444,7 +25446,7 @@
     "4670": {
         "name": "c3-exchange",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "dexs": true
     },
     "4671": {
@@ -31234,7 +31236,9 @@
     "5745": {
         "name": "burrbear",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true,
+        "dexs": true
     },
     "5746": {
         "name": "beraborrow",
@@ -31690,7 +31694,9 @@
     "5832": {
         "name": "fibonacci-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true,
+        "dexs": true
     },
     "5834": {
         "name": "ethereal",
