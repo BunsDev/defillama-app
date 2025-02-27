@@ -1970,8 +1970,7 @@
     "416": {
         "name": "westarter",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "417": {
         "name": "solyard",
@@ -7559,7 +7558,6 @@
         "name": "polaris-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9256,8 +9254,7 @@
     "1748": {
         "name": "murica",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1749": {
         "name": "pandaland",
@@ -23829,8 +23826,7 @@
     "4363": {
         "name": "yield-wars",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4364": {
         "name": "ix-swap-rwa",
