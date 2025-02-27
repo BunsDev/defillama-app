@@ -991,7 +991,8 @@
         "fees": true,
         "dexs": true,
         "derivatives": true,
-        "chainAssets": true
+        "gecko_id": "hyperliquid",
+        "tokenSymbol": "HYPE"
     },
     "icon": {
         "name": "Icon",

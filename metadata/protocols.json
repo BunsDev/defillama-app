@@ -1593,7 +1593,6 @@
         "name": "gamma",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "hacks": true,
         "fees": true,
         "revenue": true
