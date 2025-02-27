@@ -11214,7 +11214,6 @@
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "2103": {
@@ -15895,6 +15894,7 @@
         "name": "turbos",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "dexs": true
     },
     "2941": {
@@ -18019,8 +18019,7 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "3315": {
         "name": "crescentswap",
@@ -31785,6 +31784,16 @@
         "tvl": false,
         "yields": false,
         "liquidity": true
+    },
+    "5851": {
+        "name": "caviarnine-simple-pools",
+        "tvl": true,
+        "yields": false
+    },
+    "5852": {
+        "name": "pholend",
+        "tvl": false,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
