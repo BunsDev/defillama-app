@@ -1618,6 +1618,7 @@
         "name": "Plume",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "gecko_id": "plume",
         "tokenSymbol": "PLUME"
     },
@@ -1967,7 +1968,9 @@
     },
     "story": {
         "name": "Story",
+        "fees": true,
         "dexs": true,
+        "derivatives": true,
         "gecko_id": "story-2",
         "tokenSymbol": "IP"
     },
@@ -2315,6 +2318,7 @@
         "name": "Zircuit",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "inflows": true,
         "chainAssets": true,

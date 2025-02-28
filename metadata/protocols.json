@@ -15411,7 +15411,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2854": {
@@ -31956,6 +31956,10 @@
         "revenue": true
     },
     "chain#57073": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#59144": {
         "fees": true,
         "revenue": true
     },
