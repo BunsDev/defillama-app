@@ -2844,7 +2844,6 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "562": {
@@ -4229,7 +4228,8 @@
     "824": {
         "name": "euphoria",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "825": {
         "name": "nft20",
@@ -15312,6 +15312,7 @@
         "name": "wagmi",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -22558,8 +22559,7 @@
     "4130": {
         "name": "blueprint",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4131": {
         "name": "harbor-market",
