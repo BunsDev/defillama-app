@@ -7135,7 +7135,8 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1364": {
         "name": "narwhalswap",
@@ -9537,6 +9538,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -12758,7 +12760,8 @@
         "name": "oreoswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2385": {
         "name": "exactly",
@@ -13866,7 +13869,8 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2578": {
         "name": "beamer-bridge",
