@@ -18441,8 +18441,7 @@
     "3380": {
         "name": "baso-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "3381": {
         "name": "thegoblins",
