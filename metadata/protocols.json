@@ -2489,7 +2489,6 @@
         "name": "polycat",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "500": {
@@ -4228,8 +4227,7 @@
     "824": {
         "name": "euphoria",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "825": {
         "name": "nft20",
@@ -7096,7 +7094,6 @@
         "name": "hubble",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "1357": {
@@ -12286,6 +12283,7 @@
         "name": "hmx",
         "tvl": true,
         "yields": true,
+        "forks": true,
         "liquidity": true,
         "fees": true,
         "revenue": true,
@@ -12523,8 +12521,7 @@
     "2341": {
         "name": "polycat-dex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2342": {
         "name": "vapordex-v1",
@@ -15313,7 +15310,6 @@
         "name": "wagmi",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -30754,6 +30750,8 @@
         "name": "sailor",
         "tvl": true,
         "yields": false,
+        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "5648": {
@@ -31707,12 +31705,16 @@
     "5836": {
         "name": "hyperswap-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5837": {
         "name": "hyperswap-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5838": {
         "name": "hypurrfi",
@@ -31758,7 +31760,9 @@
     "5845": {
         "name": "wasabee",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5846": {
         "name": "hedgey",
@@ -33402,7 +33406,9 @@
     "parent#hyperswap": {
         "name": "hyperswap",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "fees": true,
+        "revenue": true
     },
     "parent#icecreamswap": {
         "name": "icecreamswap",
@@ -34283,9 +34289,6 @@
         "yields": false,
         "tvl": true
     },
-    "parent#paraspace": {
-        "activeUsers": true
-    },
     "parent#parax": {
         "name": "parallel-super-app",
         "yields": false,
@@ -34381,7 +34384,6 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
