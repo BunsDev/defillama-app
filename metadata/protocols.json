@@ -2490,6 +2490,7 @@
         "name": "polycat",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "500": {
@@ -12463,7 +12464,8 @@
     "2331": {
         "name": "swapfish",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12523,7 +12525,8 @@
     "2341": {
         "name": "polycat-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2342": {
         "name": "vapordex-v1",
@@ -15500,7 +15503,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -34391,6 +34394,7 @@
         "yields": false,
         "tvl": true,
         "governance": true,
+        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
