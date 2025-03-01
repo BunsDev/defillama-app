@@ -22495,6 +22495,7 @@
         "name": "omnidrome",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
