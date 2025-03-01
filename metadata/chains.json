@@ -82,6 +82,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "bridge-aggregators": true,
         "chainAssets": true,
         "gecko_id": "aptos",
         "tokenSymbol": "APT"
@@ -537,7 +538,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -1012,7 +1012,6 @@
     },
     "idex": {
         "name": "IDEX",
-        "derivatives": true,
         "gecko_id": "aurora-dao",
         "tokenSymbol": "IDEX"
     },
@@ -1761,6 +1760,7 @@
     },
     "ronin": {
         "name": "Ronin",
+        "fees": true,
         "dexs": true,
         "chainAssets": true
     },
