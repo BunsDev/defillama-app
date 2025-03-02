@@ -12849,7 +12849,6 @@
         "name": "oreoswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true
     },
     "2385": {
