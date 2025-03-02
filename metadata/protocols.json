@@ -11758,7 +11758,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -13876,7 +13877,8 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2578": {
         "name": "beamer-bridge",
@@ -22819,7 +22821,7 @@
         "yields": false
     },
     "4174": {
-        "name": "hyperswap",
+        "name": "hyperswap-on-areon-network",
         "tvl": true,
         "yields": false
     },
