@@ -4195,7 +4195,8 @@
     "817": {
         "name": "cashcow-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "818": {
         "name": "cashcow-protocol",
@@ -15512,7 +15513,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -21384,8 +21385,7 @@
     "3922": {
         "name": "love.io",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3923": {
         "name": "derive-v2",
@@ -25501,7 +25501,8 @@
     "4679": {
         "name": "dragon-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4680": {
         "name": "iswap-tech",
