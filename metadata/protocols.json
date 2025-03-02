@@ -26456,8 +26456,7 @@
     "4833": {
         "name": "influpia",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4834": {
         "name": "napier-finance",
@@ -34713,6 +34712,10 @@
         "name": "revert",
         "yields": false,
         "tvl": true
+    },
+    "parent#rhea-finance": {
+        "revenue": true,
+        "dexs": true
     },
     "parent#ribbon-finance": {
         "name": "ribbon-finance",
