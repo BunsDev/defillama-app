@@ -7299,8 +7299,7 @@
     "1383": {
         "name": "platinum-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1384": {
         "name": "hermes-protocol",
@@ -24378,8 +24377,7 @@
         "name": "puff-penthouse",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "4440": {
         "hacks": true
