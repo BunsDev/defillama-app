@@ -15521,7 +15521,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -30465,7 +30465,6 @@
         "name": "shadow-exchange-clmm",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -31084,7 +31083,6 @@
         "name": "shadow-exchange-legacy",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -34807,7 +34805,6 @@
         "name": "shadow-exchange",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
