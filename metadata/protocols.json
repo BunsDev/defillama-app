@@ -1171,8 +1171,7 @@
     "287": {
         "name": "0.exchange",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "289": {
         "name": "yetiswap",
@@ -9548,7 +9547,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9684,8 +9682,7 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -19643,8 +19640,7 @@
     "3597": {
         "name": "zeroliquid",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3598": {
         "name": "mountain-protocol",
@@ -26416,7 +26412,8 @@
     "4853": {
         "name": "blackrock-buidl",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4854": {
         "name": "arca-labs-arcoin",
@@ -27584,7 +27581,6 @@
         "name": "apex-defi",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
