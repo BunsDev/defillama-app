@@ -5265,7 +5265,8 @@
     "1012": {
         "name": "pumpkin-dao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1014": {
         "name": "tempodao",
@@ -19294,8 +19295,7 @@
     "3529": {
         "name": "dip-exchange",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3530": {
         "name": "bmx-classic-perps",
@@ -31795,6 +31795,12 @@
         "name": "pholend",
         "tvl": false,
         "yields": false
+    },
+    "5853": {
+        "name": "maple-rwa",
+        "tvl": true,
+        "yields": false,
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
