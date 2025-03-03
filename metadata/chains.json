@@ -354,6 +354,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "aggregator-derivatives": true,
         "bridge-aggregators": true,
         "inflows": true,
         "chainAssets": true
@@ -776,6 +777,7 @@
         "name": "Fantom",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "options": true,
         "bridge-aggregators": true,
