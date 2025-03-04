@@ -2696,8 +2696,7 @@
         "name": "teddy-cash",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "536": {
         "name": "larix",
@@ -29060,7 +29059,9 @@
     "5329": {
         "name": "thalaswap-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true,
+        "dexs": true
     },
     "5330": {
         "name": "bitget-sol",
