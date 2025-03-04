@@ -5300,7 +5300,8 @@
         "name": "opendao",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "1020": {
         "name": "arkadiko",
@@ -5768,7 +5769,8 @@
     "1103": {
         "name": "snowcatdao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1104": {
         "name": "agarthadao",
@@ -11748,7 +11750,8 @@
         "name": "sushi-bentobox",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2191": {
         "name": "omnidex-lend",
