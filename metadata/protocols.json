@@ -2054,8 +2054,7 @@
     "432": {
         "name": "longdrink",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "433": {
         "name": "daoventures",
@@ -4182,7 +4181,8 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "816": {
         "name": "xsigma",
@@ -9947,7 +9947,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
