@@ -6800,8 +6800,7 @@
     "1299": {
         "name": "guru-network-classic",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1301": {
         "name": "apedao",
@@ -9260,7 +9259,8 @@
     "1748": {
         "name": "murica",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1749": {
         "name": "pandaland",
@@ -26724,8 +26724,7 @@
     "4910": {
         "name": "elocks",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4911": {
         "name": "akronswap",
@@ -28927,7 +28926,7 @@
     "5307": {
         "name": "morfi",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -29190,8 +29189,7 @@
     "5354": {
         "name": "elma",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5355": {
         "name": "based-ai",
@@ -33291,7 +33289,6 @@
         "yields": false,
         "tvl": true,
         "treasury": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
