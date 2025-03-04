@@ -13574,6 +13574,7 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18316,8 +18317,7 @@
     "3358": {
         "name": "krav",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3359": {
         "name": "phoenix-ergo",
