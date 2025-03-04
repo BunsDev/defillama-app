@@ -82,6 +82,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "bridge-aggregators": true,
         "chainAssets": true,
         "gecko_id": "aptos",
         "tokenSymbol": "APT"
@@ -1233,6 +1234,10 @@
         "name": "Lukso",
         "gecko_id": "lukso-token-2",
         "tokenSymbol": "LYX"
+    },
+    "lumia": {
+        "name": "Lumia",
+        "derivatives": true
     },
     "lung": {
         "name": "Lung"
