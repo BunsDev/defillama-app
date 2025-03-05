@@ -538,7 +538,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -961,7 +960,8 @@
         "tokenSymbol": "HELA"
     },
     "hemi": {
-        "name": "Hemi"
+        "name": "Hemi",
+        "dexs": true
     },
     "hoo": {
         "name": "Hoo",
