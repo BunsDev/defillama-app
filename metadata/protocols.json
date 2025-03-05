@@ -31957,6 +31957,7 @@
         "name": "erc-burner",
         "tvl": false,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "aggregator": true
     },
@@ -31970,10 +31971,16 @@
         "tvl": true,
         "yields": false
     },
+    "5863": {
+        "name": "zino-finance",
+        "tvl": true,
+        "yields": false
+    },
     "5864": {
         "name": "tronsave",
         "tvl": false,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "chain#1": {
