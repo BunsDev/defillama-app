@@ -15527,7 +15527,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -31942,7 +31942,8 @@
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5859": {
         "name": "erc-burner",
