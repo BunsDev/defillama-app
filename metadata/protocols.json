@@ -31498,7 +31498,9 @@
     "5775": {
         "name": "infrared-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5776": {
         "name": "dopin-protocol",
