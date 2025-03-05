@@ -2095,7 +2095,8 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "439": {
         "name": "the-grand-banks",
@@ -23759,8 +23760,7 @@
     "4352": {
         "name": "satoshi-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4353": {
         "name": "pyreswap",
