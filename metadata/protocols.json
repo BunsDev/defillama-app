@@ -19175,6 +19175,7 @@
         "name": "nether.fi",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
@@ -31855,6 +31856,12 @@
         "yields": false,
         "fees": true,
         "revenue": true
+    },
+    "5865": {
+        "name": "flarebank",
+        "tvl": true,
+        "yields": false,
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
