@@ -1403,7 +1403,8 @@
     "328": {
         "name": "steakbank-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "329": {
         "name": "sovryn-dex",
@@ -31511,8 +31512,7 @@
     "5800": {
         "name": "peppercoin",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5801": {
         "name": "cadabra-finance",
@@ -31883,11 +31883,6 @@
     },
     "5867": {
         "name": "puffer-vaults",
-        "tvl": true,
-        "yields": false
-    },
-    "5868": {
-        "name": "puffer-unifi-avs",
         "tvl": true,
         "yields": false
     },
