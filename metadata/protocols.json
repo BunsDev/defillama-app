@@ -2698,7 +2698,6 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true,
         "raises": true
     },
     "534": {
@@ -15615,7 +15614,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -28583,7 +28582,8 @@
     "5220": {
         "name": "metahub-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5221": {
         "name": "raindex",
@@ -31706,7 +31706,10 @@
     "5813": {
         "name": "desk-perps",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "perps": true
     },
     "5814": {
         "name": "pico-staked-sol",
