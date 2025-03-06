@@ -1448,8 +1448,7 @@
     "335": {
         "name": "flashstake-old",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "336": {
         "name": "sifchain",
@@ -3333,6 +3332,7 @@
         "name": "padswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "645": {
@@ -11299,7 +11299,6 @@
         "name": "flashstake",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "emissions": true
     },
     "2116": {
