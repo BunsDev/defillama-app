@@ -22287,7 +22287,7 @@
         "perps": true
     },
     "4088": {
-        "name": "puffer-finance",
+        "name": "puffer-stake",
         "tvl": true,
         "yields": false,
         "raises": true
@@ -31881,6 +31881,26 @@
         "tvl": true,
         "yields": false
     },
+    "5867": {
+        "name": "puffer-vaults",
+        "tvl": true,
+        "yields": false
+    },
+    "5868": {
+        "name": "puffer-unifi-avs",
+        "tvl": true,
+        "yields": false
+    },
+    "5869": {
+        "name": "puffer-unifi",
+        "tvl": true,
+        "yields": false
+    },
+    "5870": {
+        "name": "beratrax",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -34536,6 +34556,12 @@
         "tvl": true,
         "governance": true,
         "liquidity": true
+    },
+    "parent#puffer-finance": {
+        "name": "puffer-finance",
+        "yields": false,
+        "tvl": true,
+        "governance": true
     },
     "parent#pulsex": {
         "name": "pulsex",
