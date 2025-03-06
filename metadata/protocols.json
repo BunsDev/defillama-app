@@ -1577,8 +1577,7 @@
         "name": "armor",
         "tvl": false,
         "yields": false,
-        "governance": true,
-        "liquidity": true
+        "governance": true
     },
     "354": {
         "name": "insurace",
@@ -15517,7 +15516,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2854": {
@@ -26578,7 +26577,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4862": {
@@ -31619,7 +31618,9 @@
         "name": "beradrome",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "fees": true,
+        "revenue": true
     },
     "5799": {
         "name": "liquidity-house",
