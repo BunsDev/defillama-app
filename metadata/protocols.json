@@ -1403,8 +1403,7 @@
     "328": {
         "name": "steakbank-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "329": {
         "name": "sovryn-dex",
@@ -5612,7 +5611,8 @@
     "1075": {
         "name": "spiritdao",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1076": {
         "name": "arbicheems",
