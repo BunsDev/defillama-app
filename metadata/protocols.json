@@ -1581,6 +1581,7 @@
         "name": "gamma",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "hacks": true,
         "fees": true,
         "revenue": true
@@ -6567,6 +6568,7 @@
         "name": "hakuswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "1255": {
@@ -11462,7 +11464,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -26969,7 +26970,6 @@
         "name": "arrow-markets",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "raises": true,
         "options": true
     },
@@ -34490,7 +34490,6 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
