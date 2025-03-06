@@ -18682,7 +18682,8 @@
     "3424": {
         "name": "raccoon-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3425": {
         "name": "scallop-pool",
