@@ -2410,7 +2410,8 @@
     "487": {
         "name": "sunny",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "488": {
         "name": "ubeswap-v2",
@@ -11762,8 +11763,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -35735,7 +35735,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
