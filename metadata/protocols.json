@@ -8743,7 +8743,8 @@
     "1654": {
         "name": "scrub",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1655": {
         "name": "versa-finance",
@@ -9155,8 +9156,7 @@
     "1729": {
         "name": "blockng",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1730": {
         "name": "goblins-cash-reserve",
@@ -9547,6 +9547,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11149,7 +11150,8 @@
     "2089": {
         "name": "roaring-lion",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2090": {
         "name": "aequinox",
@@ -13632,7 +13634,8 @@
     "2536": {
         "name": "lion-commerce",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2537": {
         "name": "flux-finance",
@@ -14657,7 +14660,8 @@
     "2716": {
         "name": "kokomo-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2717": {
         "name": "dexioprotocol",
@@ -14849,7 +14853,8 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -15665,6 +15670,7 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -34722,7 +34728,8 @@
     "parent#scrub-money": {
         "name": "scrub-money",
         "yields": true,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#secta-finance": {
         "name": "secta-finance",
