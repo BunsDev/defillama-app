@@ -215,6 +215,7 @@
         "derivatives": true,
         "aggregators": true,
         "options": true,
+        "inflows": true,
         "gecko_id": "berachain-bera",
         "tokenSymbol": "BERA"
     },
