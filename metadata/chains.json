@@ -820,6 +820,7 @@
     },
     "form-network": {
         "name": "Form Network",
+        "fees": true,
         "dexs": true,
         "chainAssets": true
     },
