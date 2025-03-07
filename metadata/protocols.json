@@ -31918,8 +31918,31 @@
         "tvl": true,
         "yields": false
     },
+    "5871": {
+        "name": "looped-hype",
+        "tvl": true,
+        "yields": false
+    },
     "5872": {
+        "name": "matrixai",
+        "tvl": true,
+        "yields": false,
         "liquidity": true
+    },
+    "5873": {
+        "name": "unihedge",
+        "tvl": true,
+        "yields": false
+    },
+    "5874": {
+        "name": "usury-finance",
+        "tvl": true,
+        "yields": false
+    },
+    "5875": {
+        "name": "tea-fi",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
