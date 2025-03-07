@@ -3753,7 +3753,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -7334,8 +7334,7 @@
     "1389": {
         "name": "polyquail",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1390": {
         "name": "projectx",
@@ -16155,8 +16154,7 @@
     "2963": {
         "name": "memedex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2964": {
         "name": "cozy-v2",
@@ -30001,7 +29999,10 @@
     "5480": {
         "name": "hyperfluid",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5481": {
         "name": "anemoy-capital",
