@@ -82,6 +82,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "bridge-aggregators": true,
         "chainAssets": true,
         "gecko_id": "aptos",
         "tokenSymbol": "APT"
@@ -819,7 +820,6 @@
     },
     "form-network": {
         "name": "Form Network",
-        "fees": true,
         "dexs": true,
         "chainAssets": true
     },
@@ -1105,6 +1105,7 @@
         "fees": true,
         "dexs": true,
         "derivatives": true,
+        "aggregators": true,
         "bridge-aggregators": true
     },
     "kardia": {
