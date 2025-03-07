@@ -1653,6 +1653,7 @@
         "name": "pinkswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "368": {
@@ -4786,7 +4787,6 @@
         "name": "leonicornswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "924": {
@@ -17621,7 +17621,8 @@
     "3244": {
         "name": "one-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3245": {
         "name": "venus-isolated-pools",
