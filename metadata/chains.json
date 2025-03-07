@@ -2021,8 +2021,7 @@
         "chainAssets": true
     },
     "sx-network": {
-        "name": "SX Network",
-        "dexs": true
+        "name": "SX Network"
     },
     "sx-rollup": {
         "name": "SX Rollup",
