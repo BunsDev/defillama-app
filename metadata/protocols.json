@@ -2387,7 +2387,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -4626,8 +4627,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "aggregator": true,
-        "emissions": true
+        "aggregator": true
     },
     "895": {
         "name": "blackpool",
@@ -6568,6 +6568,7 @@
         "name": "hakuswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "1255": {
@@ -11463,7 +11464,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11764,8 +11764,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -13643,7 +13642,8 @@
         "name": "flux-finance",
         "tvl": true,
         "yields": true,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2538": {
         "name": "parcl-v2",
@@ -17059,8 +17059,7 @@
         "tvl": false,
         "yields": false,
         "liquidity": true,
-        "nfts": true,
-        "emissions": true
+        "nfts": true
     },
     "3145": {
         "name": "pinjam-labs",
@@ -31381,6 +31380,7 @@
         "name": "infrared-finance",
         "tvl": true,
         "yields": false,
+        "raises": true,
         "fees": true,
         "revenue": true
     },
@@ -34486,7 +34486,6 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
@@ -35731,7 +35730,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
