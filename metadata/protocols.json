@@ -6783,8 +6783,7 @@
         "name": "burgerswap",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "1296": {
         "name": "zipswap",
@@ -14668,8 +14667,7 @@
     "2716": {
         "name": "kokomo-finance",
         "tvl": false,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2717": {
         "name": "dexioprotocol",
@@ -32335,8 +32333,7 @@
     "parent#arbswap": {
         "name": "arbswap",
         "yields": false,
-        "tvl": true,
-        "activeUsers": true
+        "tvl": true
     },
     "parent#arcadia-finance": {
         "name": "arcadia-finance",
