@@ -1363,7 +1363,8 @@
     "322": {
         "name": "yogi-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "323": {
         "name": "fluity",
@@ -3609,7 +3610,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -4186,8 +4188,7 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "816": {
         "name": "xsigma",
@@ -14008,7 +14009,6 @@
         "name": "alienfi",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "2604": {
@@ -32691,9 +32691,6 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
-    },
-    "parent#canary": {
-        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
