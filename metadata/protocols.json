@@ -31908,7 +31908,7 @@
     },
     "5846": {
         "name": "hedgey",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true
