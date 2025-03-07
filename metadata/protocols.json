@@ -4750,7 +4750,6 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -4792,7 +4791,8 @@
     "924": {
         "name": "butterswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "925": {
         "name": "oddz",
@@ -10380,7 +10380,8 @@
     "1946": {
         "name": "vacus-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1947": {
         "name": "revert-compoundor",
@@ -12760,7 +12761,6 @@
         "name": "tender-finance",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "hacks": true,
         "activeUsers": true
     },
@@ -15092,7 +15092,7 @@
     "2795": {
         "name": "thalaswap",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "hacks": true,
         "fees": true,
         "revenue": true,
@@ -18453,8 +18453,7 @@
     "3380": {
         "name": "baso-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "3381": {
         "name": "thegoblins",
@@ -23854,7 +23853,7 @@
     "4367": {
         "name": "echelon-market",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "raises": true,
         "fees": true,
         "revenue": true
@@ -29073,7 +29072,7 @@
     "5329": {
         "name": "thalaswap-v2",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -35280,7 +35279,7 @@
     },
     "parent#thala-labs": {
         "name": "thala",
-        "yields": false,
+        "yields": true,
         "tvl": true,
         "fees": true,
         "revenue": true,
