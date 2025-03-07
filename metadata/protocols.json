@@ -10888,8 +10888,7 @@
     "2041": {
         "name": "dawn-star-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2042": {
         "name": "cantoswap",
@@ -26484,7 +26483,8 @@
     "4865": {
         "name": "landshare",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4866": {
         "name": "vnx",
@@ -31875,6 +31875,7 @@
         "name": "flarebank",
         "tvl": true,
         "yields": false,
+        "treasury": true,
         "liquidity": true
     },
     "5866": {
