@@ -200,7 +200,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "liquidity": true,
         "dexs": true
     },
     "134": {
@@ -6569,7 +6568,6 @@
         "name": "hakuswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "1255": {
@@ -11465,6 +11463,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11765,7 +11764,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -24630,7 +24630,8 @@
     "4514": {
         "name": "snail-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4515": {
         "name": "glowswap",
@@ -34485,6 +34486,7 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
@@ -35729,6 +35731,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
