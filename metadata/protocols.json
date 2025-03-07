@@ -6424,8 +6424,7 @@
     "1216": {
         "name": "farm-hero",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1217": {
         "name": "parallel-polkadot-crowdloan",
