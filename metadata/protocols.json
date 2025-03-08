@@ -32157,6 +32157,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#20947": {
+        "revenue": true
+    },
     "chain#21516": {
         "fees": true,
         "revenue": true
@@ -32255,6 +32258,9 @@
     },
     "chain#81457": {
         "fees": true,
+        "revenue": true
+    },
+    "chain#820": {
         "revenue": true
     },
     "chain#8453": {
