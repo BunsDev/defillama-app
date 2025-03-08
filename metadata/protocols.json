@@ -14514,7 +14514,8 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2688": {
         "name": "palma-swap",
@@ -18773,8 +18774,7 @@
     "3438": {
         "name": "baklava-space",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3439": {
         "name": "hydration",
@@ -31942,6 +31942,26 @@
         "tvl": true,
         "yields": false
     },
+    "5876": {
+        "name": "kittenswap",
+        "tvl": true,
+        "yields": false
+    },
+    "5877": {
+        "name": "fluxtra",
+        "tvl": true,
+        "yields": false
+    },
+    "5878": {
+        "name": "axion-finance-v2",
+        "tvl": true,
+        "yields": false
+    },
+    "5879": {
+        "name": "axion-finance-v3",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32410,6 +32430,11 @@
     },
     "parent#avely-finance": {
         "name": "avely-finance",
+        "yields": false,
+        "tvl": true
+    },
+    "parent#axion-finance": {
+        "name": "axion-finance",
         "yields": false,
         "tvl": true
     },
