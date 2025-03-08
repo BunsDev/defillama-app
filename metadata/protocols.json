@@ -29441,7 +29441,7 @@
         "yields": false
     },
     "5377": {
-        "name": "blazing-bot",
+        "name": "blazingapp",
         "tvl": false,
         "yields": false,
         "fees": true,
@@ -32012,7 +32012,7 @@
         "liquidity": true
     },
     "5866": {
-        "name": "apollo-zbtc",
+        "name": "zeus-network",
         "tvl": true,
         "yields": false
     },
@@ -32075,6 +32075,11 @@
     "5879": {
         "name": "axion-finance-v3",
         "tvl": true,
+        "yields": false
+    },
+    "5880": {
+        "name": "ooga-booga",
+        "tvl": false,
         "yields": false
     },
     "chain#1": {
