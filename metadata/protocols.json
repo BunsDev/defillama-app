@@ -4725,8 +4725,7 @@
     "911": {
         "name": "sumswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "912": {
         "name": "flrloans",
@@ -7525,8 +7524,7 @@
         "tvl": true,
         "yields": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "1434": {
         "name": "newspace-finance",
@@ -10696,7 +10694,7 @@
     },
     "2005": {
         "name": "exinpool",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2006": {
@@ -32765,8 +32763,7 @@
         "forks": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#charm-finance": {
         "name": "charm-finance",
