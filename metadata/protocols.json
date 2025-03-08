@@ -11758,8 +11758,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -19303,7 +19302,8 @@
     "3531": {
         "name": "mozaic",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3532": {
         "name": "manga-fi",
