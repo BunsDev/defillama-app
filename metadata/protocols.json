@@ -9892,7 +9892,8 @@
     "1860": {
         "name": "eris-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "forks": true
     },
     "1861": {
         "name": "cgo-finance",
