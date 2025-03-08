@@ -2870,8 +2870,7 @@
         "name": "macaronswap",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "567": {
         "name": "newland",
@@ -3604,8 +3603,7 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "693": {
         "name": "superfluid",
@@ -9542,7 +9540,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -12834,7 +12831,6 @@
         "tvl": true,
         "yields": false,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -13373,7 +13369,8 @@
     "2496": {
         "name": "fundex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2497": {
         "name": "dinosaur.finance",
@@ -15275,8 +15272,7 @@
     "2830": {
         "name": "brokkr-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2831": {
         "name": "cortexdao",
@@ -19080,8 +19076,7 @@
     "3495": {
         "name": "broswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3496": {
         "name": "esper-finance",
