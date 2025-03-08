@@ -1263,7 +1263,7 @@
     "306": {
         "name": "quickswap-dex",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true,
         "fees": true,
         "revenue": true,
@@ -34637,7 +34637,7 @@
     },
     "parent#quickswap": {
         "name": "quickswap",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "governance": true,
         "liquidity": true,
