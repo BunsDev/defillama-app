@@ -11905,7 +11905,7 @@
     "2218": {
         "name": "animeswap",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "2219": {
         "name": "vendor-v1",
