@@ -2836,7 +2836,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -11727,8 +11726,7 @@
         "name": "sushi-bentobox",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2191": {
         "name": "omnidex-lend",
@@ -13519,8 +13517,7 @@
     "2523": {
         "name": "casinocronos",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2524": {
         "name": "friends-with-benefits",
