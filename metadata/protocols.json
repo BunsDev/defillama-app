@@ -10986,7 +10986,6 @@
         "name": "junoswap",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18798,8 +18797,7 @@
     "3427": {
         "name": "balloonswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3428": {
         "name": "intswap",
