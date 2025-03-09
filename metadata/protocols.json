@@ -648,8 +648,7 @@
         "name": "goose-finance",
         "tvl": true,
         "yields": true,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "206": {
         "name": "xtoken",
@@ -3715,7 +3714,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "dexs": true
     },
@@ -4300,8 +4299,7 @@
     "837": {
         "name": "arenaswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "838": {
         "name": "component",
@@ -25087,7 +25085,8 @@
     "4605": {
         "name": "whales-market",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4606": {
         "name": "yieldnest",
@@ -27310,8 +27309,7 @@
         "name": "genesis-dao",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "5021": {
         "name": "velvet-v3",
