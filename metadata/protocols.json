@@ -7613,7 +7613,8 @@
         "name": "solidex",
         "tvl": true,
         "yields": false,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "1451": {
         "raises": true
@@ -16701,7 +16702,8 @@
         "name": "olympulsex",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "3083": {
         "name": "penpie",
