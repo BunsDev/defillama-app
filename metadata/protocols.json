@@ -2764,8 +2764,7 @@
     "548": {
         "name": "dfs-network",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "549": {
         "name": "vigor",
@@ -9000,7 +8999,8 @@
     "1703": {
         "name": "yumiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1704": {
         "name": "double-club",
