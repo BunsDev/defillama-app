@@ -3684,7 +3684,6 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -7951,7 +7950,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1516": {
@@ -11211,7 +11210,6 @@
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "2103": {
