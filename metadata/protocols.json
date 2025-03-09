@@ -9945,11 +9945,6 @@
         "tvl": false,
         "yields": false
     },
-    "1863": {
-        "name": "ceres-demeter",
-        "tvl": true,
-        "yields": false
-    },
     "1864": {
         "name": "team-finance",
         "tvl": true,
