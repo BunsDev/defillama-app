@@ -3848,8 +3848,7 @@
     "737": {
         "name": "dino.exchange",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "738": {
         "name": "defi-halal",
@@ -5056,8 +5055,7 @@
     "974": {
         "name": "taichi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "975": {
         "name": "omicron",
@@ -5079,8 +5077,7 @@
     "978": {
         "name": "chickenswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "979": {
         "name": "partyswap",
@@ -13365,8 +13362,7 @@
     "2497": {
         "name": "dinosaur.finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2498": {
         "name": "umee",
