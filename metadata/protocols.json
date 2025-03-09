@@ -1264,7 +1264,6 @@
         "name": "quickswap-dex",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -1373,6 +1372,7 @@
         "name": "unicly",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "325": {
@@ -1431,8 +1431,7 @@
         "name": "o3-swap",
         "tvl": true,
         "yields": true,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "334": {
         "name": "mdex",
@@ -1798,8 +1797,7 @@
     "389": {
         "name": "adamant-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "390": {
         "name": "qilin",
@@ -2250,8 +2248,7 @@
         "name": "augury-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "463": {
         "name": "gro",
@@ -2576,8 +2573,7 @@
     "514": {
         "name": "orion-money",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "515": {
         "name": "wrap-protocol",
@@ -3195,6 +3191,7 @@
         "yields": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -3760,8 +3757,7 @@
     "720": {
         "name": "nasdex",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "721": {
         "name": "mycelium-perpetual-pools",
@@ -7192,8 +7188,7 @@
     "1374": {
         "name": "gensokishi",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1375": {
         "name": "animal-farm-v1",
@@ -7221,7 +7216,8 @@
         "name": "based-v1",
         "tvl": true,
         "yields": false,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "1380": {
         "name": "minimax",
@@ -7493,8 +7489,7 @@
     "1430": {
         "name": "kommunitas",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1431": {
         "name": "x2y2",
@@ -11645,8 +11640,7 @@
     "2173": {
         "name": "quickswap-lend",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2174": {
         "name": "dexfinance-bsc",
@@ -12027,7 +12021,6 @@
         "name": "quickswap-v3",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -14304,8 +14297,7 @@
     "2652": {
         "name": "oswap-token",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2653": {
         "name": "nf3-ape",
@@ -16124,7 +16116,6 @@
         "name": "quickperps",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -17999,7 +17990,6 @@
         "name": "retro",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18987,7 +18977,8 @@
     "3480": {
         "name": "based-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3481": {
         "name": "solidly-v3",
@@ -19699,6 +19690,7 @@
         "name": "basedmarkets",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -20441,7 +20433,6 @@
         "name": "quickswap-liquidity-hub",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "3744": {
@@ -26450,7 +26441,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
@@ -28273,7 +28264,6 @@
         "name": "quickswap-hydra",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32484,7 +32474,8 @@
     "parent#based-finance": {
         "name": "based-finance",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#baseswap": {
         "name": "baseswap",
@@ -34640,7 +34631,6 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true,
