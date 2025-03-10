@@ -317,7 +317,7 @@
     "151": {
         "name": "rhino.fi",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "governance": true
     },
     "152": {
@@ -2192,8 +2192,7 @@
     "454": {
         "name": "back-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "455": {
         "name": "zoocoin",
@@ -9145,8 +9144,7 @@
     "1731": {
         "name": "honkswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1732": {
         "name": "verse",
@@ -25595,7 +25593,7 @@
     "4708": {
         "name": "icpex",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "4709": {
         "name": "vesta-equity",
