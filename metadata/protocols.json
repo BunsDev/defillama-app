@@ -15979,6 +15979,7 @@
         "name": "holdstation-defutures",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -29913,6 +29914,7 @@
         "name": "holdstation-swap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -33500,6 +33502,7 @@
         "name": "holdstation",
         "yields": true,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
