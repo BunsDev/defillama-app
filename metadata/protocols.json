@@ -1719,8 +1719,7 @@
     "379": {
         "name": "cardstarter",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "380": {
         "name": "lendhub",
@@ -8862,8 +8861,7 @@
     "1679": {
         "name": "dot-dot-finance",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "1680": {
         "name": "orcus-finance",
@@ -24077,8 +24075,7 @@
     "4415": {
         "name": "dengendex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4416": {
         "name": "frogswap-farm",
