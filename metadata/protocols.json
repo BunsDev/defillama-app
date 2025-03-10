@@ -9381,8 +9381,7 @@
     "1773": {
         "name": "benddao-lending",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "1774": {
         "name": "blitz-labs",
@@ -11925,8 +11924,7 @@
     "2225": {
         "name": "atodex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2226": {
         "name": "wombex-finance",
@@ -13716,8 +13714,7 @@
     "2554": {
         "name": "benddao-ape-staking",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2555": {
         "name": "subzero+",
@@ -29158,7 +29155,6 @@
         "name": "adrena-protocol",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -32511,7 +32507,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
         "emissions": true
     },
     "parent#benqi": {
