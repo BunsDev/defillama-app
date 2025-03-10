@@ -13123,7 +13123,7 @@
     "2454": {
         "name": "geth",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "2456": {
         "name": "bunni",
