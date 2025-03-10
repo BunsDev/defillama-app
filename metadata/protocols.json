@@ -21452,7 +21452,8 @@
     "3922": {
         "name": "love.io",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3923": {
         "name": "derive-v2",
