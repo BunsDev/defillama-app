@@ -648,7 +648,8 @@
         "name": "goose-finance",
         "tvl": true,
         "yields": true,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "206": {
         "name": "xtoken",
@@ -8128,7 +8129,8 @@
     "1548": {
         "name": "chaotic-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1549": {
         "name": "babena",
@@ -10221,7 +10223,8 @@
     "1920": {
         "name": "ordernchaos",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1921": {
         "name": "dogeclaw",
@@ -32437,6 +32440,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#bank-of-cronos": {
