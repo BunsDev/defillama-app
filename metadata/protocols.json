@@ -802,8 +802,7 @@
         "name": "futureswap",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "229": {
         "name": "gnosis-protocol-v1",
