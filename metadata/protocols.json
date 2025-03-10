@@ -7594,8 +7594,7 @@
     "1448": {
         "name": "white-whale-vaults",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1449": {
         "name": "impactmarket",
@@ -17219,8 +17218,7 @@
     "3177": {
         "name": "white-whale-dex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3178": {
         "name": "pegasys-v3",
@@ -24579,7 +24577,7 @@
     },
     "4511": {
         "name": "pay-protocol",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4512": {
@@ -28015,12 +28013,14 @@
     "5147": {
         "name": "electroswap-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5148": {
         "name": "electroswap-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5149": {
         "name": "cygnus-clton",
@@ -33112,7 +33112,8 @@
     "parent#electroswap": {
         "name": "electroswap",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#elys-protocol": {
         "name": "elys-protocol",
@@ -35670,8 +35671,7 @@
     "parent#white-whale": {
         "name": "white-whale",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#wise-lending": {
         "name": "wise-lending",
