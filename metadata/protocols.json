@@ -6830,8 +6830,7 @@
     "1308": {
         "name": "frog-nation-farm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1309": {
         "name": "gaia-dao",
@@ -7092,8 +7091,7 @@
     "1358": {
         "name": "kassandra-dao",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1359": {
         "name": "capitaldex",
@@ -7941,7 +7939,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1516": {
@@ -11868,8 +11866,7 @@
     "2215": {
         "name": "frog-swap",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2216": {
         "name": "kekswap",
@@ -16785,8 +16782,7 @@
     "3099": {
         "name": "froggy-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3100": {
         "name": "coindrip",
