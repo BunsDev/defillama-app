@@ -5284,8 +5284,7 @@
     "1012": {
         "name": "pumpkin-dao",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1014": {
         "name": "tempodao",
@@ -23032,14 +23031,12 @@
     "4202": {
         "name": "cyberblast-v2",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4203": {
         "name": "cyberblast-v3",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4204": {
         "name": "rockswap",
@@ -33035,8 +33032,7 @@
     "parent#cyberblast": {
         "name": "cyberblast",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#cygnus-finance": {
         "name": "cygnus",
