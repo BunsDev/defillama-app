@@ -4206,8 +4206,7 @@
     "816": {
         "name": "xsigma",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "817": {
         "name": "cashcow-finance",
@@ -5855,8 +5854,7 @@
     "1113": {
         "name": "mama-dao",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1114": {
         "name": "piratedao",
@@ -30098,13 +30096,17 @@
         "name": "metropolis-amm",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5505": {
         "name": "metropolis-dlmm",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5506": {
         "name": "ethena-usdtb",
@@ -34265,7 +34267,9 @@
         "name": "metropolis-exchange",
         "yields": false,
         "tvl": true,
-        "fees": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "parent#mimo": {
         "name": "mimo",
