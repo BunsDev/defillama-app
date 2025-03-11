@@ -868,9 +868,6 @@
         "liquidity": true,
         "raises": true
     },
-    "240": {
-        "liquidity": true
-    },
     "241": {
         "name": "powerpool",
         "tvl": true,
@@ -1230,6 +1227,7 @@
         "tvl": false,
         "yields": false,
         "governance": true,
+        "liquidity": true,
         "raises": true
     },
     "301": {
@@ -2316,7 +2314,8 @@
     "473": {
         "name": "baguette",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "474": {
         "name": "canary",
@@ -9283,8 +9282,7 @@
     "1758": {
         "name": "toxicdeer-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1759": {
         "name": "spacefi-evmos",
@@ -26479,7 +26477,8 @@
     "4874": {
         "name": "re.al-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4875": {
         "name": "kernel-protocol",
