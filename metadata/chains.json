@@ -266,9 +266,6 @@
         "gecko_id": "bitindi-chain",
         "tokenSymbol": "BNI"
     },
-    "bitkub-chain": {
-        "name": "Bitkub Chain"
-    },
     "bitlayer": {
         "name": "Bitlayer",
         "fees": true,
@@ -1160,6 +1157,9 @@
         "chainAssets": true,
         "gecko_id": "kroma",
         "tokenSymbol": "KRO"
+    },
+    "kub": {
+        "name": "KUB"
     },
     "kujira": {
         "name": "Kujira",
