@@ -538,7 +538,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -1788,7 +1787,9 @@
     "saga": {
         "name": "Saga",
         "fees": true,
-        "dexs": true
+        "dexs": true,
+        "gecko_id": "saga-2",
+        "tokenSymbol": "SAGA"
     },
     "sanko": {
         "name": "Sanko",

@@ -1762,6 +1762,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -2832,6 +2833,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -4170,7 +4172,8 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "816": {
         "name": "xsigma",
@@ -8366,7 +8369,6 @@
         "name": "strips-finance",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "1593": {
@@ -10358,8 +10360,7 @@
     "1949": {
         "name": "civfund",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1950": {
         "name": "baryon-network",
@@ -14062,7 +14063,8 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2619": {
         "name": "metalx-dex",
