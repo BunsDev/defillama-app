@@ -9862,6 +9862,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "1860": {
@@ -31950,7 +31951,9 @@
     "5886": {
         "name": "tradewiz",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5887": {
         "name": "extended",
