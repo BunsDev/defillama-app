@@ -31964,6 +31964,11 @@
         "tvl": true,
         "yields": false
     },
+    "5888": {
+        "name": "magnify-cash",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
