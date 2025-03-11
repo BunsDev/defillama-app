@@ -4631,8 +4631,7 @@
     "897": {
         "name": "mesher",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "898": {
         "name": "beglobal-finance",
@@ -25419,7 +25418,7 @@
     "4676": {
         "name": "glyph",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "4677": {
         "name": "kalax",
