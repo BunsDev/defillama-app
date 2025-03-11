@@ -1375,8 +1375,7 @@
     "325": {
         "name": "mochiswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "326": {
         "name": "beefy",
@@ -5993,8 +5992,7 @@
     "1147": {
         "name": "emerald-swap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1148": {
         "name": "amogus-dao",
@@ -25437,8 +25435,7 @@
     "4679": {
         "name": "dragon-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4680": {
         "name": "iswap-tech",
