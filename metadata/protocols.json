@@ -8163,7 +8163,6 @@
         "name": "rhea-lend",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "1547": {
@@ -23887,8 +23886,7 @@
     "4362": {
         "name": "blastbrrr",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4363": {
         "name": "yield-wars",
