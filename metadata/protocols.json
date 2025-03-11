@@ -32063,6 +32063,11 @@
         "tvl": true,
         "yields": false
     },
+    "5886": {
+        "name": "tradewiz",
+        "tvl": false,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
