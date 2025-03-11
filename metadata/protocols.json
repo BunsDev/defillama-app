@@ -1199,7 +1199,8 @@
         "name": "lydia",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "294": {
         "name": "anchor",
@@ -6611,8 +6612,7 @@
     "1266": {
         "name": "fees.wtf",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1267": {
         "name": "the-open-dao-sos",
@@ -7429,7 +7429,8 @@
     "1422": {
         "name": "winkyverse",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1423": {
         "name": "bodh-finance",
@@ -8682,8 +8683,7 @@
     "1647": {
         "name": "waterfall-defi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1648": {
         "name": "cgx-finance",
@@ -10079,8 +10079,7 @@
     "1898": {
         "name": "waterfall-wtf",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1899": {
         "name": "taiga-karura",
@@ -13594,8 +13593,7 @@
         "name": "flux-finance",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2538": {
         "name": "parcl-v2",
@@ -18714,7 +18712,8 @@
     "3438": {
         "name": "baklava-space",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3439": {
         "name": "hydration",
@@ -35783,6 +35782,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
