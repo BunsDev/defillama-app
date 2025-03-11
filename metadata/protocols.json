@@ -64,7 +64,8 @@
         "raises": true,
         "fees": true,
         "revenue": true,
-        "perps": true
+        "perps": true,
+        "emissions": true
     },
     "116": {
         "name": "balancer-v1",
@@ -32063,6 +32064,11 @@
         "tvl": true,
         "yields": false
     },
+    "5885": {
+        "name": "meridian-amm",
+        "tvl": true,
+        "yields": false
+    },
     "5886": {
         "name": "tradewiz",
         "tvl": false,
@@ -35407,7 +35413,8 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "perps": true
+        "perps": true,
+        "emissions": true
     },
     "parent#synthswap": {
         "name": "synthswap",

@@ -1394,6 +1394,11 @@
         "bridge-aggregators": true,
         "chainAssets": true
     },
+    "movement": {
+        "name": "Movement",
+        "gecko_id": "movement",
+        "tokenSymbol": "MOVE"
+    },
     "multivac": {
         "name": "MultiVAC",
         "gecko_id": "multivac",
