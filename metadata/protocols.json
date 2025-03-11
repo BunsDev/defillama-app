@@ -10856,8 +10856,7 @@
     "2042": {
         "name": "cantoswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2043": {
         "name": "crescent-dex",
@@ -28058,7 +28057,8 @@
     "5158": {
         "name": "enosys-amm-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5159": {
         "name": "aqua-protocol",
@@ -30893,7 +30893,8 @@
         "name": "beets-dex-v3",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "dexs": true
     },
     "5681": {
         "name": "raccoonswap",
@@ -31865,8 +31866,7 @@
     "5872": {
         "name": "matrixai",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5873": {
         "name": "unihedge",
@@ -31881,7 +31881,8 @@
     "5875": {
         "name": "tea-fi",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5876": {
         "name": "kittenswap",
@@ -33135,7 +33136,8 @@
     "parent#enosys": {
         "name": "enosys",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "dexs": true
     },
     "parent#equalizer": {
         "name": "equalizer",
