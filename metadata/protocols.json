@@ -2820,8 +2820,7 @@
     "558": {
         "name": "magic-land",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "559": {
         "name": "dapp-account-dao",
@@ -3416,7 +3415,6 @@
         "name": "jetswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "660": {
@@ -11101,8 +11099,7 @@
     "2086": {
         "name": "rage-trade-v1-(deprecated)",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2087": {
         "name": "chee-finance",
@@ -11194,6 +11191,7 @@
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "2103": {
@@ -11430,6 +11428,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -15238,7 +15237,8 @@
     "2830": {
         "name": "brokkr-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2831": {
         "name": "cortexdao",
@@ -19043,7 +19043,8 @@
     "3495": {
         "name": "broswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3496": {
         "name": "esper-finance",
@@ -31946,7 +31947,10 @@
     "5885": {
         "name": "meridian-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5886": {
         "name": "tradewiz",
