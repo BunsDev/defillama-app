@@ -31952,6 +31952,11 @@
         "tvl": false,
         "yields": false
     },
+    "5887": {
+        "name": "extended",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
