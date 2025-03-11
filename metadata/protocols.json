@@ -5109,6 +5109,7 @@
         "name": "chickenswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true
     },
     "979": {
@@ -14815,7 +14816,7 @@
     "2736": {
         "name": "teller",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "raises": true
     },
     "2737": {
