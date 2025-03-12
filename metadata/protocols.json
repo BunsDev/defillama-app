@@ -10456,7 +10456,7 @@
     },
     "1967": {
         "name": "pembrock-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1968": {
@@ -21552,7 +21552,8 @@
     "3965": {
         "name": "dojoswap-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3966": {
         "name": "baptswap-v2",
@@ -22059,7 +22060,8 @@
     "4056": {
         "name": "dojoswap-lsd",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4057": {
         "name": "swapr-v3",
@@ -33056,7 +33058,8 @@
     "parent#dojoswap": {
         "name": "dojoswap",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#dopex": {
         "name": "stryke",
