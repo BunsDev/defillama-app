@@ -2013,8 +2013,7 @@
     "423": {
         "name": "deri-protocol",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "424": {
         "hacks": true
@@ -3811,8 +3810,7 @@
     "725": {
         "name": "bishares",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "726": {
         "name": "solo-top",
@@ -21109,8 +21107,7 @@
     "3857": {
         "name": "deri-v4",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3858": {
         "name": "amulet-v2",
@@ -33143,8 +33140,7 @@
         "name": "deri",
         "yields": false,
         "tvl": true,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "parent#desk": {
         "name": "desk",
