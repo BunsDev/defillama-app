@@ -2834,7 +2834,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -3878,7 +3877,6 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
         "hacks": true,
         "fees": true,
         "revenue": true
@@ -9108,7 +9106,8 @@
     "1724": {
         "name": "ampere",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1725": {
         "name": "pegasus-finance",
@@ -14063,8 +14062,7 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2619": {
         "name": "metalx-dex",
@@ -20843,6 +20841,7 @@
         "name": "amped-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
@@ -31719,7 +31718,7 @@
         "revenue": true
     },
     "5842": {
-        "name": "sir-trading",
+        "name": "sir",
         "tvl": true,
         "yields": false
     },
