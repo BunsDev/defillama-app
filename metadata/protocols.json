@@ -20054,6 +20054,7 @@
         "tvl": true,
         "yields": true,
         "raises": true,
+        "revenue": true,
         "perps": true
     },
     "3679": {
@@ -28595,11 +28596,6 @@
         "yields": false,
         "dexs": true
     },
-    "5253": {
-        "name": "lorenzo-stbtc",
-        "tvl": true,
-        "yields": false
-    },
     "5255": {
         "name": "bagful",
         "tvl": false,
@@ -32000,6 +31996,21 @@
     },
     "5892": {
         "name": "canopy",
+        "tvl": true,
+        "yields": false
+    },
+    "5893": {
+        "name": "moveposition",
+        "tvl": true,
+        "yields": false
+    },
+    "5894": {
+        "name": "wdjc",
+        "tvl": true,
+        "yields": false
+    },
+    "5895": {
+        "name": "puppyfun",
         "tvl": true,
         "yields": false
     },
