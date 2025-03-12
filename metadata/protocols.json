@@ -2318,7 +2318,8 @@
         "name": "baguette",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "474": {
         "name": "canary",
@@ -3592,7 +3593,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -6310,7 +6312,8 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "1208": {
         "name": "openleverage",
