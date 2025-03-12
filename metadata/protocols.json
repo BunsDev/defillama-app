@@ -19493,8 +19493,7 @@
     "3551": {
         "name": "tholgar",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3552": {
         "name": "mantaswap",
