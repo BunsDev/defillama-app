@@ -30488,14 +30488,16 @@
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5579": {
         "name": "swapx-algebra",
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5580": {
         "name": "latch",
@@ -35438,7 +35440,8 @@
         "yields": false,
         "tvl": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "parent#swell": {
         "name": "swell",
