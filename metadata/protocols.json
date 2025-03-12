@@ -15398,7 +15398,7 @@
     "2839": {
         "name": "interport-finance",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "treasury": true,
         "liquidity": true
     },
@@ -24210,7 +24210,8 @@
     "4417": {
         "name": "core-markets",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4418": {
         "name": "ithaca-protocol",
