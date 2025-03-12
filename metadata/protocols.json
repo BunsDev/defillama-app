@@ -2772,8 +2772,7 @@
     "550": {
         "name": "freeriver",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "551": {
         "name": "solarbeam",
@@ -6311,8 +6310,7 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "1208": {
         "name": "openleverage",
@@ -32784,9 +32782,6 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
-    },
-    "parent#canary": {
-        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
