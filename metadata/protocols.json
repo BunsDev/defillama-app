@@ -20093,7 +20093,7 @@
     "3663": {
         "name": "nolus-protocol",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true
     },
     "3664": {
