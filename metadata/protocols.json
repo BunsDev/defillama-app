@@ -1200,8 +1200,7 @@
         "name": "lydia",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "294": {
         "name": "anchor",
@@ -1624,7 +1623,8 @@
     "363": {
         "name": "xdollar",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "364": {
         "name": "volmex",
@@ -1869,6 +1869,7 @@
         "name": "aperocket",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "402": {
@@ -3595,8 +3596,7 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "693": {
         "name": "superfluid",
@@ -5459,7 +5459,8 @@
     "1051": {
         "name": "vortex-dao",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1052": {
         "name": "astroport-classic",
@@ -5995,7 +5996,8 @@
     "1147": {
         "name": "emerald-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1148": {
         "name": "amogus-dao",
@@ -6836,7 +6838,8 @@
     "1309": {
         "name": "gaia-dao",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1310": {
         "name": "zeroshift",
@@ -9294,7 +9297,8 @@
     "1759": {
         "name": "spacefi-evmos",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1760": {
         "name": "coti-treasury",
@@ -18695,7 +18699,8 @@
     "3434": {
         "name": "spacefi-zksync",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3435": {
         "name": "astrovault",
@@ -19760,7 +19765,8 @@
     "3626": {
         "name": "spacefi-scroll",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3627": {
         "name": "tomo",
@@ -22508,7 +22514,8 @@
     "4130": {
         "name": "blueprint",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4131": {
         "name": "harbor-market",
@@ -34988,6 +34995,7 @@
         "name": "spacefi",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "emissions": true
     },
     "parent#sparkdex": {
@@ -35832,7 +35840,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
