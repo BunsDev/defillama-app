@@ -9859,7 +9859,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "1860": {
@@ -32017,6 +32016,11 @@
     },
     "5895": {
         "name": "puppyfun",
+        "tvl": true,
+        "yields": false
+    },
+    "5896": {
+        "name": "superhedge",
         "tvl": true,
         "yields": false
     },
