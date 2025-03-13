@@ -656,7 +656,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -9201,7 +9200,8 @@
     "1731": {
         "name": "honkswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1732": {
         "name": "verse",
@@ -14827,7 +14827,7 @@
     "2736": {
         "name": "teller",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "raises": true
     },
     "2737": {
@@ -28639,9 +28639,10 @@
         "revenue": true
     },
     "5234": {
-        "name": "usdx-money",
+        "name": "stables-labs-usdx",
         "tvl": true,
-        "yields": true,
+        "yields": false,
+        "liquidity": true,
         "raises": true
     },
     "5235": {
