@@ -15387,7 +15387,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -23775,7 +23775,8 @@
     "4358": {
         "name": "dego-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4359": {
         "name": "rosy-stake",
