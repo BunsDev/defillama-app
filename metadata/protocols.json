@@ -3629,8 +3629,7 @@
     "697": {
         "name": "cook-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "699": {
         "name": "polly-finance",
@@ -11431,7 +11430,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
