@@ -6030,7 +6030,8 @@
     "1154": {
         "name": "socialswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1155": {
         "name": "sheepdex",
@@ -19861,7 +19862,7 @@
     "3643": {
         "name": "amphor",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "fees": true,
         "revenue": true
     },
@@ -32042,6 +32043,26 @@
         "tvl": true,
         "yields": false
     },
+    "5898": {
+        "name": "usdd",
+        "tvl": true,
+        "yields": false
+    },
+    "5899": {
+        "name": "bitbond-lockers",
+        "tvl": true,
+        "yields": false
+    },
+    "5900": {
+        "name": "bitbond-sales",
+        "tvl": true,
+        "yields": false
+    },
+    "5901": {
+        "name": "usdt0",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -35517,6 +35538,11 @@
         "yields": false,
         "tvl": true,
         "raises": true
+    },
+    "parent#token-tool": {
+        "name": "token-tool",
+        "yields": false,
+        "tvl": true
     },
     "parent#tokenlon": {
         "name": "tokenlon",
