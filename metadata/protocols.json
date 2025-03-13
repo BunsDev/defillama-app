@@ -2381,7 +2381,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -2684,7 +2685,8 @@
         "name": "teddy-cash",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "536": {
         "name": "larix",
@@ -4016,8 +4018,7 @@
     "785": {
         "name": "lootswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "786": {
         "name": "bagels-finance",
@@ -7404,7 +7405,8 @@
     "1416": {
         "name": "gemkeeper",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1417": {
         "name": "gemmine",
@@ -11226,7 +11228,8 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2109": {
         "name": "pyeswap",
@@ -13755,7 +13758,8 @@
     "2562": {
         "name": "defi-master",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2563": {
         "name": "lif3-trade",
@@ -18407,7 +18411,8 @@
     "3380": {
         "name": "baso-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "3381": {
         "name": "thegoblins",
@@ -18758,8 +18763,7 @@
         "name": "loot--dao",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "3444": {
         "name": "liquid-finance-protocol",
@@ -24584,7 +24588,7 @@
     },
     "4511": {
         "name": "pay-protocol",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4512": {
