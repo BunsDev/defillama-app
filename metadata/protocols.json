@@ -1977,7 +1977,8 @@
     "416": {
         "name": "westarter",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "417": {
         "name": "solyard",
@@ -7864,8 +7865,7 @@
         "name": "relaychain",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "1492": {
         "name": "aurigami",
@@ -14827,7 +14827,7 @@
     "2736": {
         "name": "teller",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "raises": true
     },
     "2737": {
@@ -22113,6 +22113,7 @@
         "name": "icdex",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "4041": {
@@ -23915,7 +23916,8 @@
     "4363": {
         "name": "yield-wars",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4364": {
         "name": "ixs",
