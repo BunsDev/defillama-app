@@ -1822,7 +1822,8 @@
         "name": "reaper-farm",
         "tvl": true,
         "yields": true,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "395": {
         "name": "waka-finance",
@@ -3414,6 +3415,7 @@
         "name": "jetswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "660": {
@@ -11713,7 +11715,8 @@
         "name": "sushi-bentobox",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2191": {
         "name": "omnidex-lend",
@@ -16214,7 +16217,8 @@
     "2999": {
         "name": "ethos-reserve",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3000": {
         "name": "flashliquidity",
@@ -18415,12 +18419,14 @@
         "name": "throne-v3",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "3383": {
         "name": "throne-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3384": {
         "name": "pwn",
@@ -34408,7 +34414,8 @@
     "parent#oath-foundation": {
         "name": "cod3x",
         "yields": true,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#ocelex": {
         "name": "ocelex",
@@ -35472,6 +35479,7 @@
         "name": "throne",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true
     },
     "parent#thruster": {
