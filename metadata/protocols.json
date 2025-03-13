@@ -2742,6 +2742,7 @@
         "name": "soulswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "545": {
@@ -4305,7 +4306,8 @@
     "839": {
         "name": "hades-swap",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "840": {
         "name": "bunnypark",
@@ -4956,8 +4958,7 @@
     "957": {
         "name": "flame-defi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "958": {
         "name": "ester-finance",
@@ -16845,7 +16846,8 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true
+        "activeUsers": true,
+        "emissions": true
     },
     "3108": {
         "name": "pawnfi-ape-staking",
@@ -16903,7 +16905,6 @@
         "name": "pearl-v1",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -25407,7 +25408,6 @@
         "name": "pearl-v2",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "dexs": true
     },
     "4669": {
@@ -28925,7 +28925,6 @@
         "name": "pearl-v1.5",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "5309": {
@@ -32063,6 +32062,12 @@
         "tvl": true,
         "yields": false
     },
+    "5902": {
+        "name": "stout",
+        "tvl": true,
+        "yields": false,
+        "treasury": true
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -34606,7 +34611,6 @@
         "name": "pearlfi",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
