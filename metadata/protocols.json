@@ -11184,8 +11184,7 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2102": {
         "name": "titano-swych",
@@ -13506,7 +13505,8 @@
     "2523": {
         "name": "casinocronos",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2524": {
         "name": "friends-with-benefits",
@@ -13535,6 +13535,7 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -22617,8 +22618,7 @@
     "4147": {
         "name": "0xscans",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4148": {
         "name": "meteora-dlmm",
@@ -23560,6 +23560,7 @@
         "name": "myx-finance",
         "tvl": true,
         "yields": false,
+        "raises": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -23992,7 +23993,8 @@
     "4400": {
         "name": "vest-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "raises": true
     },
     "4401": {
         "name": "zethr",
@@ -27873,6 +27875,7 @@
         "name": "mango-markets-v4-amm",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "5123": {
@@ -34960,6 +34963,7 @@
         "name": "smbswap",
         "yields": false,
         "tvl": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
