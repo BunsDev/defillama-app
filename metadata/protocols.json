@@ -10352,8 +10352,7 @@
     "1946": {
         "name": "vacus-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1947": {
         "name": "revert-compoundor",
