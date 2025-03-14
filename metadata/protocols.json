@@ -12900,6 +12900,7 @@
         "liquidity": true,
         "raises": true,
         "activeUsers": true,
+        "fees": true,
         "revenue": true
     },
     "2398": {
@@ -25385,8 +25386,7 @@
     "4641": {
         "name": "altlayer",
         "tvl": false,
-        "yields": false,
-        "emissions": true
+        "yields": false
     },
     "4642": {
         "name": "zeno-exchange",
@@ -28641,7 +28641,7 @@
     "5234": {
         "name": "stables-labs-usdx",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true,
         "raises": true
     },
@@ -32183,6 +32183,9 @@
         "name": "stout",
         "tvl": true,
         "yields": false,
+        "treasury": true
+    },
+    "5903": {
         "treasury": true
     },
     "chain#1": {
