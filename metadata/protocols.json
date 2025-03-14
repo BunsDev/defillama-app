@@ -6009,7 +6009,8 @@
     "1142": {
         "name": "mm-optimizer",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1143": {
         "name": "hotpot-finance",
@@ -6269,7 +6270,8 @@
     "1193": {
         "name": "obswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1194": {
         "name": "sperax-usd",
@@ -10720,7 +10722,8 @@
     "2004": {
         "name": "mm-optimizer-polygon",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2005": {
         "name": "exinpool",
@@ -12302,6 +12305,7 @@
         "name": "cetus-amm",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "raises": true,
         "fees": true,
         "revenue": true,
@@ -16855,6 +16859,7 @@
         "name": "miaswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "3091": {
@@ -27080,6 +27085,7 @@
         "name": "cetus-aggregator",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "aggregator": true
     },
     "4959": {
@@ -32186,6 +32192,9 @@
         "treasury": true
     },
     "5903": {
+        "name": "prosper",
+        "tvl": true,
+        "yields": false,
         "treasury": true
     },
     "chain#1": {
@@ -32996,6 +33005,7 @@
         "name": "cetus",
         "yields": true,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
