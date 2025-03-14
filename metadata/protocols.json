@@ -1361,8 +1361,7 @@
     "322": {
         "name": "yogi-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "323": {
         "name": "fluity",
@@ -11234,7 +11233,8 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2109": {
         "name": "pyeswap",
@@ -11580,8 +11580,7 @@
     "2166": {
         "name": "lfgswap-ethereumpow",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2167": {
         "name": "dao-swap",
@@ -11698,7 +11697,8 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2187": {
         "name": "dolomite",
@@ -14264,8 +14264,7 @@
     "2647": {
         "name": "lfgswap-core",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2648": {
         "name": "archerswap",
@@ -14842,7 +14841,6 @@
         "name": "lfgswap-arbitrum",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true
     },
     "2752": {
@@ -18603,8 +18601,7 @@
     "3412": {
         "name": "denet-file-token",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3413": {
         "name": "fourdex",
@@ -22047,7 +22044,8 @@
     "4048": {
         "name": "circlepacific",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4049": {
         "name": "zerion-wallet",
@@ -30822,7 +30820,8 @@
     "5658": {
         "name": "moonlander",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5659": {
         "name": "treble",
@@ -33990,8 +33989,7 @@
     "parent#lfgswap": {
         "name": "lfgswap",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#lif3.com": {
         "name": "lif3.com",
