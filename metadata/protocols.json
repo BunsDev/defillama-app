@@ -3644,8 +3644,7 @@
     "701": {
         "name": "behodler",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "702": {
         "name": "coffin-finance",
@@ -5284,7 +5283,8 @@
         "name": "opendao",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "1020": {
         "name": "arkadiko",
@@ -7122,7 +7122,8 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1364": {
         "name": "narwhalswap",
@@ -9923,7 +9924,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
@@ -12442,7 +12444,8 @@
         "name": "swapfish",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12739,7 +12742,8 @@
         "name": "oreoswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2385": {
         "name": "exactly",
@@ -20991,8 +20995,7 @@
     "3856": {
         "name": "peerme",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3857": {
         "name": "deri-v4",
