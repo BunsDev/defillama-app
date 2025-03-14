@@ -2919,7 +2919,7 @@
         "yields": false
     },
     "576": {
-        "name": "unore",
+        "name": "lunos",
         "tvl": true,
         "yields": false,
         "treasury": true,
@@ -11698,8 +11698,7 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2187": {
         "name": "dolomite",
@@ -14611,7 +14610,8 @@
         "name": "void",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "2712": {
         "name": "prepo",
@@ -18226,7 +18226,8 @@
     "3346": {
         "name": "cookiebase-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3347": {
         "name": "meridian-finance",
@@ -18478,7 +18479,8 @@
     "3390": {
         "name": "cookiebase-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3391": {
         "name": "liquid-collective",
@@ -32092,6 +32094,11 @@
         "tvl": true,
         "yields": false
     },
+    "5906": {
+        "name": "yuzu-finance",
+        "tvl": true,
+        "yields": false
+    },
     "5907": {
         "name": "defituna",
         "tvl": true,
@@ -33002,7 +33009,8 @@
     "parent#cookiebase": {
         "name": "cookiebase",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#covo-finance": {
         "name": "covo-finance",
