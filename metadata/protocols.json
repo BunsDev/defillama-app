@@ -240,7 +240,8 @@
     "139": {
         "name": "snowswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "140": {
         "name": "kava-lend",
@@ -2650,7 +2651,8 @@
     "529": {
         "name": "shadecash",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "530": {
         "name": "avaware",
@@ -11197,6 +11199,7 @@
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "2103": {
@@ -12140,7 +12143,8 @@
     "2263": {
         "name": "snowflake-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2264": {
         "name": "orderly-perps",
@@ -32082,6 +32086,16 @@
         "tvl": false,
         "yields": false,
         "emissions": true
+    },
+    "5905": {
+        "name": "multipli.fi",
+        "tvl": true,
+        "yields": false
+    },
+    "5907": {
+        "name": "defituna",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
