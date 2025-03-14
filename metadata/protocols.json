@@ -11510,8 +11510,7 @@
     "2144": {
         "name": "darkswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2145": {
         "name": "xswap-v2",
@@ -12900,7 +12899,8 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true
+        "activeUsers": true,
+        "revenue": true
     },
     "2398": {
         "name": "opyn-convexity",
