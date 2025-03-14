@@ -6908,7 +6908,8 @@
     "1323": {
         "name": "poopsicle",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1324": {
         "name": "furylabs-finance",
@@ -13818,7 +13819,8 @@
     "2572": {
         "name": "nucleon",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "liquidity": true
     },
     "2573": {
         "name": "quantumx-network",
@@ -13845,7 +13847,8 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2578": {
         "name": "beamer-bridge",
@@ -28089,8 +28092,7 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "5158": {
         "name": "enosys-amm-v3",

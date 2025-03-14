@@ -176,7 +176,6 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
-        "aggregator-derivatives": true,
         "bridge-aggregators": true,
         "inflows": true,
         "chainAssets": true,
@@ -253,6 +252,7 @@
         "fees": true,
         "dexs": true,
         "derivatives": true,
+        "aggregators": true,
         "gecko_id": "bitcoin-cash",
         "tokenSymbol": "BCH"
     },
@@ -352,7 +352,6 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
-        "aggregator-derivatives": true,
         "bridge-aggregators": true,
         "inflows": true,
         "chainAssets": true
@@ -611,6 +610,7 @@
     "dogechain": {
         "name": "Dogechain",
         "fees": true,
+        "aggregators": true,
         "inflows": true,
         "gecko_id": "dogechain",
         "tokenSymbol": "DG"
@@ -982,8 +982,6 @@
     },
     "hydra": {
         "name": "Hydra",
-        "fees": true,
-        "dexs": true,
         "gecko_id": "hydra",
         "tokenSymbol": "HYDRA"
     },
@@ -1196,8 +1194,7 @@
     "lightlink": {
         "name": "LightLink",
         "fees": true,
-        "dexs": true,
-        "derivatives": true
+        "dexs": true
     },
     "linea": {
         "name": "Linea",
@@ -1220,6 +1217,7 @@
         "name": "Litecoin",
         "activeUsers": true,
         "fees": true,
+        "aggregators": true,
         "bridge-aggregators": true,
         "gecko_id": "litecoin",
         "tokenSymbol": "LTC"
