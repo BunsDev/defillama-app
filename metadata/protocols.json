@@ -2320,8 +2320,7 @@
         "name": "baguette",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "474": {
         "name": "canary",
@@ -2605,7 +2604,8 @@
     "521": {
         "name": "pizza",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "522": {
         "name": "volta-club",
@@ -2672,6 +2672,7 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
+        "liquidity": true,
         "raises": true
     },
     "534": {
@@ -11197,7 +11198,6 @@
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "2103": {
@@ -15570,7 +15570,6 @@
         "name": "rabbitx",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "perps": true
     },
     "2887": {
@@ -34797,7 +34796,6 @@
         "name": "rabbitx-fusion",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "perps": true
     },
     "parent#radiant": {
@@ -35011,7 +35009,6 @@
         "name": "smbswap",
         "yields": false,
         "tvl": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
