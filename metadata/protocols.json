@@ -32198,6 +32198,12 @@
         "yields": false,
         "treasury": true
     },
+    "5904": {
+        "name": "legacy-network",
+        "tvl": false,
+        "yields": false,
+        "emissions": true
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
