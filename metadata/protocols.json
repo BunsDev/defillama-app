@@ -11233,8 +11233,7 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2109": {
         "name": "pyeswap",
@@ -11697,8 +11696,7 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2187": {
         "name": "dolomite",
@@ -14782,7 +14780,8 @@
     "2741": {
         "name": "tegisto",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2742": {
         "name": "fluidity-money",
@@ -21065,7 +21064,9 @@
     "3871": {
         "name": "wildcat-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "3872": {
         "name": "bear-vs-bull",
@@ -26304,7 +26305,9 @@
     "4834": {
         "name": "napier-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "4835": {
         "name": "stip-flip",
@@ -31564,8 +31567,8 @@
         "revenue": true
     },
     "5807": {
-        "name": "goplus-locker",
-        "tvl": false,
+        "name": "goplus-locker-v2",
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true
@@ -32096,7 +32099,10 @@
     "5906": {
         "name": "yuzu-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5907": {
         "name": "defituna",
@@ -33577,6 +33583,7 @@
     "parent#goplus-security": {
         "name": "goplus-security",
         "yields": false,
+        "tvl": true,
         "fees": true,
         "revenue": true
     },
