@@ -25391,7 +25391,8 @@
     "4641": {
         "name": "altlayer",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "emissions": true
     },
     "4642": {
         "name": "zeno-exchange",
