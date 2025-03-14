@@ -17584,8 +17584,7 @@
     "3244": {
         "name": "one-dex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3245": {
         "name": "venus-isolated-pools",
