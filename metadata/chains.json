@@ -535,7 +535,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -1609,7 +1608,6 @@
     },
     "persistence-one": {
         "name": "Persistence One",
-        "fees": true,
         "dexs": true
     },
     "phantasma": {
@@ -1771,7 +1769,6 @@
     },
     "ronin": {
         "name": "Ronin",
-        "fees": true,
         "dexs": true,
         "chainAssets": true
     },
@@ -1779,6 +1776,7 @@
         "name": "Rootstock",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "inflows": true,
         "chainAssets": true
     },
