@@ -2768,7 +2768,8 @@
     "548": {
         "name": "dfs-network",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "549": {
         "name": "vigor",
@@ -7038,7 +7039,8 @@
     "1349": {
         "name": "degen-haus",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1350": {
         "name": "treasure",
@@ -26474,8 +26476,7 @@
     "4865": {
         "name": "landshare",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4866": {
         "name": "vnx",
