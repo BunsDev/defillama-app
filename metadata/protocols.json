@@ -5283,8 +5283,7 @@
         "name": "opendao",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "1020": {
         "name": "arkadiko",
@@ -7124,8 +7123,7 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1364": {
         "name": "narwhalswap",
@@ -7711,8 +7709,7 @@
     "1469": {
         "name": "btngroup",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1470": {
         "name": "nereus-finance",
@@ -15415,7 +15412,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2858": {
@@ -15485,7 +15482,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
