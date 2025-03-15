@@ -7045,8 +7045,7 @@
     "1349": {
         "name": "degen-haus",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1350": {
         "name": "treasure",
@@ -9263,8 +9262,7 @@
     "1751": {
         "name": "solily-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1752": {
         "name": "yelay-v1",
@@ -14340,7 +14338,7 @@
     "2662": {
         "name": "morphex-v2",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -26453,7 +26451,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
@@ -34368,7 +34366,7 @@
     },
     "parent#morphex": {
         "name": "morphex",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "fees": true,
         "revenue": true,
