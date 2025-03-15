@@ -10572,6 +10572,7 @@
         "name": "pangea-swap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1988": {
@@ -20551,7 +20552,8 @@
     "3764": {
         "name": "boom",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3765": {
         "name": "cryptoo-tech",
@@ -27673,7 +27675,8 @@
     "5080": {
         "name": "boomswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5081": {
         "name": "kujata",
