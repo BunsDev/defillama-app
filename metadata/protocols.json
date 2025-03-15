@@ -2423,8 +2423,7 @@
     "487": {
         "name": "sunny",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "488": {
         "name": "ubeswap-v2",
@@ -3976,8 +3975,7 @@
     "754": {
         "name": "bossswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "755": {
         "name": "arrow",
@@ -4513,8 +4511,7 @@
     "871": {
         "name": "mintswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "872": {
         "name": "skeleton-finance",
