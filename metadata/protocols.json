@@ -8074,7 +8074,8 @@
     "1530": {
         "name": "excalibur",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1531": {
         "name": "01",
