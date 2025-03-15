@@ -8836,7 +8836,8 @@
     "1674": {
         "name": "lemuria-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1675": {
         "name": "cennznet-bridge",
@@ -11435,7 +11436,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11732,8 +11732,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -18230,7 +18229,8 @@
     "3347": {
         "name": "meridian-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3348": {
         "name": "soswap",
@@ -18454,7 +18454,8 @@
     "3386": {
         "name": "meridian-trade",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3387": {
         "name": "bryan-on-base",
@@ -34275,6 +34276,7 @@
         "name": "meridian",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true,
         "emissions": true
     },
@@ -34731,7 +34733,6 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
