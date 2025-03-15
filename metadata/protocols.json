@@ -3597,8 +3597,7 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "693": {
         "name": "superfluid",
@@ -26303,7 +26302,7 @@
         "yields": false
     },
     "4834": {
-        "name": "napier-finance",
+        "name": "napier",
         "tvl": true,
         "yields": false,
         "fees": true,
@@ -32889,9 +32888,6 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
-    },
-    "parent#canary": {
-        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
