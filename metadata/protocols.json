@@ -12242,6 +12242,9 @@
         "tvl": false,
         "yields": false
     },
+    "2269": {
+        "raises": true
+    },
     "2271": {
         "name": "wompie",
         "tvl": true,
@@ -20651,6 +20654,7 @@
         "tvl": false,
         "yields": false,
         "liquidity": true,
+        "raises": true,
         "fees": true,
         "revenue": true
     },
