@@ -13130,7 +13130,8 @@
     "2453": {
         "name": "doglands-swap",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2454": {
         "name": "geth",
@@ -14065,7 +14066,6 @@
         "tvl": true,
         "yields": true,
         "governance": true,
-        "liquidity": true,
         "hacks": true,
         "raises": true,
         "emissions": true
@@ -17590,7 +17590,8 @@
     "3244": {
         "name": "one-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3245": {
         "name": "venus-isolated-pools",
