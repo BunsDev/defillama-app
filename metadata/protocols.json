@@ -32020,7 +32020,8 @@
     "5890": {
         "name": "mosaic",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "aggregator": true
     },
     "5891": {
         "name": "interest-dex",
