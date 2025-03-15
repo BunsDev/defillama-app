@@ -19144,8 +19144,7 @@
     "3488": {
         "name": "sparkswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3489": {
         "name": "haedal-protocol",
