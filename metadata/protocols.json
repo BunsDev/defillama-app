@@ -5731,7 +5731,6 @@
         "name": "ara-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "1100": {
@@ -5912,7 +5911,8 @@
     "1132": {
         "name": "genesys",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1133": {
         "name": "ice-colony",
@@ -6954,7 +6954,8 @@
         "name": "dna-dollar",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "1333": {
         "name": "oceanus",
@@ -15399,7 +15400,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -34732,6 +34733,7 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
