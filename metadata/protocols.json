@@ -5918,7 +5918,8 @@
     "1126": {
         "name": "lemonswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1127": {
         "name": "zeus-finance",
@@ -13428,7 +13429,8 @@
     "2496": {
         "name": "fundex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2497": {
         "name": "dinosaur.finance",
@@ -19400,8 +19402,7 @@
     "3531": {
         "name": "mozaic",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3532": {
         "name": "manga-fi",
@@ -23196,7 +23197,8 @@
     "4226": {
         "name": "lemonblast",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4227": {
         "name": "bonkbot",
