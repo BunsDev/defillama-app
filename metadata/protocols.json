@@ -26981,7 +26981,7 @@
     "4939": {
         "name": "maha.xyz",
         "tvl": false,
-        "yields": true,
+        "yields": false,
         "governance": true,
         "treasury": true,
         "liquidity": true,
