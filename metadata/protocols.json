@@ -2742,7 +2742,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "545": {
@@ -10201,8 +10200,7 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "1919": {
         "name": "elasticswap",
