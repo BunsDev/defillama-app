@@ -10201,7 +10201,8 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "1919": {
         "name": "elasticswap",
@@ -13347,8 +13348,7 @@
     "2496": {
         "name": "fundex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2497": {
         "name": "dinosaur.finance",
@@ -15383,7 +15383,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
