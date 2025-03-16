@@ -5522,8 +5522,7 @@
     "1055": {
         "name": "fiat-dao",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1056": {
         "name": "redacted-protocol",
@@ -15498,7 +15497,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -15512,7 +15511,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -15585,7 +15584,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -15991,7 +15990,6 @@
         "name": "turbos",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "dexs": true
     },
     "2941": {
