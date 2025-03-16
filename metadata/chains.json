@@ -537,7 +537,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -1678,7 +1677,6 @@
     },
     "polynomial": {
         "name": "Polynomial",
-        "derivatives": true,
         "chainAssets": true
     },
     "proton": {
