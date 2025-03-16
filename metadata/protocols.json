@@ -7602,8 +7602,7 @@
         "name": "solidex",
         "tvl": true,
         "yields": false,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "1451": {
         "raises": true
@@ -15835,8 +15834,7 @@
         "name": "kei-finance",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "2934": {
         "name": "stellaswap-v3",
@@ -16688,8 +16686,7 @@
         "name": "olympulsex",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "3083": {
         "name": "penpie",
