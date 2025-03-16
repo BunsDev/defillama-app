@@ -4169,8 +4169,7 @@
     "808": {
         "name": "swift-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "809": {
         "name": "polyyeld-finance",
@@ -15499,7 +15498,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -15513,7 +15512,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2858": {
