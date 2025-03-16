@@ -1574,7 +1574,6 @@
         "name": "gamma",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "hacks": true,
         "fees": true,
         "revenue": true
@@ -1992,7 +1991,8 @@
     "422": {
         "name": "bunicorn",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "423": {
         "name": "deri-protocol",
@@ -3841,7 +3841,8 @@
     "737": {
         "name": "dino.exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "738": {
         "name": "defi-halal",
@@ -9653,7 +9654,8 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -11181,7 +11183,8 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2102": {
         "name": "titano-swych",
@@ -13350,7 +13353,8 @@
     "2497": {
         "name": "dinosaur.finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2498": {
         "name": "umee",
@@ -28314,7 +28318,6 @@
         "name": "grafun",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
