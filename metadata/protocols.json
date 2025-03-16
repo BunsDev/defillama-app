@@ -11427,7 +11427,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -19454,7 +19453,8 @@
     "3565": {
         "name": "ball-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3566": {
         "name": "friend3",
