@@ -5121,7 +5121,7 @@
     },
     "990": {
         "name": "powerbomb-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "991": {
