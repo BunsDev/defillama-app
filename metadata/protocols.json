@@ -25486,7 +25486,7 @@
     "4682": {
         "name": "nx-finance",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "4683": {
         "name": "daikodex",
@@ -26296,7 +26296,7 @@
     "4834": {
         "name": "napier",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "fees": true,
         "revenue": true
     },
