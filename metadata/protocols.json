@@ -9256,7 +9256,8 @@
     "1751": {
         "name": "solily-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1752": {
         "name": "yelay-v1",
@@ -15481,7 +15482,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -27978,6 +27979,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "revenue": true,
         "perps": true
     },
     "5138": {
@@ -34099,6 +34101,7 @@
         "tvl": true,
         "liquidity": true,
         "raises": true,
+        "revenue": true,
         "perps": true
     },
     "parent#lombard-finance": {
