@@ -1650,6 +1650,8 @@
         "liquidity": true,
         "hacks": true,
         "raises": true,
+        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "367": {
@@ -23351,7 +23353,9 @@
     "4256": {
         "name": "stability",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "4257": {
         "name": "definitive",
@@ -29359,7 +29363,9 @@
     "5363": {
         "name": "tonco",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5364": {
         "name": "ora-protocol",
@@ -31019,7 +31025,9 @@
     "5672": {
         "name": "vicuna-leveraged-farming",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5674": {
         "name": "coffer-network",
@@ -31585,7 +31593,9 @@
         "tvl": true,
         "yields": false,
         "forks": true,
-        "liquidity": true
+        "liquidity": true,
+        "fees": true,
+        "revenue": true
     },
     "5790": {
         "name": "kittypunch-stablekitty",
@@ -32233,6 +32243,10 @@
         "name": "defituna",
         "tvl": true,
         "yields": false
+    },
+    "5908": {
+        "fees": true,
+        "revenue": true
     },
     "5909": {
         "name": "goplus-locker-v3",
@@ -33301,6 +33315,8 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
+        "fees": true,
+        "revenue": true,
         "dexs": true,
         "emissions": true
     },
@@ -35938,7 +35954,9 @@
     "parent#vicuna": {
         "name": "vicuna-finance",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "fees": true,
+        "revenue": true
     },
     "parent#volt-finance": {
         "name": "volt-finance",

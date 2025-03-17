@@ -1611,7 +1611,8 @@
         "tokenSymbol": "UM"
     },
     "persistence-one": {
-        "name": "Persistence One"
+        "name": "Persistence One",
+        "dexs": true
     },
     "phantasma": {
         "name": "Phantasma",
