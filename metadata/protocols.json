@@ -4013,7 +4013,8 @@
     "785": {
         "name": "lootswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "786": {
         "name": "bagels-finance",
@@ -9619,7 +9620,8 @@
     "1816": {
         "name": "ruby-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1817": {
         "name": "jupiter-swap",
@@ -14197,12 +14199,14 @@
     "2639": {
         "name": "ruby.exchange-yield",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2640": {
         "name": "ruby.exchange-stable",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2641": {
         "name": "fulcrom-perps",
@@ -18758,7 +18762,8 @@
         "name": "loot--dao",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "3444": {
         "name": "liquid-finance-protocol",
@@ -34943,7 +34948,8 @@
     "parent#ruby.exchange": {
         "name": "ruby.exchange",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#sablier-finance": {
         "name": "sablier",
