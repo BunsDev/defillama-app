@@ -17506,8 +17506,7 @@
     "3232": {
         "name": "yieldpulse-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3233": {
         "name": "ajna-v1",
@@ -28453,7 +28452,8 @@
     "5220": {
         "name": "metahub-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5221": {
         "name": "raindex",
