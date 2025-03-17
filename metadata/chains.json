@@ -1225,6 +1225,7 @@
     },
     "logx_network": {
         "name": "Logx_network",
+        "fees": true,
         "derivatives": true
     },
     "loop": {

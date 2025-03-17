@@ -10195,7 +10195,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -14477,8 +14476,7 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2688": {
         "name": "palma-swap",
@@ -32545,8 +32543,7 @@
     "parent#arbswap": {
         "name": "arbswap",
         "yields": false,
-        "tvl": true,
-        "activeUsers": true
+        "tvl": true
     },
     "parent#arcadia-finance": {
         "name": "arcadia-finance",
