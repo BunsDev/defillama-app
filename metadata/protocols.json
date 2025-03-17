@@ -747,8 +747,7 @@
         "name": "vesper",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "liquidity": true
+        "governance": true
     },
     "221": {
         "name": "defi-swap",
@@ -2530,6 +2529,7 @@
         "name": "defibox",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "508": {
@@ -6846,7 +6846,8 @@
     "1311": {
         "name": "moremoney",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1312": {
         "name": "epsylon-finance",
@@ -9492,7 +9493,8 @@
     "1793": {
         "name": "bwatch",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1794": {
         "name": "ostable",
