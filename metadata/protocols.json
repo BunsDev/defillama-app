@@ -2762,6 +2762,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
+        "liquidity": true,
         "hacks": true
     },
     "548": {

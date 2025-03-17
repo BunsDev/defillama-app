@@ -937,7 +937,6 @@
     },
     "heco": {
         "name": "Heco",
-        "dexs": true,
         "gecko_id": "huobi-token",
         "tokenSymbol": "HT"
     },
