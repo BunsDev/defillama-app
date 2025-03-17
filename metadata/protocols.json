@@ -1806,7 +1806,8 @@
     "391": {
         "name": "pantherswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "392": {
         "name": "wardenswap",
@@ -6765,7 +6766,7 @@
     "1296": {
         "name": "zipswap",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "dexs": true
     },
     "1297": {
@@ -15388,7 +15389,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -15398,7 +15399,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -15407,8 +15408,7 @@
     "2856": {
         "name": "gridex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2857": {
         "name": "frogge.finance",
@@ -17994,7 +17994,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -27979,6 +27980,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "revenue": true,
         "perps": true
     },
@@ -34101,6 +34103,7 @@
         "tvl": true,
         "liquidity": true,
         "raises": true,
+        "fees": true,
         "revenue": true,
         "perps": true
     },
@@ -34657,6 +34660,9 @@
         "name": "paraluni",
         "yields": false,
         "tvl": true
+    },
+    "parent#paraspace": {
+        "activeUsers": true
     },
     "parent#parax": {
         "name": "parallel-super-app",
