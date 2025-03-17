@@ -3421,6 +3421,7 @@
         "name": "jetswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "660": {
@@ -14964,6 +14965,7 @@
         "name": "auragi-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -15186,6 +15188,7 @@
         "tvl": true,
         "yields": false,
         "forks": true,
+        "liquidity": true,
         "emissions": true
     },
     "2818": {
@@ -26445,7 +26448,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
@@ -35964,7 +35967,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
