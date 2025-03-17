@@ -1574,6 +1574,7 @@
         "name": "gamma",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "hacks": true,
         "fees": true,
         "revenue": true
@@ -1805,7 +1806,8 @@
     "391": {
         "name": "pantherswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "392": {
         "name": "wardenswap",
@@ -2838,7 +2840,6 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "562": {
@@ -10196,7 +10197,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -13547,6 +13547,7 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -14063,6 +14064,7 @@
         "tvl": true,
         "yields": true,
         "governance": true,
+        "liquidity": true,
         "hacks": true,
         "raises": true,
         "emissions": true
@@ -14478,8 +14480,7 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2688": {
         "name": "palma-swap",
@@ -15515,8 +15516,7 @@
     "2876": {
         "name": "sft-protocol",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "2877": {
         "name": "catsapes",
@@ -17995,7 +17995,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -32545,8 +32546,7 @@
     "parent#arbswap": {
         "name": "arbswap",
         "yields": false,
-        "tvl": true,
-        "activeUsers": true
+        "tvl": true
     },
     "parent#arcadia-finance": {
         "name": "arcadia-finance",
@@ -34660,6 +34660,9 @@
         "name": "paraluni",
         "yields": false,
         "tvl": true
+    },
+    "parent#paraspace": {
+        "activeUsers": true
     },
     "parent#parax": {
         "name": "parallel-super-app",
