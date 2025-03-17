@@ -11345,6 +11345,7 @@
         "name": "capricorn-finance",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "2129": {
@@ -13541,7 +13542,6 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18583,8 +18583,7 @@
     "3411": {
         "name": "pixelswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3412": {
         "name": "denet-file-token",
@@ -18611,8 +18610,7 @@
     "3417": {
         "name": "unclesam-protocol",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3418": {
         "name": "meowl",
