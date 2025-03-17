@@ -2237,8 +2237,7 @@
     "461": {
         "name": "planet-farm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "462": {
         "name": "augury-finance",
@@ -3883,7 +3882,8 @@
     "743": {
         "name": "neku",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "744": {
         "name": "tranquil-finance",
@@ -11532,7 +11532,6 @@
         "name": "blue-planet",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "2159": {
@@ -27400,7 +27399,6 @@
         "name": "aquarius-stellar",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "5036": {
@@ -29006,8 +29004,7 @@
     "5321": {
         "name": "aqualoan",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5322": {
         "name": "mon-protocol",
@@ -34710,7 +34707,6 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
         "dexs": true
     },
     "parent#plunderswap": {
