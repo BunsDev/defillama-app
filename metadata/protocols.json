@@ -15839,7 +15839,7 @@
     "2910": {
         "name": "hydradex-v3",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18741,7 +18741,8 @@
     "3417": {
         "name": "unclesam-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3418": {
         "name": "meowl",
@@ -29365,7 +29366,8 @@
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5364": {
         "name": "ora-protocol",
@@ -33859,7 +33861,7 @@
     },
     "parent#hydradex": {
         "name": "hydradex",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "fees": true,
         "revenue": true,
@@ -35056,6 +35058,10 @@
         "name": "revert",
         "yields": false,
         "tvl": true
+    },
+    "parent#rfx-exchange": {
+        "dexs": true,
+        "perps": true
     },
     "parent#rhea-finance": {
         "name": "rhea-finance",
