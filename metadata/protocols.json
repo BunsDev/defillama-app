@@ -2569,7 +2569,8 @@
     "514": {
         "name": "orion-money",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "515": {
         "name": "wrap-protocol",
@@ -3106,7 +3107,8 @@
         "yields": false,
         "governance": true,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "608": {
         "name": "cap",
@@ -18277,7 +18279,8 @@
     "3357": {
         "name": "antihero-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3358": {
         "name": "krav",
@@ -28316,6 +28319,7 @@
         "name": "grafun",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -33073,7 +33077,8 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#cyberblast": {
         "name": "cyberblast",

@@ -537,7 +537,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -1398,6 +1397,7 @@
         "name": "Movement",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "movement",
         "tokenSymbol": "MOVE"
     },
@@ -1610,8 +1610,7 @@
         "tokenSymbol": "UM"
     },
     "persistence-one": {
-        "name": "Persistence One",
-        "dexs": true
+        "name": "Persistence One"
     },
     "phantasma": {
         "name": "Phantasma",
