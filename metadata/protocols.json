@@ -6994,8 +6994,7 @@
         "yields": false,
         "treasury": true,
         "liquidity": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "1340": {
         "name": "icecream-finance",
@@ -11145,7 +11144,8 @@
     "2093": {
         "name": "scaryswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2094": {
         "name": "boneswap",
@@ -15405,7 +15405,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -15418,7 +15418,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2858": {
@@ -15488,7 +15488,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -35090,8 +35090,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#skullswap": {
         "name": "skullswap",
