@@ -7059,8 +7059,7 @@
     "1343": {
         "name": "devil-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1344": {
         "name": "fatfire-defi",
