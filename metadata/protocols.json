@@ -4082,7 +4082,6 @@
         "name": "cashio",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "794": {
@@ -5110,7 +5109,6 @@
         "name": "chickenswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true
     },
     "979": {
@@ -7889,8 +7887,7 @@
     "1495": {
         "name": "zappy",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1496": {
         "name": "grave-finance",
@@ -20198,8 +20195,7 @@
     "3679": {
         "name": "phase",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3680": {
         "name": "statix-farm",

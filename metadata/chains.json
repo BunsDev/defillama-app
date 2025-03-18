@@ -369,6 +369,7 @@
     },
     "callisto": {
         "name": "Callisto",
+        "dexs": true,
         "gecko_id": "callisto",
         "tokenSymbol": "CLO"
     },
