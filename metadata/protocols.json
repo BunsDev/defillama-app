@@ -64,8 +64,7 @@
         "raises": true,
         "fees": true,
         "revenue": true,
-        "perps": true,
-        "emissions": true
+        "perps": true
     },
     "116": {
         "name": "balancer-v1",
@@ -1818,6 +1817,7 @@
         "name": "pantherswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true
     },
     "392": {
@@ -4457,7 +4457,8 @@
     "861": {
         "name": "bear-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "862": {
         "name": "quarry",
@@ -8130,7 +8131,8 @@
     "1540": {
         "name": "polar-bear-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1541": {
         "name": "portal",
@@ -35623,8 +35625,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "perps": true,
-        "emissions": true
+        "perps": true
     },
     "parent#synthswap": {
         "name": "synthswap",
@@ -36095,8 +36096,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
