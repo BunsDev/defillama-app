@@ -537,7 +537,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -1613,6 +1612,7 @@
     },
     "persistence-one": {
         "name": "Persistence One",
+        "fees": true,
         "dexs": true
     },
     "phantasma": {
