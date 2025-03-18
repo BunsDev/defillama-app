@@ -3193,6 +3193,7 @@
         "yields": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -6800,7 +6801,8 @@
         "name": "iron-bank",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "1304": {
         "name": "buffer-finance",
@@ -15981,7 +15983,6 @@
         "name": "holdstation-defutures",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -29934,7 +29935,6 @@
         "name": "holdstation-swap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -33728,7 +33728,6 @@
         "name": "holdstation",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
