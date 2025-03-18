@@ -1229,7 +1229,6 @@
         "tvl": false,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "raises": true
     },
     "301": {
@@ -2321,8 +2320,7 @@
     "473": {
         "name": "baguette",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "474": {
         "name": "canary",
@@ -4479,7 +4477,8 @@
     "871": {
         "name": "mintswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "872": {
         "name": "skeleton-finance",
@@ -17535,8 +17534,7 @@
     "3236": {
         "name": "colafactory",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3237": {
         "name": "skydex",
