@@ -7758,7 +7758,8 @@
     "1479": {
         "name": "phantom-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1480": {
         "name": "xray-swap",
@@ -14356,8 +14357,7 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "2665": {
         "name": "apecoin",
@@ -32549,7 +32549,8 @@
     "parent#arbswap": {
         "name": "arbswap",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "activeUsers": true
     },
     "parent#arcadia-finance": {
         "name": "arcadia-finance",
@@ -32909,6 +32910,9 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
+    },
+    "parent#canary": {
+        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
@@ -35967,8 +35971,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
