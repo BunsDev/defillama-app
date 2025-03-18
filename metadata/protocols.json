@@ -64,7 +64,8 @@
         "raises": true,
         "fees": true,
         "revenue": true,
-        "perps": true
+        "perps": true,
+        "emissions": true
     },
     "116": {
         "name": "balancer-v1",
@@ -5233,8 +5234,7 @@
     "1010": {
         "name": "ice-dao",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1011": {
         "name": "papa-dao",
@@ -5914,8 +5914,7 @@
     "1133": {
         "name": "ice-colony",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1134": {
         "name": "duckydefi",
@@ -10583,7 +10582,6 @@
         "name": "icecreamswap-v2",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "1991": {
@@ -26139,8 +26137,7 @@
     "4803": {
         "name": "icecreamswap-v3",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4804": {
         "name": "soroswap",
@@ -33793,7 +33790,6 @@
         "name": "icecreamswap",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "dexs": true
     },
     "parent#idex": {
@@ -35509,7 +35505,8 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "perps": true
+        "perps": true,
+        "emissions": true
     },
     "parent#synthswap": {
         "name": "synthswap",
@@ -35980,7 +35977,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
