@@ -15676,6 +15676,7 @@
         "name": "rabbitx",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true,
         "perps": true
     },
@@ -31333,7 +31334,7 @@
     },
     "5741": {
         "name": "enso",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "aggregator": true
     },
@@ -34997,6 +34998,7 @@
         "name": "rabbitx-fusion",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "perps": true
     },
     "parent#radiant": {
