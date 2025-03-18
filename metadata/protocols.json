@@ -1917,7 +1917,8 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "409": {
         "name": "cafeswap",
@@ -3109,8 +3110,7 @@
         "yields": false,
         "governance": true,
         "liquidity": true,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "608": {
         "name": "cap",
@@ -11647,7 +11647,8 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -18738,8 +18739,7 @@
     "3438": {
         "name": "baklava-space",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3439": {
         "name": "hydration",
@@ -28325,7 +28325,6 @@
         "name": "grafun",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
