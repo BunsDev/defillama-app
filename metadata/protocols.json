@@ -8127,8 +8127,7 @@
     "1548": {
         "name": "chaotic-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1549": {
         "name": "babena",
@@ -10158,6 +10157,7 @@
         "tvl": false,
         "yields": true,
         "treasury": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -10220,8 +10220,7 @@
     "1920": {
         "name": "ordernchaos",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1921": {
         "name": "dogeclaw",
@@ -16952,8 +16951,7 @@
     "3129": {
         "name": "tigris",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3130": {
         "name": "resonate-finance",
