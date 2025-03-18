@@ -986,6 +986,7 @@
         "name": "mirror",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "261": {
@@ -2804,8 +2805,7 @@
     "554": {
         "name": "stormswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "555": {
         "name": "genshiro",
@@ -8995,8 +8995,7 @@
     "1703": {
         "name": "yumiswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1704": {
         "name": "double-club",
@@ -14357,7 +14356,8 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "2665": {
         "name": "apecoin",
@@ -26448,7 +26448,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4862": {
@@ -35971,7 +35971,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
