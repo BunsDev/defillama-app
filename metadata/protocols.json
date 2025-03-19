@@ -1695,7 +1695,7 @@
     },
     "376": {
         "name": "tomb",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "377": {
