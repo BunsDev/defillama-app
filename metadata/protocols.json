@@ -6805,7 +6805,7 @@
     "1296": {
         "name": "zipswap",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "activeUsers": true,
         "dexs": true
     },
@@ -32279,6 +32279,16 @@
         "tvl": true,
         "yields": false
     },
+    "5918": {
+        "name": "golden-finance",
+        "tvl": true,
+        "yields": false
+    },
+    "5919": {
+        "name": "hanji-protocol",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -33243,8 +33253,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#cyberblast": {
         "name": "cyberblast",
@@ -35430,8 +35439,7 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#stationdex": {
         "name": "stationdex",
