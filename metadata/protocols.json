@@ -7944,7 +7944,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1516": {
@@ -18598,7 +18598,8 @@
     "3412": {
         "name": "denet-file-token",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3413": {
         "name": "fourdex",
@@ -26447,7 +26448,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
@@ -35092,8 +35093,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#skullswap": {
         "name": "skullswap",
