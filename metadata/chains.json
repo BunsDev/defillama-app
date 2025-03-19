@@ -2302,6 +2302,7 @@
     },
     "xrpl": {
         "name": "XRPL",
+        "fees": true,
         "dexs": true
     },
     "zeniq": {
