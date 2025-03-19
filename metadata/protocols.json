@@ -16445,8 +16445,7 @@
     "3049": {
         "name": "crowdswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3050": {
         "name": "daolama",
