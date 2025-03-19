@@ -7708,7 +7708,8 @@
         "name": "debridge",
         "tvl": true,
         "yields": false,
-        "raises": true
+        "raises": true,
+        "revenue": true
     },
     "1463": {
         "name": "comet-finance",
@@ -17436,7 +17437,7 @@
     "3196": {
         "name": "flowx-v2",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "dexs": true
     },
     "3197": {
@@ -21051,11 +21052,7 @@
         "yields": false
     },
     "3846": {
-        "name": "debridge-fees",
-        "tvl": false,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "fees": true
     },
     "3847": {
         "name": "llamaswap",
@@ -25086,7 +25083,7 @@
     "4582": {
         "name": "flowx-v3",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "4583": {
         "name": "keller-finance-v3",
@@ -33593,7 +33590,7 @@
     },
     "parent#flowx-finance": {
         "name": "flowx-finance",
-        "yields": false,
+        "yields": true,
         "tvl": true,
         "dexs": true,
         "aggregator": true
