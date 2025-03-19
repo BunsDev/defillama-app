@@ -4867,7 +4867,6 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -9107,8 +9106,7 @@
     "1724": {
         "name": "ampere",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1725": {
         "name": "pegasus-finance",
@@ -20864,7 +20862,6 @@
         "name": "amped-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
@@ -32919,9 +32916,6 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
-    },
-    "parent#canary": {
-        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
