@@ -6604,8 +6604,7 @@
     "1257": {
         "name": "crosschain-bridge",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1258": {
         "name": "flrfarm",
@@ -7913,8 +7912,7 @@
     "1501": {
         "name": "octus-bridge",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1502": {
         "name": "the-parallel",
