@@ -15512,7 +15512,8 @@
     "2856": {
         "name": "gridex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2857": {
         "name": "frogge.finance",
