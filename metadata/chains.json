@@ -353,7 +353,6 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
-        "aggregator-derivatives": true,
         "bridge-aggregators": true,
         "inflows": true,
         "chainAssets": true
@@ -1443,7 +1442,6 @@
     },
     "neo": {
         "name": "NEO",
-        "fees": true,
         "dexs": true,
         "gecko_id": "neo",
         "tokenSymbol": "NEO"
@@ -1616,10 +1614,6 @@
         "fees": true,
         "dexs": true
     },
-    "phantasma": {
-        "name": "Phantasma",
-        "fees": true
-    },
     "planq": {
         "name": "Planq",
         "fees": true,
@@ -1732,7 +1726,6 @@
     },
     "re.al": {
         "name": "re.al",
-        "fees": true,
         "dexs": true,
         "gecko_id": "re-al",
         "tokenSymbol": "RWA"
@@ -1931,6 +1924,7 @@
     },
     "sophon": {
         "name": "Sophon",
+        "dexs": true,
         "chainAssets": true,
         "gecko_id": "sophon",
         "tokenSymbol": "SOPH"
