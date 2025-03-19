@@ -8248,7 +8248,8 @@
     "1562": {
         "name": "pankuku",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1563": {
         "name": "izumi-liquidbox",
@@ -8863,6 +8864,7 @@
         "name": "fairyswap-v1",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1672": {
@@ -18177,7 +18179,7 @@
     "3324": {
         "name": "predy-v5",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "fees": true,
         "revenue": true
     },
@@ -33158,8 +33160,7 @@
         "name": "clearpool",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#cleopatra-exchange": {
         "name": "cleopatra-exchange",
@@ -33583,6 +33584,7 @@
         "name": "fairyswap",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true
     },
     "parent#fathom": {
@@ -34949,7 +34951,7 @@
     },
     "parent#predy-finance": {
         "name": "predy-finance",
-        "yields": false,
+        "yields": true,
         "tvl": true,
         "fees": true,
         "revenue": true
