@@ -7709,6 +7709,7 @@
         "tvl": true,
         "yields": false,
         "raises": true,
+        "fees": true,
         "revenue": true
     },
     "1463": {
@@ -7937,7 +7938,8 @@
         "tvl": false,
         "yields": false,
         "governance": true,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "1506": {
         "name": "pulse-dao",
@@ -17438,6 +17440,7 @@
         "name": "flowx-v2",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "dexs": true
     },
     "3197": {
@@ -21051,9 +21054,6 @@
         "tvl": true,
         "yields": false
     },
-    "3846": {
-        "fees": true
-    },
     "3847": {
         "name": "llamaswap",
         "tvl": false,
@@ -24219,8 +24219,7 @@
     "4417": {
         "name": "core-markets",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4418": {
         "name": "ithaca-protocol",
@@ -25083,7 +25082,8 @@
     "4582": {
         "name": "flowx-v3",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "liquidity": true
     },
     "4583": {
         "name": "keller-finance-v3",
@@ -26364,6 +26364,7 @@
         "name": "flowx-aggregator",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "aggregator": true
     },
     "4826": {
@@ -28333,7 +28334,7 @@
     "5179": {
         "name": "bybit-staked-sol",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "5180": {
         "name": "onyx-v2",
@@ -32263,6 +32264,21 @@
         "tvl": true,
         "yields": false
     },
+    "5915": {
+        "name": "yo-protocol",
+        "tvl": true,
+        "yields": false
+    },
+    "5916": {
+        "name": "bumpin-trade",
+        "tvl": true,
+        "yields": false
+    },
+    "5917": {
+        "name": "unchain-x",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32770,7 +32786,8 @@
         "activeUsers": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#bancor": {
         "name": "bancor",
@@ -33592,6 +33609,7 @@
         "name": "flowx-finance",
         "yields": true,
         "tvl": true,
+        "liquidity": true,
         "dexs": true,
         "aggregator": true
     },
@@ -35204,7 +35222,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#skullswap": {
         "name": "skullswap",
