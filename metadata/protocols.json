@@ -2397,7 +2397,8 @@
     "487": {
         "name": "sunny",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "488": {
         "name": "ubeswap-v2",
@@ -6750,8 +6751,7 @@
         "name": "burgerswap",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "1296": {
         "name": "zipswap",
@@ -12735,8 +12735,7 @@
         "name": "oreoswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2385": {
         "name": "exactly",
@@ -14838,7 +14837,8 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2752": {
         "name": "onchain-trade",
@@ -17026,8 +17026,7 @@
         "tvl": false,
         "yields": false,
         "liquidity": true,
-        "nfts": true,
-        "emissions": true
+        "nfts": true
     },
     "3145": {
         "name": "pinjam-labs",
@@ -27034,7 +27033,7 @@
     "4973": {
         "name": "lore-finance",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true
     },
     "4974": {
@@ -33021,7 +33020,8 @@
         "name": "clearpool",
         "yields": true,
         "tvl": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#cleopatra-exchange": {
         "name": "cleopatra-exchange",
@@ -35113,6 +35113,7 @@
         "yields": false,
         "tvl": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
