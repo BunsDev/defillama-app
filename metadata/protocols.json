@@ -3931,7 +3931,8 @@
     "746": {
         "name": "nileriver",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "747": {
         "name": "muesliswap",
