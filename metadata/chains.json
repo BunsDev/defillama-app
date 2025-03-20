@@ -1023,6 +1023,7 @@
     "immutable-zkevm": {
         "name": "Immutable zkEVM",
         "fees": true,
+        "dexs": true,
         "chainAssets": true,
         "gecko_id": "immutable-x",
         "tokenSymbol": "IMX"
@@ -2256,7 +2257,6 @@
     "wemix3.0": {
         "name": "WEMIX3.0",
         "fees": true,
-        "dexs": true,
         "aggregators": true,
         "bridge-aggregators": true
     },
@@ -2289,6 +2289,7 @@
     },
     "xdc": {
         "name": "XDC",
+        "dexs": true,
         "derivatives": true,
         "aggregators": true,
         "inflows": true,

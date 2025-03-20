@@ -1613,8 +1613,7 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "363": {
         "name": "xdollar",
@@ -7581,8 +7580,7 @@
         "governance": true,
         "treasury": true,
         "raises": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "1448": {
         "name": "white-whale-vaults",
@@ -9659,8 +9657,7 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -11695,6 +11692,7 @@
         "name": "usdfi-lending",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true
     },
     "2187": {
@@ -14082,8 +14080,7 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2619": {
         "name": "metalx-dex",
@@ -20973,8 +20970,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "3855": {
         "name": "rosswap",
@@ -24606,8 +24602,7 @@
     "4514": {
         "name": "snail-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4515": {
         "name": "glowswap",
@@ -33156,7 +33151,8 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#cyberblast": {
         "name": "cyberblast",
@@ -36015,8 +36011,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
