@@ -32336,6 +32336,11 @@
         "tvl": false,
         "yields": false
     },
+    "5928": {
+        "name": "quokkalend",
+        "tvl": true,
+        "yields": false
+    },
     "5929": {
         "name": "getheminames",
         "tvl": false,
