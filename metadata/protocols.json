@@ -3413,6 +3413,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "660": {
@@ -4859,7 +4860,6 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -9519,6 +9519,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9654,7 +9655,8 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -12822,7 +12824,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -23766,8 +23767,7 @@
     "4358": {
         "name": "dego-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4359": {
         "name": "rosy-stake",
