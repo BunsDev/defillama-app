@@ -1705,6 +1705,9 @@
     "ql1": {
         "name": "QL1"
     },
+    "qubic": {
+        "name": "Qubic"
+    },
     "quicksilver": {
         "name": "Quicksilver",
         "gecko_id": "quicksilver",
