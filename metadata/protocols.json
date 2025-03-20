@@ -1819,8 +1819,7 @@
         "name": "reaper-farm",
         "tvl": true,
         "yields": true,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "395": {
         "name": "waka-finance",
@@ -2374,7 +2373,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -4165,8 +4165,7 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "816": {
         "name": "xsigma",
@@ -9521,7 +9520,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9918,8 +9916,7 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1872": {
         "name": "rift-finance",
@@ -13546,6 +13543,7 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -13612,8 +13610,7 @@
         "name": "flux-finance",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2538": {
         "name": "parcl-v2",
@@ -16227,8 +16224,7 @@
     "2999": {
         "name": "ethos-reserve",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3000": {
         "name": "flashliquidity",
@@ -18428,14 +18424,12 @@
         "name": "throne-v3",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "3383": {
         "name": "throne-v2",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3384": {
         "name": "pwn",
@@ -27880,7 +27874,6 @@
         "name": "mango-markets-v4-amm",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "5123": {
@@ -34578,8 +34571,7 @@
     "parent#oath-foundation": {
         "name": "cod3x",
         "yields": true,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#ocelex": {
         "name": "ocelex",
@@ -35648,7 +35640,6 @@
         "name": "throne",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "dexs": true
     },
     "parent#thruster": {
