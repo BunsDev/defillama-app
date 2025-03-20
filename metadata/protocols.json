@@ -2941,8 +2941,7 @@
         "name": "lunos",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "577": {
         "name": "allbridge-classic",
@@ -6032,8 +6031,7 @@
     "1147": {
         "name": "emerald-swap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1148": {
         "name": "amogus-dao",
@@ -9294,8 +9292,7 @@
     "1748": {
         "name": "murica",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1749": {
         "name": "pandaland",
@@ -9821,6 +9818,7 @@
         "name": "ratio-finance",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -14442,7 +14440,8 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "2665": {
         "name": "apecoin",
