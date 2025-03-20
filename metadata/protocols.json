@@ -1071,7 +1071,8 @@
     "274": {
         "name": "olive-cash",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "275": {
         "name": "sharedstake",
@@ -2833,6 +2834,7 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "562": {
@@ -3593,7 +3595,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -7935,7 +7938,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1516": {
