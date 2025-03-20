@@ -917,7 +917,8 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "revenue": true
     },
     "250": {
         "name": "basketdao",
@@ -1518,6 +1519,7 @@
         "name": "abracadabra-spell",
         "tvl": true,
         "yields": true,
+        "forks": true,
         "liquidity": true,
         "hacks": true,
         "fees": true,
@@ -1983,6 +1985,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "revenue": true,
         "dexs": true
     },
     "422": {
@@ -32218,6 +32221,12 @@
         "tvl": false,
         "yields": false,
         "fees": true,
+        "revenue": true
+    },
+    "5933": {
+        "revenue": true
+    },
+    "5934": {
         "revenue": true
     },
     "chain#1": {
