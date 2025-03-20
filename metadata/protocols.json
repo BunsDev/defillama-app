@@ -1638,7 +1638,6 @@
         "liquidity": true,
         "hacks": true,
         "raises": true,
-        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -32216,6 +32215,9 @@
         "name": "getheminames",
         "tvl": false,
         "yields": false
+    },
+    "5930": {
+        "fees": true
     },
     "chain#1": {
         "fees": true,
