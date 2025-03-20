@@ -11192,7 +11192,6 @@
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "2103": {
@@ -11452,6 +11451,8 @@
         "name": "xswap-v2",
         "tvl": true,
         "yields": false,
+        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "2146": {
@@ -21290,7 +21291,9 @@
     "3914": {
         "name": "xswap-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "3915": {
         "name": "teddyswap",
@@ -30500,7 +30503,9 @@
     "5603": {
         "name": "2thick",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5604": {
         "name": "memebox",
@@ -31472,7 +31477,7 @@
     },
     "5795": {
         "name": "pulsex-stableswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -32142,7 +32147,9 @@
     "5917": {
         "name": "unchain-x",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5918": {
         "name": "golden-finance",
@@ -32178,6 +32185,20 @@
         "name": "atlas-exchange",
         "tvl": true,
         "yields": false
+    },
+    "5925": {
+        "name": "mayan",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
+        "revenue": true
+    },
+    "5926": {
+        "name": "aave-chan",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "chain#1": {
         "fees": true,
@@ -35985,6 +36006,8 @@
         "name": "xswap-protocol",
         "yields": false,
         "tvl": true,
+        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "parent#y2k-finance": {

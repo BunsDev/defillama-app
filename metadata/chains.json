@@ -2289,6 +2289,7 @@
     },
     "xdc": {
         "name": "XDC",
+        "fees": true,
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
