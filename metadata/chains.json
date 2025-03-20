@@ -106,8 +106,7 @@
         "name": "Arbitrum Nova",
         "fees": true,
         "dexs": true,
-        "aggregators": true,
-        "inflows": true
+        "aggregators": true
     },
     "archway": {
         "name": "Archway",
@@ -303,6 +302,7 @@
         "options": true,
         "aggregator-derivatives": true,
         "bridge-aggregators": true,
+        "inflows": true,
         "chainAssets": true
     },
     "bob": {
@@ -311,6 +311,7 @@
         "dexs": true,
         "aggregators": true,
         "bridge-aggregators": true,
+        "inflows": true,
         "chainAssets": true
     },
     "boba": {
@@ -343,6 +344,7 @@
     "bouncebit": {
         "name": "BounceBit",
         "fees": true,
+        "inflows": true,
         "gecko_id": "bouncebit",
         "tokenSymbol": "BB"
     },
@@ -522,7 +524,6 @@
         "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
-        "inflows": true,
         "chainAssets": true
     },
     "crossfi": {
@@ -829,6 +830,7 @@
         "fees": true,
         "dexs": true,
         "aggregators": true,
+        "inflows": true,
         "chainAssets": true,
         "gecko_id": "fraxtal",
         "tokenSymbol": "FXTL"
@@ -1153,6 +1155,7 @@
     },
     "kroma": {
         "name": "Kroma",
+        "inflows": true,
         "chainAssets": true,
         "gecko_id": "kroma",
         "tokenSymbol": "KRO"
@@ -1205,12 +1208,14 @@
         "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
+        "inflows": true,
         "chainAssets": true
     },
     "lisk": {
         "name": "Lisk",
         "fees": true,
         "dexs": true,
+        "inflows": true,
         "chainAssets": true,
         "gecko_id": "lisk",
         "tokenSymbol": "LSK"
@@ -1564,7 +1569,8 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
-        "aggregator-derivatives": true
+        "aggregator-derivatives": true,
+        "inflows": true
     },
     "oraichain": {
         "name": "Oraichain",
@@ -1670,7 +1676,6 @@
         "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
-        "inflows": true,
         "chainAssets": true
     },
     "polynomial": {
@@ -1740,6 +1745,7 @@
         "name": "Redstone",
         "fees": true,
         "dexs": true,
+        "inflows": true,
         "chainAssets": true
     },
     "rei": {
@@ -1815,6 +1821,7 @@
         "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
+        "inflows": true,
         "chainAssets": true
     },
     "secret": {
@@ -1857,7 +1864,6 @@
         "name": "ShimmerEVM",
         "fees": true,
         "dexs": true,
-        "inflows": true,
         "gecko_id": "shimmer",
         "tokenSymbol": "SMR"
     },
@@ -1904,6 +1910,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "inflows": true,
         "chainAssets": true
     },
     "songbird": {
@@ -1965,6 +1972,7 @@
         "fees": true,
         "dexs": true,
         "aggregators": true,
+        "inflows": true,
         "chainAssets": true,
         "gecko_id": "starknet",
         "tokenSymbol": "STRK"
@@ -2322,6 +2330,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "inflows": true,
         "gecko_id": "zetachain",
         "tokenSymbol": "ZETA"
     },
@@ -2350,6 +2359,7 @@
     "zklink-nova": {
         "name": "zkLink Nova",
         "aggregators": true,
+        "inflows": true,
         "chainAssets": true
     },
     "zksync-era": {
@@ -2359,7 +2369,6 @@
         "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
-        "inflows": true,
         "chainAssets": true,
         "gecko_id": "zksync",
         "tokenSymbol": "ZK"
@@ -2377,6 +2386,7 @@
         "name": "Zora",
         "fees": true,
         "dexs": true,
+        "inflows": true,
         "chainAssets": true
     },
     "zyx": {
