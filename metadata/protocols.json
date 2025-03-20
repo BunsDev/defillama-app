@@ -1638,7 +1638,6 @@
         "liquidity": true,
         "hacks": true,
         "raises": true,
-        "revenue": true,
         "dexs": true
     },
     "367": {
@@ -21339,8 +21338,7 @@
     "3922": {
         "name": "love.io",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3923": {
         "name": "derive-v2",
@@ -21991,7 +21989,6 @@
         "name": "icdex",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "4041": {
@@ -32217,7 +32214,11 @@
         "yields": false
     },
     "5930": {
-        "fees": true
+        "name": "sedge",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "chain#1": {
         "fees": true,
