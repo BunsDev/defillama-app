@@ -918,6 +918,7 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
+        "fees": true,
         "revenue": true
     },
     "250": {
@@ -1985,6 +1986,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -22280,8 +22282,7 @@
     "4090": {
         "name": "mint-club-v2",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4091": {
         "name": "binaryx-platform",
@@ -32223,10 +32224,23 @@
         "fees": true,
         "revenue": true
     },
+    "5931": {
+        "name": "spartacadabra",
+        "tvl": false,
+        "yields": false
+    },
     "5933": {
+        "name": "suite",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
         "revenue": true
     },
     "5934": {
+        "name": "finder-bot",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
         "revenue": true
     },
     "chain#1": {
