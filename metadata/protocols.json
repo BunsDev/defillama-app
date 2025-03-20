@@ -5222,7 +5222,8 @@
     "1001": {
         "name": "giza-dao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1002": {
         "name": "yokaiswap",
@@ -21750,7 +21751,8 @@
     "3975": {
         "name": "bitswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3976": {
         "name": "orion-liquidity-nodes",
@@ -32329,6 +32331,16 @@
         "yields": false,
         "fees": true,
         "revenue": true
+    },
+    "5927": {
+        "name": "dahlia",
+        "tvl": false,
+        "yields": false
+    },
+    "5929": {
+        "name": "getheminames",
+        "tvl": false,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
