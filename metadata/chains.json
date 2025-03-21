@@ -1341,7 +1341,8 @@
         "name": "Milkomeda A1"
     },
     "milkomeda-c1": {
-        "name": "Milkomeda C1"
+        "name": "Milkomeda C1",
+        "dexs": true
     },
     "mint": {
         "name": "Mint",
