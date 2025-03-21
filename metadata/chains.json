@@ -2222,7 +2222,8 @@
         "tokenSymbol": "VRSC"
     },
     "viction": {
-        "name": "Viction"
+        "name": "Viction",
+        "dexs": true
     },
     "vinuchain": {
         "name": "VinuChain",
