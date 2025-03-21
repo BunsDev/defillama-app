@@ -4081,6 +4081,7 @@
         "name": "cashio",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "794": {
@@ -20200,7 +20201,8 @@
     "3679": {
         "name": "phase",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3680": {
         "name": "statix-farm",
