@@ -135,9 +135,7 @@
     "asset-chain": {
         "name": "Asset Chain",
         "fees": true,
-        "dexs": true,
-        "gecko_id": "xend-finance",
-        "tokenSymbol": "RWA"
+        "dexs": true
     },
     "astar": {
         "name": "Astar",

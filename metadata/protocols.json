@@ -1433,6 +1433,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "335": {
@@ -6048,8 +6049,7 @@
     "1160": {
         "name": "baker-guild",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1161": {
         "name": "niifi",
@@ -16751,7 +16751,6 @@
         "name": "miaswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "3091": {
