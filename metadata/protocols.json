@@ -3036,7 +3036,8 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "596": {
         "name": "flux-protocol",
@@ -7118,7 +7119,8 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1364": {
         "name": "narwhalswap",
@@ -12449,7 +12451,8 @@
     "2331": {
         "name": "swapfish",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12747,7 +12750,8 @@
         "name": "oreoswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2385": {
         "name": "exactly",
@@ -13859,7 +13863,8 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2578": {
         "name": "beamer-bridge",
@@ -18010,7 +18015,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -33029,6 +33035,9 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
+    },
+    "parent#canary": {
+        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
