@@ -774,7 +774,8 @@
         "name": "domani-protocol",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "liquidity": true
     },
     "225": {
         "name": "enzyme-finance",
@@ -2376,7 +2377,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -5436,7 +5438,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "1049": {
         "name": "globiance",
@@ -6985,8 +6988,7 @@
         "yields": false,
         "treasury": true,
         "liquidity": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "1340": {
         "name": "icecream-finance",
@@ -7398,8 +7400,7 @@
     "1416": {
         "name": "gemkeeper",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1417": {
         "name": "gemmine",
@@ -33081,8 +33082,7 @@
         "forks": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#charm-finance": {
         "name": "charm-finance",
@@ -35819,8 +35819,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#tropykus-finance": {
         "name": "tropykus-finance",
@@ -36096,8 +36095,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
