@@ -2206,6 +2206,7 @@
     },
     "velas": {
         "name": "Velas",
+        "dexs": true,
         "gecko_id": "velas",
         "tokenSymbol": "VLX"
     },
