@@ -2376,8 +2376,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -3035,7 +3034,8 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "596": {
         "name": "flux-protocol",
@@ -3188,6 +3188,7 @@
         "yields": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -3681,6 +3682,7 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -4732,7 +4734,6 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -4864,6 +4865,7 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -7114,7 +7116,8 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1364": {
         "name": "narwhalswap",
@@ -8597,7 +8600,6 @@
         "name": "smbswap-v2",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9223,7 +9225,8 @@
     "1745": {
         "name": "joystick-club",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1746": {
         "name": "mapledefi",
@@ -11229,7 +11232,8 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2109": {
         "name": "pyeswap",
@@ -12444,7 +12448,8 @@
     "2331": {
         "name": "swapfish",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12742,7 +12747,8 @@
         "name": "oreoswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2385": {
         "name": "exactly",
@@ -13854,7 +13860,8 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2578": {
         "name": "beamer-bridge",
@@ -15632,7 +15639,6 @@
         "name": "smbswap-v3",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -17543,7 +17549,8 @@
     "3236": {
         "name": "colafactory",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3237": {
         "name": "skydex",
@@ -18005,7 +18012,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -22021,7 +22029,6 @@
         "name": "sudo-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -28084,7 +28091,8 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "5158": {
         "name": "enosys-amm-v3",
@@ -33025,6 +33033,9 @@
         "dexs": true,
         "emissions": true
     },
+    "parent#canary": {
+        "activeUsers": true
+    },
     "parent#cap-finance": {
         "name": "cap-finance",
         "yields": false,
@@ -35221,8 +35232,6 @@
         "name": "smbswap",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true

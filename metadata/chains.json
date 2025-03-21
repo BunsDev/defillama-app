@@ -2223,6 +2223,7 @@
     },
     "viction": {
         "name": "Viction",
+        "fees": true,
         "dexs": true
     },
     "vinuchain": {
