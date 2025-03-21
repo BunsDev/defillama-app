@@ -538,6 +538,7 @@
     },
     "cube": {
         "name": "Cube",
+        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -1546,6 +1547,7 @@
     "onus": {
         "name": "Onus",
         "fees": true,
+        "dexs": true,
         "gecko_id": "onus",
         "tokenSymbol": "ONUS"
     },

@@ -7091,7 +7091,8 @@
     "1358": {
         "name": "kassandra-dao",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1359": {
         "name": "capitaldex",
@@ -8734,7 +8735,8 @@
     "1656": {
         "name": "funbeast",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1657": {
         "name": "predy-v3.2",
@@ -32253,6 +32255,11 @@
         "tvl": true,
         "yields": false
     },
+    "5936": {
+        "name": "pumpswap",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -34961,6 +34968,7 @@
     "parent#pump": {
         "name": "pump",
         "yields": false,
+        "tvl": true,
         "forks": true,
         "fees": true,
         "revenue": true,
