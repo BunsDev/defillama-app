@@ -747,7 +747,8 @@
         "tokenSymbol": "ETHW"
     },
     "etherlink": {
-        "name": "Etherlink"
+        "name": "Etherlink",
+        "fees": true
     },
     "ethf": {
         "name": "ETHF",
@@ -2325,6 +2326,7 @@
         "name": "Zero Network",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "chainAssets": true
     },
     "zetachain": {
