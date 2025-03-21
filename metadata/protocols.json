@@ -1616,7 +1616,8 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "363": {
         "name": "xdollar",
@@ -5435,8 +5436,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "1049": {
         "name": "globiance",
@@ -5961,8 +5961,7 @@
     "1142": {
         "name": "mm-optimizer",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1143": {
         "name": "hotpot-finance",
@@ -10661,8 +10660,7 @@
     "2004": {
         "name": "mm-optimizer-polygon",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2005": {
         "name": "exinpool",
@@ -18121,7 +18119,7 @@
     },
     "3331": {
         "name": "tetu-pawnshop",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -27707,7 +27705,8 @@
     "5090": {
         "name": "level",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "raises": true
     },
     "5091": {
         "name": "lair-finance",
@@ -32493,7 +32492,8 @@
         "expenses": true,
         "treasury": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "parent#abracadabra": {
         "name": "abracadabra",
@@ -35818,7 +35818,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#tropykus-finance": {
         "name": "tropykus-finance",
