@@ -31807,7 +31807,7 @@
     },
     "5852": {
         "name": "pholend",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5853": {
@@ -32252,7 +32252,8 @@
     "5936": {
         "name": "pumpswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "chain#1": {
         "fees": true,
