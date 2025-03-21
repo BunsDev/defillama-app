@@ -3683,6 +3683,7 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -11230,7 +11231,8 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2109": {
         "name": "pyeswap",
@@ -17036,7 +17038,8 @@
         "tvl": false,
         "yields": false,
         "liquidity": true,
-        "nfts": true
+        "nfts": true,
+        "emissions": true
     },
     "3145": {
         "name": "pinjam-labs",
@@ -24269,10 +24272,9 @@
         "raises": true
     },
     "4449": {
-        "name": "pump",
+        "name": "pump.fun",
         "tvl": false,
         "yields": false,
-        "forks": true,
         "hacks": true,
         "fees": true,
         "revenue": true,
@@ -34956,6 +34958,14 @@
         "revenue": true,
         "dexs": true
     },
+    "parent#pump": {
+        "name": "pump",
+        "yields": false,
+        "forks": true,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
+    },
     "parent#puzzleswaporg": {
         "name": "puzzleswaporg",
         "yields": false,
@@ -35197,7 +35207,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#skullswap": {
         "name": "skullswap",
@@ -35871,8 +35882,7 @@
         "activeUsers": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#uniwswap": {
         "name": "uniwswap",

@@ -354,6 +354,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "aggregator-derivatives": true,
         "bridge-aggregators": true,
         "inflows": true,
         "chainAssets": true
@@ -1731,6 +1732,7 @@
     },
     "re.al": {
         "name": "re.al",
+        "fees": true,
         "dexs": true,
         "gecko_id": "re-al",
         "tokenSymbol": "RWA"
