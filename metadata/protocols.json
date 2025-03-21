@@ -5110,6 +5110,7 @@
         "name": "chickenswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true
     },
     "979": {
@@ -7034,8 +7035,7 @@
         "yields": false,
         "treasury": true,
         "liquidity": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "1340": {
         "name": "icecream-finance",
@@ -21098,8 +21098,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "3855": {
         "name": "rosswap",
@@ -33505,8 +33504,7 @@
         "treasury": true,
         "liquidity": true,
         "dexs": true,
-        "aggregator": true,
-        "emissions": true
+        "aggregator": true
     },
     "parent#dojoswap": {
         "name": "dojoswap",
@@ -35481,8 +35479,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#sperax": {
         "name": "sperax",
@@ -36263,8 +36260,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
