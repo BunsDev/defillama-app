@@ -3588,8 +3588,6 @@
         "name": "sunswap-v1",
         "tvl": true,
         "yields": false,
-        "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "691": {
@@ -4736,6 +4734,7 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -6988,7 +6987,8 @@
         "yields": false,
         "treasury": true,
         "liquidity": true,
-        "raises": true
+        "raises": true,
+        "emissions": true
     },
     "1340": {
         "name": "icecream-finance",
@@ -8651,7 +8651,6 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
         "raises": true
     },
     "1642": {
@@ -17812,6 +17811,7 @@
         "name": "pika-v4",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -31989,7 +31989,8 @@
     "5887": {
         "name": "extended",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "perps": true
     },
     "5888": {
         "name": "magnify-cash",
@@ -32338,6 +32339,10 @@
         "fees": true,
         "revenue": true
     },
+    "chain#2092": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#20947": {
         "fees": true,
         "revenue": true
@@ -32347,6 +32352,10 @@
         "revenue": true
     },
     "chain#21794": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#22265": {
         "fees": true,
         "revenue": true
     },
@@ -32382,6 +32391,10 @@
         "fees": true,
         "revenue": true
     },
+    "chain#4172": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#42161": {
         "fees": true,
         "revenue": true
@@ -32395,6 +32408,14 @@
         "revenue": true
     },
     "chain#42420": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#42793": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#43111": {
         "fees": true,
         "revenue": true
     },
@@ -32435,6 +32456,10 @@
         "revenue": true
     },
     "chain#6535": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#690": {
         "fees": true,
         "revenue": true
     },
@@ -33080,7 +33105,8 @@
         "forks": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "parent#charm-finance": {
         "name": "charm-finance",
@@ -33224,8 +33250,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#cyberblast": {
         "name": "cyberblast",
@@ -34847,6 +34872,7 @@
         "name": "pika-protocol",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -35817,7 +35843,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#tropykus-finance": {
         "name": "tropykus-finance",
@@ -36093,7 +36120,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
