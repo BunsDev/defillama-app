@@ -9785,7 +9785,8 @@
     "1845": {
         "name": "orbitalswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1846": {
         "name": "kefirswap",
@@ -16907,7 +16908,8 @@
     "3120": {
         "name": "orbiter-one",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3121": {
         "name": "pearl-v1",
@@ -17034,8 +17036,7 @@
         "tvl": false,
         "yields": false,
         "liquidity": true,
-        "nfts": true,
-        "emissions": true
+        "nfts": true
     },
     "3145": {
         "name": "pinjam-labs",
@@ -35196,8 +35197,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#skullswap": {
         "name": "skullswap",
@@ -36080,8 +36080,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
