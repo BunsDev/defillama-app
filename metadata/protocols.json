@@ -9538,8 +9538,7 @@
         "name": "vaultcraft",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "liquidity": true
+        "governance": true
     },
     "1792": {
         "name": "foodcourt",
