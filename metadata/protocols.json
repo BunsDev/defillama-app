@@ -7756,7 +7756,8 @@
     "1469": {
         "name": "btngroup",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1470": {
         "name": "nereus-finance",
@@ -17715,8 +17716,7 @@
     "3244": {
         "name": "one-dex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3245": {
         "name": "venus-isolated-pools",
@@ -32403,6 +32403,16 @@
     },
     "5939": {
         "name": "basefinance",
+        "tvl": true,
+        "yields": false
+    },
+    "5940": {
+        "name": "hyperlend",
+        "tvl": true,
+        "yields": false
+    },
+    "5941": {
+        "name": "ringswap",
         "tvl": true,
         "yields": false
     },
