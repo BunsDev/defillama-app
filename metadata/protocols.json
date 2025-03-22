@@ -6357,8 +6357,7 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "1208": {
         "name": "openleverage",
@@ -8890,8 +8889,7 @@
     "1674": {
         "name": "lemuria-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1675": {
         "name": "cennznet-bridge",
@@ -14452,8 +14450,7 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "2665": {
         "name": "apecoin",
