@@ -3744,7 +3744,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "dexs": true
     },
@@ -6357,7 +6357,8 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "1208": {
         "name": "openleverage",
@@ -10432,7 +10433,8 @@
     "1949": {
         "name": "civfund",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1950": {
         "name": "baryon-network",
@@ -14451,7 +14453,8 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "2665": {
         "name": "apecoin",
@@ -16978,8 +16981,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
-        "emissions": true
+        "activeUsers": true
     },
     "3108": {
         "name": "pawnfi-ape-staking",
@@ -33310,8 +33312,7 @@
         "name": "clearpool",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#cleopatra-exchange": {
         "name": "cleopatra-exchange",
