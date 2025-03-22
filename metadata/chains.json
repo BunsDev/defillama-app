@@ -739,7 +739,6 @@
     },
     "ethereumclassic": {
         "name": "EthereumClassic",
-        "fees": true,
         "gecko_id": "ethereum-classic",
         "tokenSymbol": "ETC"
     },
@@ -1157,7 +1156,6 @@
     },
     "kroma": {
         "name": "Kroma",
-        "fees": true,
         "inflows": true,
         "chainAssets": true,
         "gecko_id": "kroma",
@@ -2054,7 +2052,6 @@
     },
     "syscoin": {
         "name": "Syscoin",
-        "fees": true,
         "dexs": true,
         "gecko_id": "syscoin",
         "tokenSymbol": "SYS"
@@ -2126,7 +2123,6 @@
     },
     "thundercore": {
         "name": "ThunderCore",
-        "fees": true,
         "dexs": true,
         "aggregators": true,
         "bridge-aggregators": true,
@@ -2215,7 +2211,6 @@
     },
     "velas": {
         "name": "Velas",
-        "fees": true,
         "dexs": true,
         "gecko_id": "velas",
         "tokenSymbol": "VLX"
