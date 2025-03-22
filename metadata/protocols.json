@@ -2189,7 +2189,8 @@
     "453": {
         "name": "wild-credit",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "454": {
         "name": "back-finance",
@@ -5856,7 +5857,8 @@
     "1122": {
         "name": "grassland-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1123": {
         "name": "salem-finance",
@@ -32531,8 +32533,7 @@
         "expenses": true,
         "treasury": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#abracadabra": {
         "name": "abracadabra",
