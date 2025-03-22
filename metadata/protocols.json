@@ -6171,7 +6171,8 @@
     "1184": {
         "name": "cybertime",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1185": {
         "name": "marginswap",
@@ -8123,7 +8124,8 @@
     "1548": {
         "name": "chaotic-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1549": {
         "name": "babena",
@@ -10220,7 +10222,8 @@
     "1920": {
         "name": "ordernchaos",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1921": {
         "name": "dogeclaw",
@@ -19163,7 +19166,8 @@
         "name": "abachi",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "3511": {
         "name": "leech-protocol",
