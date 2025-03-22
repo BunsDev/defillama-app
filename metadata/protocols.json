@@ -24641,7 +24641,7 @@
     },
     "4521": {
         "name": "helix-markets",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -32533,7 +32533,8 @@
         "expenses": true,
         "treasury": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "parent#abracadabra": {
         "name": "abracadabra",
@@ -35457,8 +35458,7 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#stationdex": {
         "name": "stationdex",
@@ -36135,8 +36135,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
