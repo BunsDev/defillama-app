@@ -7499,8 +7499,7 @@
         "tvl": true,
         "yields": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "1434": {
         "name": "newspace-finance",
@@ -8370,6 +8369,7 @@
         "name": "strips-finance",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "raises": true
     },
     "1593": {
@@ -33127,8 +33127,7 @@
         "forks": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#charm-finance": {
         "name": "charm-finance",
@@ -36143,8 +36142,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
