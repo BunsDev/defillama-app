@@ -2305,6 +2305,7 @@
         "name": "complus-network",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "472": {
@@ -3680,7 +3681,6 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -5983,8 +5983,7 @@
     "1146": {
         "name": "cyberfantasyfembots",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1147": {
         "name": "emerald-swap",
@@ -7939,7 +7938,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1516": {
