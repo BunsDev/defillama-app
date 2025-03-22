@@ -510,7 +510,8 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "183": {
         "name": "wing-finance",
@@ -3741,7 +3742,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -12560,6 +12561,7 @@
         "name": "ston.fi",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -17154,7 +17156,8 @@
         "tvl": false,
         "yields": false,
         "liquidity": true,
-        "nfts": true
+        "nfts": true,
+        "emissions": true
     },
     "3145": {
         "name": "pinjam-labs",
@@ -35460,7 +35463,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#skullswap": {
         "name": "skullswap",
