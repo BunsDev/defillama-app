@@ -250,11 +250,13 @@
         "fees": true,
         "dexs": true,
         "derivatives": true,
+        "aggregators": true,
         "gecko_id": "bitcoin-cash",
         "tokenSymbol": "BCH"
     },
     "bitgert": {
         "name": "Bitgert",
+        "dexs": true,
         "gecko_id": "bitrise-token",
         "tokenSymbol": "BRISE"
     },
@@ -536,7 +538,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -611,6 +612,7 @@
     "dogechain": {
         "name": "Dogechain",
         "fees": true,
+        "aggregators": true,
         "inflows": true,
         "gecko_id": "dogechain",
         "tokenSymbol": "DG"
@@ -1012,6 +1014,7 @@
     },
     "idex": {
         "name": "IDEX",
+        "derivatives": true,
         "gecko_id": "aurora-dao",
         "tokenSymbol": "IDEX"
     },
@@ -1222,6 +1225,7 @@
         "name": "Litecoin",
         "activeUsers": true,
         "fees": true,
+        "aggregators": true,
         "bridge-aggregators": true,
         "gecko_id": "litecoin",
         "tokenSymbol": "LTC"
@@ -1353,6 +1357,7 @@
     },
     "mixin": {
         "name": "Mixin",
+        "dexs": true,
         "gecko_id": "mixin",
         "tokenSymbol": "XIN"
     },
