@@ -19465,8 +19465,7 @@
     "3565": {
         "name": "ball-exchange",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3566": {
         "name": "friend3",
