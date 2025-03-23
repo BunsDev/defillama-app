@@ -32118,7 +32118,6 @@
         "name": "extended",
         "tvl": true,
         "yields": false,
-        "dexs": true,
         "perps": true
     },
     "5888": {
