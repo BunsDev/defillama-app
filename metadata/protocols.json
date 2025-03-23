@@ -903,8 +903,6 @@
         "governance": true,
         "liquidity": true,
         "activeUsers": true,
-        "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "247": {
@@ -4668,6 +4666,7 @@
         "name": "mesher",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true
     },
     "898": {
@@ -9203,8 +9202,7 @@
     "1731": {
         "name": "honkswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1732": {
         "name": "verse",
@@ -10890,7 +10888,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2036": {
@@ -14157,8 +14155,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "2617": {
         "name": "dedust",
@@ -32445,11 +32442,27 @@
         "fees": true,
         "revenue": true
     },
+    "chain#106": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#108": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#1088": {
         "fees": true,
         "revenue": true
     },
+    "chain#1135": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#11419": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#122": {
         "fees": true,
         "revenue": true
     },
@@ -32473,11 +32486,31 @@
         "fees": true,
         "revenue": true
     },
+    "chain#13371": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#137": {
         "fees": true,
         "revenue": true
     },
     "chain#146": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#148": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#1514": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#16116": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#1666600000": {
         "fees": true,
         "revenue": true
     },
@@ -32529,10 +32562,6 @@
         "fees": true,
         "revenue": true
     },
-    "chain#22265": {
-        "fees": true,
-        "revenue": true
-    },
     "chain#22691": {
         "fees": true,
         "revenue": true
@@ -32542,6 +32571,10 @@
         "revenue": true
     },
     "chain#23149": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#246": {
         "fees": true,
         "revenue": true
     },
@@ -32557,11 +32590,31 @@
         "fees": true,
         "revenue": true
     },
+    "chain#255": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#30": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#321": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#324": {
         "fees": true,
         "revenue": true
     },
+    "chain#33139": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#34443": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#40": {
         "fees": true,
         "revenue": true
     },
@@ -32629,6 +32682,10 @@
         "fees": true,
         "revenue": true
     },
+    "chain#57": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#57073": {
         "fees": true,
         "revenue": true
@@ -32637,11 +32694,19 @@
         "fees": true,
         "revenue": true
     },
+    "chain#61": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#6535": {
         "fees": true,
         "revenue": true
     },
     "chain#690": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#7000": {
         "fees": true,
         "revenue": true
     },
@@ -32658,6 +32723,10 @@
         "revenue": true
     },
     "chain#8453": {
+        "fees": true,
+        "revenue": true
+    },
+    "chain#88888": {
         "fees": true,
         "revenue": true
     },
