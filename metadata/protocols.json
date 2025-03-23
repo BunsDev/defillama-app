@@ -35377,8 +35377,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#sperax": {
         "name": "sperax",
