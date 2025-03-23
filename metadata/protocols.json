@@ -2009,8 +2009,7 @@
     "422": {
         "name": "bunicorn",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "423": {
         "name": "deri-protocol",
