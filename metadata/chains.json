@@ -2029,7 +2029,8 @@
         "tokenSymbol": "SUI"
     },
     "superposition": {
-        "name": "Superposition"
+        "name": "Superposition",
+        "fees": true
     },
     "swan": {
         "name": "Swan",
