@@ -14155,7 +14155,8 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true
+        "raises": true,
+        "emissions": true
     },
     "2617": {
         "name": "dedust",
@@ -27414,6 +27415,7 @@
         "name": "cyberperp",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "perps": true
     },
     "5017": {
