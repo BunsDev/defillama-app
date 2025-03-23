@@ -1231,6 +1231,7 @@
         "tvl": false,
         "yields": false,
         "governance": true,
+        "liquidity": true,
         "raises": true
     },
     "301": {
@@ -2319,7 +2320,8 @@
     "473": {
         "name": "baguette",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "474": {
         "name": "canary",
@@ -6824,7 +6826,8 @@
     "1308": {
         "name": "frog-nation-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1309": {
         "name": "gaia-dao",
@@ -11871,7 +11874,8 @@
     "2215": {
         "name": "frog-swap",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2216": {
         "name": "kekswap",
@@ -16809,7 +16813,8 @@
     "3099": {
         "name": "froggy-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3100": {
         "name": "coindrip",
@@ -16855,7 +16860,8 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true
+        "activeUsers": true,
+        "emissions": true
     },
     "3108": {
         "name": "pawnfi-ape-staking",
@@ -33179,7 +33185,8 @@
         "name": "clearpool",
         "yields": true,
         "tvl": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#cleopatra-exchange": {
         "name": "cleopatra-exchange",
@@ -35372,8 +35379,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#sperax": {
         "name": "sperax",
