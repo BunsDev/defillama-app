@@ -295,8 +295,7 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "149": {
         "name": "b.protocol",
@@ -509,8 +508,7 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "183": {
         "name": "wing-finance",
@@ -5442,8 +5440,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "1049": {
         "name": "globiance",
@@ -9530,6 +9527,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -12738,8 +12736,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "2383": {
         "name": "ampleswap",
@@ -17042,8 +17039,7 @@
         "tvl": false,
         "yields": false,
         "liquidity": true,
-        "nfts": true,
-        "emissions": true
+        "nfts": true
     },
     "3145": {
         "name": "pinjam-labs",
@@ -18012,7 +18008,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -35111,8 +35108,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#rehold": {
         "name": "rehold",
@@ -35373,8 +35369,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#sperax": {
         "name": "sperax",
