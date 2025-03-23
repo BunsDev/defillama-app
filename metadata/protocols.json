@@ -295,7 +295,8 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "149": {
         "name": "b.protocol",
@@ -1344,8 +1345,7 @@
         "liquidity": true,
         "activeUsers": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "320": {
         "name": "depth",
@@ -1617,8 +1617,7 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "363": {
         "name": "xdollar",
@@ -4737,6 +4736,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -5483,7 +5483,8 @@
     "1055": {
         "name": "fiat-dao",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1056": {
         "name": "redacted-protocol",
@@ -6312,8 +6313,7 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "1208": {
         "name": "openleverage",
@@ -6991,8 +6991,7 @@
         "yields": false,
         "treasury": true,
         "liquidity": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "1340": {
         "name": "icecream-finance",
@@ -9664,7 +9663,8 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -14365,8 +14365,7 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "2665": {
         "name": "apecoin",
@@ -16859,8 +16858,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
-        "emissions": true
+        "activeUsers": true
     },
     "3108": {
         "name": "pawnfi-ape-staking",
@@ -20977,8 +20975,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "3855": {
         "name": "rosswap",
@@ -32552,8 +32549,7 @@
         "expenses": true,
         "treasury": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#abracadabra": {
         "name": "abracadabra",
@@ -32825,8 +32821,7 @@
         "activeUsers": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#bancor": {
         "name": "bancor",
@@ -33180,8 +33175,7 @@
         "name": "clearpool",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#cleopatra-exchange": {
         "name": "cleopatra-exchange",
@@ -33283,8 +33277,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#cyberblast": {
         "name": "cyberblast",
@@ -33399,8 +33392,7 @@
         "treasury": true,
         "liquidity": true,
         "dexs": true,
-        "aggregator": true,
-        "emissions": true
+        "aggregator": true
     },
     "parent#dojoswap": {
         "name": "dojoswap",
@@ -35267,8 +35259,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#skullswap": {
         "name": "skullswap",
@@ -35472,8 +35463,7 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "parent#stationdex": {
         "name": "stationdex",
@@ -35677,8 +35667,7 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "perps": true,
-        "emissions": true
+        "perps": true
     },
     "parent#synthswap": {
         "name": "synthswap",
@@ -35873,8 +35862,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#tropykus-finance": {
         "name": "tropykus-finance",
@@ -35941,8 +35929,7 @@
         "activeUsers": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#uniwswap": {
         "name": "uniwswap",
@@ -36150,8 +36137,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
