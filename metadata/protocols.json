@@ -295,8 +295,7 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "149": {
         "name": "b.protocol",
@@ -10827,7 +10826,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2036": {
@@ -14073,8 +14072,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "2617": {
         "name": "dedust",
@@ -25096,7 +25094,8 @@
     "4605": {
         "name": "whales-market",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4606": {
         "name": "yieldnest",
@@ -35375,7 +35374,8 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#sperax": {
         "name": "sperax",
