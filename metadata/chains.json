@@ -2279,6 +2279,11 @@
         "aggregators": true,
         "bridge-aggregators": true
     },
+    "winr": {
+        "name": "WINR",
+        "gecko_id": "winr-protocol",
+        "tokenSymbol": "WINR"
+    },
     "world-chain": {
         "name": "World Chain",
         "fees": true,

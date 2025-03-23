@@ -2769,8 +2769,7 @@
     "548": {
         "name": "dfs-network",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "549": {
         "name": "vigor",
@@ -3732,7 +3731,7 @@
     },
     "716": {
         "name": "billion-happiness",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "717": {
@@ -26433,7 +26432,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
@@ -32281,6 +32280,17 @@
     "5941": {
         "name": "ringswap",
         "tvl": true,
+        "yields": false,
+        "liquidity": true
+    },
+    "5942": {
+        "name": "gacha",
+        "tvl": true,
+        "yields": false
+    },
+    "5943": {
+        "name": "umbra",
+        "tvl": false,
         "yields": false
     },
     "chain#1": {
