@@ -7785,7 +7785,8 @@
     "1486": {
         "name": "fountain-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1487": {
         "name": "klaybank",
@@ -22931,12 +22932,14 @@
     "4202": {
         "name": "cyberblast-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4203": {
         "name": "cyberblast-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4204": {
         "name": "rockswap",
@@ -26840,7 +26843,7 @@
     "4939": {
         "name": "maha.xyz",
         "tvl": false,
-        "yields": false,
+        "yields": true,
         "governance": true,
         "treasury": true,
         "liquidity": true,
@@ -33292,7 +33295,8 @@
     "parent#cyberblast": {
         "name": "cyberblast",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#cygnus-finance": {
         "name": "cygnus",
