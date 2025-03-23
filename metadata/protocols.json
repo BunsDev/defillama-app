@@ -35275,8 +35275,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#skullswap": {
         "name": "skullswap",
@@ -35377,7 +35376,8 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#sperax": {
         "name": "sperax",
