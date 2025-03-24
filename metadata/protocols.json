@@ -1548,7 +1548,6 @@
         "name": "gravity-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "352": {
@@ -4133,7 +4132,8 @@
     "808": {
         "name": "swift-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "809": {
         "name": "polyyeld-finance",
@@ -10537,6 +10537,7 @@
         "name": "orbit-bridge",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "1982": {
@@ -18285,8 +18286,7 @@
     "3357": {
         "name": "antihero-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3358": {
         "name": "krav",
@@ -18689,7 +18689,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -22031,8 +22030,7 @@
     "4048": {
         "name": "circlepacific",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4049": {
         "name": "zerion-wallet",
@@ -25014,7 +25012,7 @@
     "4592": {
         "name": "origami-finance",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "4593": {
         "name": "free-protocol",
@@ -35790,7 +35788,7 @@
     },
     "parent#temple-dao": {
         "name": "temple-dao",
-        "yields": false,
+        "yields": true,
         "tvl": true,
         "liquidity": true,
         "dexs": true
