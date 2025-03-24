@@ -295,8 +295,7 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "149": {
         "name": "b.protocol",
@@ -3100,8 +3099,7 @@
         "yields": false,
         "governance": true,
         "liquidity": true,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "608": {
         "name": "cap",
@@ -7533,6 +7531,7 @@
         "name": "polaris-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11192,8 +11191,7 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2102": {
         "name": "titano-swych",
@@ -11353,7 +11351,6 @@
         "name": "capricorn-finance",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "2129": {
@@ -11527,7 +11524,7 @@
     },
     "2156": {
         "name": "ethwswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2157": {
@@ -14071,7 +14068,8 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true
+        "raises": true,
+        "emissions": true
     },
     "2617": {
         "name": "dedust",
@@ -29771,7 +29769,10 @@
     "5467": {
         "name": "agdex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "perps": true
     },
     "5468": {
         "name": "ton-pump",
@@ -35012,7 +35013,6 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
