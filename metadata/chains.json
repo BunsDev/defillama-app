@@ -1783,7 +1783,6 @@
     },
     "ronin": {
         "name": "Ronin",
-        "fees": true,
         "dexs": true,
         "chainAssets": true
     },

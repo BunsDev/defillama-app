@@ -295,8 +295,7 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "149": {
         "name": "b.protocol",
@@ -2589,8 +2588,7 @@
     "514": {
         "name": "orion-money",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "515": {
         "name": "wrap-protocol",
@@ -14155,8 +14153,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "2617": {
         "name": "dedust",
@@ -16977,7 +16974,8 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true
+        "activeUsers": true,
+        "emissions": true
     },
     "3108": {
         "name": "pawnfi-ape-staking",
@@ -32335,7 +32333,7 @@
     },
     "5927": {
         "name": "dahlia",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5928": {
