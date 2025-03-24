@@ -19509,6 +19509,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23104,7 +23105,8 @@
         "name": "baseline-protocol",
         "tvl": true,
         "yields": false,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "4235": {
         "name": "lens-protocol",
@@ -30566,7 +30568,7 @@
     },
     "5616": {
         "name": "republic-note",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5617": {
@@ -35014,6 +35016,7 @@
         "yields": false,
         "tvl": true,
         "governance": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
