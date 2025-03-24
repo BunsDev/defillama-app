@@ -1412,6 +1412,9 @@
         "gecko_id": "movement",
         "tokenSymbol": "MOVE"
     },
+    "mtt-network": {
+        "name": "MTT Network"
+    },
     "multivac": {
         "name": "MultiVAC",
         "gecko_id": "multivac",

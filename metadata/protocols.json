@@ -2558,7 +2558,7 @@
         "dexs": true
     },
     "509": {
-        "name": "centrifuge",
+        "name": "tinlake",
         "tvl": true,
         "yields": false,
         "liquidity": true,
@@ -6890,8 +6890,7 @@
     "1311": {
         "name": "moremoney",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1312": {
         "name": "epsylon-finance",
@@ -32440,6 +32439,11 @@
         "tvl": true,
         "yields": false
     },
+    "5947": {
+        "name": "mtt-dex",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -33348,6 +33352,11 @@
     },
     "parent#cega": {
         "name": "cega",
+        "yields": false,
+        "tvl": true
+    },
+    "parent#centrifuge": {
+        "name": "centrifuge",
         "yields": false,
         "tvl": true
     },
