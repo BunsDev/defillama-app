@@ -3757,7 +3757,7 @@
     },
     "716": {
         "name": "billion-happiness",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "717": {
@@ -5277,7 +5277,8 @@
     "1010": {
         "name": "ice-dao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1011": {
         "name": "papa-dao",
@@ -5924,8 +5925,7 @@
     "1126": {
         "name": "lemonswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1127": {
         "name": "zeus-finance",
@@ -5961,7 +5961,8 @@
     "1133": {
         "name": "ice-colony",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1134": {
         "name": "duckydefi",
@@ -10401,6 +10402,7 @@
         "name": "moon-swap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1943": {
@@ -10654,6 +10656,7 @@
         "name": "icecreamswap-v2",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1991": {
@@ -14156,12 +14159,14 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true
+        "raises": true,
+        "emissions": true
     },
     "2617": {
         "name": "dedust",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -15155,7 +15160,8 @@
     "2793": {
         "name": "zkmoonswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2794": {
         "name": "ko.one",
@@ -19469,6 +19475,7 @@
         "name": "moonbase",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true
     },
     "3541": {
@@ -23189,8 +23196,7 @@
     "4226": {
         "name": "lemonblast",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4227": {
         "name": "bonkbot",
@@ -26249,7 +26255,8 @@
     "4803": {
         "name": "icecreamswap-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4804": {
         "name": "soroswap",
@@ -32447,7 +32454,8 @@
     "5948": {
         "name": "centrifuge-pool",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
@@ -33399,7 +33407,8 @@
     "parent#centrifuge": {
         "name": "centrifuge",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#cetus": {
         "name": "cetus",
@@ -34235,6 +34244,7 @@
         "name": "icecreamswap",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true
     },
     "parent#idex": {
@@ -35751,7 +35761,8 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "parent#stationdex": {
         "name": "stationdex",
