@@ -295,7 +295,8 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "149": {
         "name": "b.protocol",
@@ -13358,8 +13359,7 @@
     "2496": {
         "name": "fundex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2497": {
         "name": "dinosaur.finance",
@@ -14071,8 +14071,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "2617": {
         "name": "dedust",
@@ -20540,8 +20539,7 @@
     "3764": {
         "name": "boom",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3765": {
         "name": "cryptoo-tech",
@@ -27645,8 +27643,7 @@
     "5080": {
         "name": "boomswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5081": {
         "name": "kujata",
@@ -30175,7 +30172,7 @@
     "5541": {
         "name": "b14g",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "5542": {
         "name": "goldsand-by-inshallah",
