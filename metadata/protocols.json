@@ -1758,7 +1758,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -18001,8 +18000,7 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "3315": {
         "name": "crescentswap",
