@@ -32444,6 +32444,11 @@
         "tvl": true,
         "yields": false
     },
+    "5948": {
+        "name": "centrifuge-pool",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32528,6 +32533,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#1625": {
+        "revenue": true
+    },
     "chain#1666600000": {
         "fees": true,
         "revenue": true
@@ -32536,12 +32544,21 @@
         "fees": true,
         "revenue": true
     },
+    "chain#1729": {
+        "revenue": true
+    },
     "chain#185": {
         "fees": true,
         "revenue": true
     },
     "chain#1868": {
         "fees": true,
+        "revenue": true
+    },
+    "chain#1890": {
+        "revenue": true
+    },
+    "chain#1923": {
         "revenue": true
     },
     "chain#1958": {
@@ -32570,6 +32587,9 @@
     },
     "chain#20947": {
         "fees": true,
+        "revenue": true
+    },
+    "chain#21000000": {
         "revenue": true
     },
     "chain#21516": {
@@ -32672,6 +32692,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#480": {
+        "revenue": true
+    },
     "chain#5000": {
         "fees": true,
         "revenue": true
@@ -32712,6 +32735,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#60808": {
+        "revenue": true
+    },
     "chain#61": {
         "fees": true,
         "revenue": true
@@ -32744,8 +32770,14 @@
         "fees": true,
         "revenue": true
     },
+    "chain#8822": {
+        "revenue": true
+    },
     "chain#88888": {
         "fees": true,
+        "revenue": true
+    },
+    "chain#888888888": {
         "revenue": true
     },
     "chan#scroll": {

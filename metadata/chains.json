@@ -1064,7 +1064,9 @@
         "name": "IOTA EVM",
         "fees": true,
         "dexs": true,
-        "derivatives": true
+        "derivatives": true,
+        "gecko_id": "iota",
+        "tokenSymbol": "IOTA"
     },
     "iotex": {
         "name": "IoTeX",
