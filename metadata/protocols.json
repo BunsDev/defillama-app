@@ -744,7 +744,8 @@
         "name": "vesper",
         "tvl": true,
         "yields": true,
-        "governance": true
+        "governance": true,
+        "liquidity": true
     },
     "221": {
         "name": "defi-swap",
@@ -11191,7 +11192,8 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2102": {
         "name": "titano-swych",
@@ -14068,7 +14070,8 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true
+        "raises": true,
+        "emissions": true
     },
     "2617": {
         "name": "dedust",
@@ -18614,8 +18617,7 @@
     "3417": {
         "name": "unclesam-protocol",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3418": {
         "name": "meowl",
@@ -33477,7 +33479,8 @@
         "treasury": true,
         "liquidity": true,
         "dexs": true,
-        "aggregator": true
+        "aggregator": true,
+        "emissions": true
     },
     "parent#dojoswap": {
         "name": "dojoswap",
