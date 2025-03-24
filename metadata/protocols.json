@@ -16950,7 +16950,8 @@
     "3128": {
         "name": "vestige",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3129": {
         "name": "tigris",
