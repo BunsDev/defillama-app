@@ -32293,6 +32293,11 @@
         "yields": false,
         "dexs": true
     },
+    "5945": {
+        "name": "magnum-bot",
+        "tvl": false,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
