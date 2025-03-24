@@ -32534,6 +32534,7 @@
         "revenue": true
     },
     "chain#1625": {
+        "fees": true,
         "revenue": true
     },
     "chain#1666600000": {
@@ -32545,6 +32546,7 @@
         "revenue": true
     },
     "chain#1729": {
+        "fees": true,
         "revenue": true
     },
     "chain#185": {
@@ -32556,9 +32558,11 @@
         "revenue": true
     },
     "chain#1890": {
+        "fees": true,
         "revenue": true
     },
     "chain#1923": {
+        "fees": true,
         "revenue": true
     },
     "chain#1958": {
@@ -32590,6 +32594,7 @@
         "revenue": true
     },
     "chain#21000000": {
+        "fees": true,
         "revenue": true
     },
     "chain#21516": {
@@ -32693,6 +32698,7 @@
         "revenue": true
     },
     "chain#480": {
+        "fees": true,
         "revenue": true
     },
     "chain#5000": {
@@ -32736,6 +32742,7 @@
         "revenue": true
     },
     "chain#60808": {
+        "fees": true,
         "revenue": true
     },
     "chain#61": {
@@ -32771,6 +32778,7 @@
         "revenue": true
     },
     "chain#8822": {
+        "fees": true,
         "revenue": true
     },
     "chain#88888": {
@@ -32778,6 +32786,7 @@
         "revenue": true
     },
     "chain#888888888": {
+        "fees": true,
         "revenue": true
     },
     "chan#scroll": {
