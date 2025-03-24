@@ -3901,6 +3901,7 @@
         "name": "muesliswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "748": {
@@ -4181,7 +4182,8 @@
     "818": {
         "name": "cashcow-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "819": {
         "name": "helios-prime",
@@ -8240,7 +8242,8 @@
     "1570": {
         "name": "rikkei-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1571": {
         "name": "stargate-v1",
@@ -15524,7 +15527,8 @@
     "2876": {
         "name": "sft-protocol",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "liquidity": true
     },
     "2877": {
         "name": "catsapes",
@@ -33168,6 +33172,9 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
+    },
+    "parent#canary": {
+        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
