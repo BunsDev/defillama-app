@@ -8687,7 +8687,8 @@
     "1637": {
         "name": "bluebit",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1638": {
         "name": "dddx",
