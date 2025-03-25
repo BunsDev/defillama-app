@@ -295,8 +295,7 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "149": {
         "name": "b.protocol",
@@ -2072,6 +2071,7 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
+        "revenue": true,
         "emissions": true
     },
     "436": {
@@ -2377,7 +2377,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -3590,7 +3591,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -3674,6 +3676,7 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -8241,8 +8244,7 @@
     "1570": {
         "name": "rikkei-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1571": {
         "name": "stargate-v1",
@@ -13621,8 +13623,7 @@
         "name": "flux-finance",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2538": {
         "name": "parcl-v2",
@@ -32218,7 +32219,9 @@
     "5929": {
         "name": "getheminames",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5930": {
         "name": "sedge",
@@ -33233,9 +33236,6 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
-    },
-    "parent#canary": {
-        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
