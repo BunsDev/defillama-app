@@ -842,7 +842,8 @@
         "name": "peakdefi",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "liquidity": true
     },
     "236": {
         "name": "perlin",
@@ -8476,7 +8477,8 @@
     "1611": {
         "name": "peak-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1612": {
         "name": "concave",
@@ -14072,8 +14074,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "2617": {
         "name": "dedust",
