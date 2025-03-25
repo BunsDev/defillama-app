@@ -2071,6 +2071,7 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
+        "fees": true,
         "emissions": true
     },
     "436": {
@@ -19280,7 +19281,8 @@
     "3531": {
         "name": "mozaic",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3532": {
         "name": "manga-fi",
