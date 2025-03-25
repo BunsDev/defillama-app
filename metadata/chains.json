@@ -64,6 +64,7 @@
     },
     "ancient8": {
         "name": "Ancient8",
+        "fees": true,
         "chainAssets": true
     },
     "apechain": {
@@ -2046,6 +2047,7 @@
     },
     "swellchain": {
         "name": "Swellchain",
+        "fees": true,
         "chainAssets": true
     },
     "sx-network": {
