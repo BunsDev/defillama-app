@@ -294,8 +294,7 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "149": {
         "name": "b.protocol",
@@ -2741,7 +2740,6 @@
         "name": "soulswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "545": {
@@ -4304,8 +4302,7 @@
     "839": {
         "name": "hades-swap",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "840": {
         "name": "bunnypark",
@@ -5349,8 +5346,7 @@
     "1032": {
         "name": "percent-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1033": {
         "name": "oneswap",
@@ -14076,7 +14072,8 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true
+        "raises": true,
+        "emissions": true
     },
     "2617": {
         "name": "dedust",
@@ -32347,6 +32344,12 @@
         "name": "justbet",
         "tvl": true,
         "yields": false
+    },
+    "5951": {
+        "name": "arbius",
+        "tvl": false,
+        "yields": false,
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
