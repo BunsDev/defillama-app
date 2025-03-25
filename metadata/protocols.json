@@ -1437,8 +1437,7 @@
     "335": {
         "name": "flashstake-old",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "336": {
         "name": "sifchain",
@@ -1608,7 +1607,7 @@
     "362": {
         "name": "perpetual-protocol",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "governance": true,
         "forks": true,
         "treasury": true,
@@ -11279,7 +11278,6 @@
         "name": "flashstake",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "emissions": true
     },
     "2116": {
@@ -16414,7 +16412,6 @@
         "revenue": true
     },
     "3032": {
-        "liquidity": true,
         "raises": true
     },
     "3033": {
@@ -28771,7 +28768,8 @@
     "5286": {
         "name": "fragmetric",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "raises": true
     },
     "5287": {
         "name": "bonzo-finance",
