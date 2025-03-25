@@ -295,7 +295,8 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "149": {
         "name": "b.protocol",
@@ -9526,7 +9527,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9626,8 +9626,7 @@
     "1816": {
         "name": "ruby-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1817": {
         "name": "jupiter-swap",
@@ -14074,7 +14073,8 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true
+        "raises": true,
+        "emissions": true
     },
     "2617": {
         "name": "dedust",
@@ -14213,14 +14213,12 @@
     "2639": {
         "name": "ruby.exchange-yield",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2640": {
         "name": "ruby.exchange-stable",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2641": {
         "name": "fulcrom-perps",
@@ -35337,8 +35335,7 @@
     "parent#ruby.exchange": {
         "name": "ruby.exchange",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#sablier-finance": {
         "name": "sablier",
