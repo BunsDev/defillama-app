@@ -986,7 +986,6 @@
         "name": "mirror",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "261": {
@@ -7832,7 +7831,8 @@
     "1485": {
         "name": "whaleex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1486": {
         "name": "fountain-protocol",
