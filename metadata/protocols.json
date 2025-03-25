@@ -11213,8 +11213,7 @@
     "2093": {
         "name": "scaryswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2094": {
         "name": "boneswap",
@@ -32445,7 +32444,9 @@
     "5945": {
         "name": "magnum-bot",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5946": {
         "name": "termfinance-vaults",
