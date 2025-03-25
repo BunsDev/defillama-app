@@ -84,10 +84,9 @@
         "raises": true
     },
     "118": {
-        "name": "makerdao",
+        "name": "sky-lending",
         "tvl": true,
-        "yields": true,
-        "forks": true,
+        "yields": false,
         "expenses": true,
         "liquidity": true,
         "raises": true,
@@ -125,7 +124,7 @@
     "123": {
         "name": "dforce",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "governance": true,
         "liquidity": true,
         "hacks": true,
@@ -3032,7 +3031,8 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "596": {
         "name": "flux-protocol",
@@ -4867,6 +4867,7 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -10161,7 +10162,6 @@
         "tvl": false,
         "yields": true,
         "treasury": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -11738,7 +11738,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -16413,9 +16414,6 @@
         "revenue": true
     },
     "3032": {
-        "name": "winr-protocol",
-        "tvl": true,
-        "yields": false,
         "liquidity": true,
         "raises": true
     },
@@ -17838,7 +17836,7 @@
     "3286": {
         "name": "teahouse-permissionless",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "3287": {
         "name": "trustake",
@@ -19988,7 +19986,7 @@
         "dexs": true
     },
     "3665": {
-        "name": "maker-rwa",
+        "name": "sky-rwa",
         "tvl": true,
         "yields": false,
         "liquidity": true
@@ -20544,7 +20542,8 @@
     "3764": {
         "name": "boom",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3765": {
         "name": "cryptoo-tech",
@@ -27649,7 +27648,8 @@
     "5080": {
         "name": "boomswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5081": {
         "name": "kujata",
@@ -34550,8 +34550,8 @@
         "dexs": true
     },
     "parent#maker": {
-        "name": "maker",
-        "yields": true,
+        "name": "sky",
+        "yields": false,
         "tvl": true,
         "treasury": true,
         "liquidity": true,
@@ -35855,7 +35855,7 @@
     },
     "parent#teahouse-finance": {
         "name": "teahouse-finance",
-        "yields": true,
+        "yields": false,
         "tvl": true
     },
     "parent#tealswap": {
