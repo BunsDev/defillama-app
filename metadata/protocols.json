@@ -9691,6 +9691,7 @@
         "name": "sharkswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1829": {
