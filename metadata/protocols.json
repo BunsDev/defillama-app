@@ -7600,8 +7600,7 @@
         "name": "solidex",
         "tvl": true,
         "yields": false,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "1451": {
         "raises": true
@@ -16704,8 +16703,7 @@
         "name": "olympulsex",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "3083": {
         "name": "penpie",
@@ -22198,7 +22196,7 @@
     },
     "4074": {
         "name": "equation-v2",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true,
         "fees": true,
@@ -24999,7 +24997,7 @@
     },
     "4586": {
         "name": "equation-v3",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true,
         "fees": true,
@@ -33756,7 +33754,6 @@
     "parent#equation": {
         "name": "equation",
         "yields": false,
-        "tvl": true,
         "liquidity": true,
         "fees": true,
         "revenue": true,
