@@ -293,7 +293,8 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "149": {
         "name": "b.protocol",
@@ -1345,8 +1346,7 @@
         "liquidity": true,
         "activeUsers": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "320": {
         "name": "depth",
@@ -2226,7 +2226,6 @@
         "name": "save",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "hacks": true,
         "raises": true,
         "fees": true,
@@ -14108,8 +14107,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "2617": {
         "name": "dedust",
