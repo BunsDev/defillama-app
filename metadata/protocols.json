@@ -2413,8 +2413,7 @@
     "487": {
         "name": "sunny",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "488": {
         "name": "ubeswap-v2",
@@ -6626,7 +6625,8 @@
     "1266": {
         "name": "fees.wtf",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1267": {
         "name": "the-open-dao-sos",
@@ -8708,7 +8708,8 @@
     "1647": {
         "name": "waterfall-defi",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1648": {
         "name": "cgx-finance",
@@ -10112,7 +10113,8 @@
     "1898": {
         "name": "waterfall-wtf",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1899": {
         "name": "taiga-karura",
@@ -19717,7 +19719,7 @@
     },
     "3605": {
         "name": "blex",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -20396,7 +20398,7 @@
     },
     "3726": {
         "name": "equation-v1",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true,
         "fees": true,
@@ -23537,7 +23539,8 @@
         "name": "hyperblast",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "4301": {
         "name": "verylongswap-amm",
@@ -24504,7 +24507,8 @@
     "4481": {
         "name": "hyperliquid-bridge",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4483": {
         "name": "volcano",
@@ -26503,7 +26507,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4862": {
@@ -28762,7 +28766,7 @@
     },
     "5270": {
         "name": "worldes",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5271": {
@@ -29763,7 +29767,8 @@
     "5448": {
         "name": "hyperliquid-hlp",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5450": {
         "name": "bouncebit-cedefi-yield",
@@ -30091,6 +30096,7 @@
         "name": "hyperliquid-perps",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "perps": true
     },
     "5508": {
@@ -31392,6 +31398,7 @@
         "name": "hyperliquid-spot-orderbook",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -34214,6 +34221,7 @@
         "name": "hyperliquid",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
