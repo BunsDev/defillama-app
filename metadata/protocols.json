@@ -2528,7 +2528,6 @@
         "name": "defibox",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "508": {
@@ -5747,8 +5746,7 @@
     "1103": {
         "name": "snowcatdao",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1104": {
         "name": "agarthadao",
@@ -9493,8 +9491,7 @@
     "1793": {
         "name": "bwatch",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1794": {
         "name": "ostable",
@@ -19016,7 +19013,8 @@
     "3488": {
         "name": "sparkswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3489": {
         "name": "haedal-protocol",
@@ -20335,7 +20333,7 @@
     },
     "3726": {
         "name": "equation-v1",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true,
         "fees": true,
@@ -35112,7 +35110,6 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
