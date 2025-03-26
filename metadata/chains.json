@@ -1322,6 +1322,7 @@
     },
     "meter": {
         "name": "Meter",
+        "fees": true,
         "dexs": true,
         "inflows": true,
         "chainAssets": true,
@@ -2390,6 +2391,7 @@
     },
     "zklink-nova": {
         "name": "zkLink Nova",
+        "fees": true,
         "aggregators": true,
         "inflows": true,
         "chainAssets": true
