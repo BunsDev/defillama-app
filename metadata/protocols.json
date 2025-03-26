@@ -32297,7 +32297,8 @@
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5943": {
         "name": "umbra",
