@@ -2150,7 +2150,6 @@
     },
     "tombchain": {
         "name": "Tombchain",
-        "dexs": true,
         "gecko_id": "tomb",
         "tokenSymbol": "TOMB"
     },

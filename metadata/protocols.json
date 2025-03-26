@@ -11433,6 +11433,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -12325,7 +12326,7 @@
     "2308": {
         "name": "jito",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true,
         "fees": true,
         "revenue": true,
@@ -15951,7 +15952,8 @@
         "name": "archi-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2953": {
         "name": "zenith",
@@ -35109,6 +35111,7 @@
         "yields": false,
         "tvl": true,
         "governance": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
