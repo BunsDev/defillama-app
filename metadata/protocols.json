@@ -293,8 +293,7 @@
         "yields": false,
         "forks": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "149": {
         "name": "b.protocol",
@@ -14075,8 +14074,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "2617": {
         "name": "dedust",
@@ -14365,8 +14363,7 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "2665": {
         "name": "apecoin",
