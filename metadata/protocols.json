@@ -6755,7 +6755,8 @@
         "name": "burgerswap",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "1296": {
         "name": "zipswap",
@@ -9926,8 +9927,7 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1872": {
         "name": "rift-finance",
@@ -11631,7 +11631,8 @@
     "2174": {
         "name": "dexfinance-bsc",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2175": {
         "name": "goosefx",
@@ -13623,6 +13624,7 @@
         "tvl": true,
         "yields": true,
         "governance": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -18097,6 +18099,7 @@
         "name": "swapbased-amm",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18382,6 +18385,7 @@
         "name": "swapbased-perp",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "perps": true
     },
     "3374": {
@@ -18584,6 +18588,7 @@
         "name": "swapbased-concentrated-liquidity",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "3410": {
@@ -19155,6 +19160,7 @@
         "name": "nether.fi",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
@@ -19665,7 +19671,7 @@
     },
     "3605": {
         "name": "blex",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -19990,6 +19996,7 @@
         "tvl": true,
         "yields": true,
         "treasury": true,
+        "liquidity": true,
         "dexs": true
     },
     "3665": {
@@ -22287,7 +22294,8 @@
     "4090": {
         "name": "mint-club-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4091": {
         "name": "binaryx-platform",
@@ -23024,7 +23032,8 @@
     "4216": {
         "name": "swapblast",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4217": {
         "name": "wand-protocol",
@@ -24214,7 +24223,8 @@
     "4436": {
         "name": "iskra-fi",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4437": {
         "name": "puff-penthouse",
@@ -24524,7 +24534,8 @@
     "4498": {
         "name": "swapblast-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4500": {
         "name": "firefly",
@@ -26015,7 +26026,8 @@
     "4778": {
         "name": "infinity-hedge-fund",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4779": {
         "name": "sofa.org",
@@ -26326,6 +26338,9 @@
         "name": "stack",
         "tvl": true,
         "yields": false
+    },
+    "4839": {
+        "liquidity": true
     },
     "4840": {
         "name": "ether.fi-vaults",
@@ -28699,7 +28714,7 @@
     },
     "5270": {
         "name": "worldes",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5271": {
@@ -29086,7 +29101,8 @@
         "name": "common-wealth",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "5337": {
         "name": "royco-protocol",
@@ -29849,7 +29865,8 @@
     "5476": {
         "name": "gud.tech",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5478": {
         "name": "stonebtc",
@@ -33278,6 +33295,9 @@
         "dexs": true,
         "emissions": true
     },
+    "parent#canary": {
+        "activeUsers": true
+    },
     "parent#cap-finance": {
         "name": "cap-finance",
         "yields": false,
@@ -33566,6 +33586,7 @@
         "yields": true,
         "tvl": true,
         "treasury": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -35797,6 +35818,7 @@
         "name": "swapbased",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true,
