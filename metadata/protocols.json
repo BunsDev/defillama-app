@@ -14076,7 +14076,8 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "raises": true
+        "raises": true,
+        "emissions": true
     },
     "2617": {
         "name": "dedust",
@@ -32360,7 +32361,7 @@
         "yields": false
     },
     "5947": {
-        "name": "mtt-dex",
+        "name": "yaakoswap",
         "tvl": true,
         "yields": false
     },
