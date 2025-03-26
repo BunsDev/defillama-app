@@ -85,7 +85,7 @@
     "118": {
         "name": "sky-lending",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "expenses": true,
         "liquidity": true,
         "raises": true,
@@ -3412,7 +3412,6 @@
         "name": "jetswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "660": {
@@ -32307,7 +32306,7 @@
     "5944": {
         "name": "degenprime",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "5945": {
         "name": "magnum-bot",
@@ -34567,7 +34566,7 @@
     },
     "parent#maker": {
         "name": "sky",
-        "yields": false,
+        "yields": true,
         "tvl": true,
         "treasury": true,
         "liquidity": true,
