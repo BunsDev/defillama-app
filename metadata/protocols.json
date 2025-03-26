@@ -417,7 +417,8 @@
     "168": {
         "name": "dev-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "169": {
         "name": "basis-cash",
@@ -11190,8 +11191,7 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2102": {
         "name": "titano-swych",
