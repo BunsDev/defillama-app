@@ -24206,8 +24206,7 @@
         "name": "puff-penthouse",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "4440": {
         "hacks": true
@@ -30569,7 +30568,8 @@
     "5615": {
         "name": "zoth-zeusd",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "hacks": true
     },
     "5616": {
         "name": "republic-note",
