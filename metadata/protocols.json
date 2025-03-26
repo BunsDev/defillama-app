@@ -3031,8 +3031,7 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "596": {
         "name": "flux-protocol",
@@ -4864,7 +4863,6 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -11108,8 +11106,7 @@
     "2086": {
         "name": "rage-trade-v1-(deprecated)",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2087": {
         "name": "chee-finance",
@@ -32386,6 +32383,16 @@
         "tvl": false,
         "yields": false,
         "liquidity": true
+    },
+    "5952": {
+        "name": "corepound",
+        "tvl": true,
+        "yields": false
+    },
+    "5953": {
+        "name": "picwe",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
