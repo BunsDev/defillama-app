@@ -691,6 +691,7 @@
     },
     "energi": {
         "name": "Energi",
+        "dexs": true,
         "gecko_id": "energi",
         "tokenSymbol": "NRG"
     },
@@ -2196,6 +2197,7 @@
         "name": "Unichain",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "chainAssets": true
     },
     "unit0": {
