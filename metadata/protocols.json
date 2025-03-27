@@ -2824,7 +2824,6 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "562": {
@@ -11427,7 +11426,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -12498,8 +12496,7 @@
     "2340": {
         "name": "optitude-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2341": {
         "name": "polycat-dex",
@@ -21625,8 +21622,7 @@
     "3975": {
         "name": "bitswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3976": {
         "name": "orion-liquidity-nodes",
