@@ -26709,7 +26709,7 @@
     "4908": {
         "name": "goldlink",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "4909": {
         "name": "soltradingbot",
