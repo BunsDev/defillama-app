@@ -1951,8 +1951,7 @@
     "416": {
         "name": "westarter",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "417": {
         "name": "solyard",
@@ -15951,8 +15950,7 @@
         "name": "archi-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2953": {
         "name": "zenith",
@@ -23801,8 +23799,7 @@
     "4363": {
         "name": "yield-wars",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4364": {
         "name": "ixs",
