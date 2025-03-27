@@ -4430,7 +4430,8 @@
     "857": {
         "name": "aliensfarm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "858": {
         "name": "piggybank-dao",
