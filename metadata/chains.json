@@ -777,7 +777,6 @@
         "name": "Fantom",
         "fees": true,
         "dexs": true,
-        "derivatives": true,
         "aggregators": true,
         "options": true,
         "bridge-aggregators": true,
@@ -1448,6 +1447,7 @@
         "name": "Near",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "bridge-aggregators": true,
         "inflows": true,
         "gecko_id": "near",
@@ -2142,6 +2142,7 @@
     },
     "tombchain": {
         "name": "Tombchain",
+        "dexs": true,
         "gecko_id": "tomb",
         "tokenSymbol": "TOMB"
     },
