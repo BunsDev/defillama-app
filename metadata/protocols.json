@@ -30472,7 +30472,7 @@
         "yields": false
     },
     "5568": {
-        "name": "fiva-protocol",
+        "name": "fiva",
         "tvl": true,
         "yields": false
     },
@@ -34999,7 +34999,6 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "forks": true,
         "liquidity": true,
         "raises": true,
         "fees": true,

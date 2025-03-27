@@ -1714,7 +1714,9 @@
         "name": "QL1"
     },
     "qubic": {
-        "name": "Qubic"
+        "name": "Qubic",
+        "gecko_id": "qubic-network",
+        "tokenSymbol": "QUBIC"
     },
     "quicksilver": {
         "name": "Quicksilver",
