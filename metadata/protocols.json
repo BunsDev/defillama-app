@@ -10851,7 +10851,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2036": {
@@ -15308,7 +15308,8 @@
     "2830": {
         "name": "brokkr-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2831": {
         "name": "cortexdao",
@@ -19115,7 +19116,8 @@
     "3495": {
         "name": "broswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3496": {
         "name": "esper-finance",
@@ -22543,8 +22545,7 @@
     "4122": {
         "name": "octopus-network",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4123": {
         "name": "omni-liquid-staking",
