@@ -8908,7 +8908,8 @@
     "1690": {
         "name": "zombie-network",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1691": {
         "name": "halofi",
