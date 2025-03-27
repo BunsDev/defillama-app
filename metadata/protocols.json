@@ -3787,7 +3787,8 @@
     "722": {
         "name": "summit-defi",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "723": {
         "name": "potluck-protocol",
@@ -4882,7 +4883,8 @@
     "939": {
         "name": "r-u-generous",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "940": {
         "name": "soda-protocol",
