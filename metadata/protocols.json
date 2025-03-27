@@ -3179,7 +3179,6 @@
         "tvl": true,
         "yields": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -13619,7 +13618,6 @@
         "tvl": true,
         "yields": true,
         "governance": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -22645,7 +22643,8 @@
     "4147": {
         "name": "0xscans",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4148": {
         "name": "meteora-dlmm",
@@ -33325,9 +33324,6 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
-    },
-    "parent#canary": {
-        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
