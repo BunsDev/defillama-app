@@ -11190,7 +11190,8 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2102": {
         "name": "titano-swych",
@@ -11433,6 +11434,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -14612,8 +14614,7 @@
         "name": "void",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "2712": {
         "name": "prepo",
@@ -18232,7 +18233,8 @@
     "3347": {
         "name": "meridian-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3348": {
         "name": "soswap",
@@ -18424,7 +18426,8 @@
     "3380": {
         "name": "baso-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "3381": {
         "name": "thegoblins",
@@ -18455,7 +18458,8 @@
     "3386": {
         "name": "meridian-trade",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3387": {
         "name": "bryan-on-base",
@@ -34730,6 +34734,7 @@
         "name": "meridian",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true,
         "emissions": true
     },
