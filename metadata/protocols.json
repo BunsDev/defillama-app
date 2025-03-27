@@ -5884,7 +5884,8 @@
     "1129": {
         "name": "blackbird-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1130": {
         "name": "buffaloswap",
