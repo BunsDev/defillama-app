@@ -10699,6 +10699,7 @@
         "name": "morpho-compound",
         "tvl": true,
         "yields": true,
+        "forks": true,
         "liquidity": true
     },
     "1998": {
@@ -10897,7 +10898,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2036": {
@@ -32548,6 +32549,31 @@
     },
     "5956": {
         "name": "bearn",
+        "tvl": true,
+        "yields": false
+    },
+    "5957": {
+        "name": "usdfc",
+        "tvl": true,
+        "yields": false
+    },
+    "5958": {
+        "name": "goldminer",
+        "tvl": true,
+        "yields": false
+    },
+    "5959": {
+        "name": "evoq-finance",
+        "tvl": true,
+        "yields": false
+    },
+    "5960": {
+        "name": "hyperpie",
+        "tvl": true,
+        "yields": false
+    },
+    "5961": {
+        "name": "qx",
         "tvl": true,
         "yields": false
     },
