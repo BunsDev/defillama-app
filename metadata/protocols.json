@@ -873,8 +873,7 @@
         "name": "powerpool",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "liquidity": true
+        "governance": true
     },
     "242": {
         "name": "energiswap",
@@ -2087,8 +2086,7 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "439": {
         "name": "the-grand-banks",
@@ -3671,7 +3669,6 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -3727,8 +3724,7 @@
     "717": {
         "name": "decubate",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "718": {
         "name": "alium-swap",
@@ -11695,7 +11691,8 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2187": {
         "name": "dolomite",
