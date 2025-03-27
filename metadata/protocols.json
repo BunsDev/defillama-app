@@ -14838,7 +14838,8 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2752": {
         "name": "onchain-trade",
@@ -29640,7 +29641,7 @@
     },
     "5437": {
         "name": "taraswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -31407,7 +31408,7 @@
     },
     "5776": {
         "name": "dopin-protocol",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5777": {
