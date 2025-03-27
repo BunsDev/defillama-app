@@ -15975,7 +15975,7 @@
     },
     "2957": {
         "name": "seashell",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2959": {
@@ -29868,7 +29868,7 @@
         "yields": false
     },
     "5480": {
-        "name": "hyperfluid",
+        "name": "hyperion",
         "tvl": true,
         "yields": false,
         "fees": true,
