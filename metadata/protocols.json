@@ -33576,7 +33576,8 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#cyberblast": {
         "name": "cyberblast",
@@ -34881,6 +34882,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
+        "treasury": true,
         "liquidity": true,
         "raises": true,
         "fees": true,
@@ -35776,7 +35778,8 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "parent#stationdex": {
         "name": "stationdex",
@@ -36250,7 +36253,8 @@
         "activeUsers": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#uniwswap": {
         "name": "uniwswap",
@@ -36458,7 +36462,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#yield-yak": {
         "name": "yield-yak",
