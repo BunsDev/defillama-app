@@ -1070,8 +1070,7 @@
     "274": {
         "name": "olive-cash",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "275": {
         "name": "sharedstake",
@@ -1800,8 +1799,7 @@
     "391": {
         "name": "pantherswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "392": {
         "name": "wardenswap",
@@ -2089,7 +2087,8 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "439": {
         "name": "the-grand-banks",
@@ -3099,7 +3098,8 @@
         "yields": false,
         "governance": true,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "608": {
         "name": "cap",
@@ -9925,7 +9925,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
@@ -13860,7 +13861,8 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2578": {
         "name": "beamer-bridge",
@@ -15962,7 +15964,8 @@
         "name": "archi-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2953": {
         "name": "zenith",
@@ -22916,7 +22919,7 @@
         "raises": true
     },
     "4197": {
-        "name": "secured-finance",
+        "name": "secured-finance-lending",
         "tvl": true,
         "yields": false
     },
@@ -35505,6 +35508,11 @@
     },
     "parent#secta-finance": {
         "name": "secta-finance",
+        "yields": false,
+        "tvl": true
+    },
+    "parent#secured-finance": {
+        "name": "secured-finance",
         "yields": false,
         "tvl": true
     },
