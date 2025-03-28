@@ -29147,7 +29147,7 @@
     "5343": {
         "name": "reservoir-protocol",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "5344": {
         "name": "bitflux",
