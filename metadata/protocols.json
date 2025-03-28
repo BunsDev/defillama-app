@@ -9483,6 +9483,7 @@
         "tvl": true,
         "yields": true,
         "governance": true,
+        "fees": true,
         "revenue": true
     },
     "1792": {
@@ -30804,7 +30805,9 @@
         "name": "filament-v1",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5651": {
         "name": "5ire-dapp-staking",
@@ -32412,6 +32415,7 @@
         "name": "dextoro",
         "tvl": false,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "5955": {
@@ -32642,6 +32646,7 @@
         "revenue": true
     },
     "chain#3073": {
+        "fees": true,
         "revenue": true
     },
     "chain#321": {
@@ -33911,6 +33916,7 @@
         "tvl": true,
         "fees": true,
         "revenue": true,
+        "dexs": true,
         "perps": true
     },
     "parent#fixes-inscription": {
