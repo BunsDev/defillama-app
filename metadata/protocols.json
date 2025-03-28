@@ -4074,7 +4074,6 @@
         "name": "cashio",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "794": {
@@ -15515,7 +15514,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2854": {
@@ -15612,7 +15611,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -20221,8 +20220,7 @@
     "3679": {
         "name": "phase",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3680": {
         "name": "statix-farm",
