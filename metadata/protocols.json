@@ -2431,6 +2431,7 @@
         "name": "moola-market",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "hacks": true,
         "raises": true
     },
