@@ -24343,6 +24343,7 @@
         "name": "magpie-protocol",
         "tvl": false,
         "yields": false,
+        "raises": true,
         "aggregator": true
     },
     "4458": {
