@@ -2587,7 +2587,8 @@
     "514": {
         "name": "orion-money",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "515": {
         "name": "wrap-protocol",
@@ -12540,7 +12541,6 @@
         "name": "equalizer-exchange",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -17334,7 +17334,6 @@
         "name": "equity",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -33961,7 +33960,6 @@
         "name": "equalizer",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
