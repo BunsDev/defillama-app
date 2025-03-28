@@ -696,6 +696,7 @@
     },
     "energyweb": {
         "name": "EnergyWeb",
+        "fees": true,
         "gecko_id": "energy-web-token",
         "tokenSymbol": "EWT"
     },
