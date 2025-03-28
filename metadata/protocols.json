@@ -1043,7 +1043,6 @@
         "forks": true,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -8735,8 +8734,7 @@
     "1656": {
         "name": "funbeast",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1657": {
         "name": "predy-v3.2",
@@ -9484,7 +9482,8 @@
         "name": "vaultcraft",
         "tvl": true,
         "yields": true,
-        "governance": true
+        "governance": true,
+        "revenue": true
     },
     "1792": {
         "name": "foodcourt",
@@ -30804,7 +30803,8 @@
     "5650": {
         "name": "filament-v1",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5651": {
         "name": "5ire-dapp-staking",
@@ -32411,7 +32411,8 @@
     "5954": {
         "name": "dextoro",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5955": {
         "name": "keiko-finance",
@@ -32638,6 +32639,9 @@
     },
     "chain#30": {
         "fees": true,
+        "revenue": true
+    },
+    "chain#3073": {
         "revenue": true
     },
     "chain#321": {
