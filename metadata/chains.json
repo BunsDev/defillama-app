@@ -64,6 +64,7 @@
     },
     "ancient8": {
         "name": "Ancient8",
+        "fees": true,
         "chainAssets": true
     },
     "apechain": {
@@ -739,6 +740,7 @@
     },
     "ethereumclassic": {
         "name": "EthereumClassic",
+        "fees": true,
         "gecko_id": "ethereum-classic",
         "tokenSymbol": "ETC"
     },
@@ -748,7 +750,8 @@
         "tokenSymbol": "ETHW"
     },
     "etherlink": {
-        "name": "Etherlink"
+        "name": "Etherlink",
+        "fees": true
     },
     "ethf": {
         "name": "ETHF",
@@ -1112,6 +1115,7 @@
     },
     "kardia": {
         "name": "Kardia",
+        "fees": true,
         "dexs": true,
         "gecko_id": "kardiachain",
         "tokenSymbol": "KAI"
@@ -1156,6 +1160,7 @@
     },
     "kroma": {
         "name": "Kroma",
+        "fees": true,
         "inflows": true,
         "chainAssets": true,
         "gecko_id": "kroma",
@@ -1496,6 +1501,7 @@
     },
     "nuls": {
         "name": "Nuls",
+        "fees": true,
         "gecko_id": "nuls",
         "tokenSymbol": "NULS"
     },
@@ -2035,7 +2041,8 @@
         "tokenSymbol": "SUI"
     },
     "superposition": {
-        "name": "Superposition"
+        "name": "Superposition",
+        "fees": true
     },
     "swan": {
         "name": "Swan",
@@ -2044,6 +2051,7 @@
     },
     "swellchain": {
         "name": "Swellchain",
+        "fees": true,
         "chainAssets": true
     },
     "sx-network": {
@@ -2058,6 +2066,7 @@
     },
     "syscoin": {
         "name": "Syscoin",
+        "fees": true,
         "dexs": true,
         "gecko_id": "syscoin",
         "tokenSymbol": "SYS"
@@ -2129,6 +2138,7 @@
     },
     "thundercore": {
         "name": "ThunderCore",
+        "fees": true,
         "dexs": true,
         "aggregators": true,
         "bridge-aggregators": true,
@@ -2218,6 +2228,7 @@
     },
     "velas": {
         "name": "Velas",
+        "fees": true,
         "dexs": true,
         "gecko_id": "velas",
         "tokenSymbol": "VLX"
