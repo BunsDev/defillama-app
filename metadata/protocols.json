@@ -6758,8 +6758,7 @@
         "name": "burgerswap",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "1296": {
         "name": "zipswap",
@@ -7946,7 +7945,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1516": {
@@ -9668,8 +9667,7 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -30814,7 +30812,7 @@
         "yields": false,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "perps": true
     },
     "5651": {
         "name": "5ire-dapp-staking",
@@ -31359,7 +31357,9 @@
     "5760": {
         "name": "snake-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5761": {
         "name": "hyperliquid-spot-orderbook",
@@ -31511,7 +31511,8 @@
     "5790": {
         "name": "kittypunch-stablekitty",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5791": {
         "name": "king-protocol",
@@ -33923,7 +33924,6 @@
         "tvl": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
         "perps": true
     },
     "parent#fixes-inscription": {
