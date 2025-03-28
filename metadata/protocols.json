@@ -16639,6 +16639,7 @@
         "yields": true,
         "governance": true,
         "treasury": true,
+        "liquidity": true,
         "hacks": true
     },
     "3069": {
