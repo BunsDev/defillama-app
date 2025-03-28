@@ -412,7 +412,8 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "168": {
         "name": "dev-protocol",
@@ -1043,6 +1044,7 @@
         "forks": true,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -8417,7 +8419,8 @@
     "1600": {
         "name": "greenhouse",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1601": {
         "name": "wingriders",
