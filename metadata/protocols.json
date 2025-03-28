@@ -9229,8 +9229,7 @@
     "1745": {
         "name": "joystick-club",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1746": {
         "name": "mapledefi",
@@ -36252,8 +36251,7 @@
         "activeUsers": true,
         "fees": true,
         "revenue": true,
-        "dexs": true,
-        "emissions": true
+        "dexs": true
     },
     "parent#uniwswap": {
         "name": "uniwswap",
