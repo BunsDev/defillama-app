@@ -9640,9 +9640,7 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
     },
     "1808": {
         "name": "axia-protocol",
@@ -32591,9 +32589,7 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
     },
     "chain#1": {
         "fees": true,
@@ -32780,10 +32776,6 @@
         "revenue": true
     },
     "chain#255": {
-        "fees": true,
-        "revenue": true
-    },
-    "chain#295": {
         "fees": true,
         "revenue": true
     },
