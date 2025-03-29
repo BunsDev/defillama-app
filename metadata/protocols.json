@@ -3103,8 +3103,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "608": {
         "name": "cap",
@@ -3770,7 +3769,8 @@
     "724": {
         "name": "handle.fi",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "725": {
         "name": "bishares",
@@ -8742,7 +8742,8 @@
     "1656": {
         "name": "funbeast",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1657": {
         "name": "predy-v3.2",
@@ -11703,7 +11704,8 @@
     "2184": {
         "name": "handle.fi-perps",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2185": {
         "name": "stabledoin",
@@ -13870,8 +13872,7 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2578": {
         "name": "beamer-bridge",
@@ -14376,7 +14377,8 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "2665": {
         "name": "apecoin",
@@ -14861,8 +14863,7 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2752": {
         "name": "onchain-trade",
@@ -15972,8 +15973,7 @@
         "name": "archi-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2953": {
         "name": "zenith",
@@ -20819,7 +20819,8 @@
     "3820": {
         "name": "handle.fi-hsp",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3821": {
         "name": "particles-money",
@@ -22556,8 +22557,7 @@
     "4130": {
         "name": "blueprint",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4131": {
         "name": "harbor-market",
@@ -33485,7 +33485,8 @@
         "name": "clearpool",
         "yields": true,
         "tvl": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#cleopatra-exchange": {
         "name": "cleopatra-exchange",
@@ -34156,7 +34157,8 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "parent#hatom-protocol": {
         "name": "hatom-protocol",
