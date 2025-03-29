@@ -2302,7 +2302,6 @@
         "name": "complus-network",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "472": {
@@ -5769,7 +5768,8 @@
     "1107": {
         "name": "waterloan",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1108": {
         "name": "gearbox",
@@ -6174,8 +6174,7 @@
     "1184": {
         "name": "cybertime",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1185": {
         "name": "marginswap",
@@ -18001,6 +18000,7 @@
         "name": "retro",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32466,6 +32466,12 @@
         "tvl": true,
         "yields": false
     },
+    "5964": {
+        "name": "bakerdao",
+        "tvl": false,
+        "yields": false,
+        "revenue": true
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -33379,9 +33385,6 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
-    },
-    "parent#canary": {
-        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
