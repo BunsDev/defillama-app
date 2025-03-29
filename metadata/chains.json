@@ -128,8 +128,6 @@
     },
     "artela": {
         "name": "Artela",
-        "fees": true,
-        "dexs": true,
         "gecko_id": "artela-network",
         "tokenSymbol": "ART"
     },
@@ -2090,8 +2088,6 @@
     },
     "taraxa": {
         "name": "Taraxa",
-        "fees": true,
-        "dexs": true,
         "bridge-aggregators": true,
         "gecko_id": "taraxa",
         "tokenSymbol": "TARA"
