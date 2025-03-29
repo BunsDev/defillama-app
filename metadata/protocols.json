@@ -3568,7 +3568,8 @@
     "683": {
         "name": "goswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "684": {
         "name": "hpdex",
@@ -7366,7 +7367,8 @@
     "1399": {
         "name": "fastyield-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1400": {
         "name": "lizard",
@@ -32589,6 +32591,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "chain#1": {
