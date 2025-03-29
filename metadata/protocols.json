@@ -2853,6 +2853,7 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
@@ -18876,8 +18877,7 @@
     "3438": {
         "name": "baklava-space",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3439": {
         "name": "hydration",
@@ -22164,7 +22164,6 @@
         "name": "sudo-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
