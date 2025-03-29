@@ -4162,8 +4162,7 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "816": {
         "name": "xsigma",
@@ -9926,8 +9925,7 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1872": {
         "name": "rift-finance",
@@ -10155,7 +10153,8 @@
     "1910": {
         "name": "shiftdollar",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1911": {
         "name": "betswirl",
@@ -13151,7 +13150,7 @@
     "2454": {
         "name": "geth",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "2456": {
         "name": "bunni",
@@ -18014,8 +18013,7 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "3315": {
         "name": "crescentswap",
@@ -24704,8 +24702,7 @@
     "4529": {
         "name": "openex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4530": {
         "name": "feefree",
@@ -32463,7 +32460,8 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "chain#1": {
         "fees": true,
