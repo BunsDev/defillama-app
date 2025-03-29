@@ -7254,7 +7254,8 @@
         "name": "based-v1",
         "tvl": true,
         "yields": false,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "1380": {
         "name": "minimax",
@@ -17811,7 +17812,8 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "3260": {
         "name": "reax-swaps",
@@ -19108,7 +19110,8 @@
     "3480": {
         "name": "based-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3481": {
         "name": "solidly-v3",
@@ -33019,6 +33022,7 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
+        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
@@ -33276,7 +33280,8 @@
     "parent#based-finance": {
         "name": "based-finance",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#baseswap": {
         "name": "baseswap",
