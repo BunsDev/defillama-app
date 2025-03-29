@@ -31279,7 +31279,8 @@
     "5746": {
         "name": "beraborrow",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "raises": true
     },
     "5747": {
         "name": "straxswap",
@@ -32465,7 +32466,6 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "fees": true,
         "revenue": true
     },
     "chain#1": {
