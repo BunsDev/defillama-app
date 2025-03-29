@@ -1759,6 +1759,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -3675,6 +3676,7 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -14374,8 +14376,7 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "2665": {
         "name": "apecoin",
@@ -32469,8 +32470,7 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "revenue": true
+        "yields": false
     },
     "chain#1": {
         "fees": true,
@@ -33485,8 +33485,7 @@
         "name": "clearpool",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#cleopatra-exchange": {
         "name": "cleopatra-exchange",
