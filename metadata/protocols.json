@@ -727,7 +727,6 @@
         "name": "connext",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "raises": true
     },
     "218": {
@@ -8371,7 +8370,6 @@
         "name": "strips-finance",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "1593": {
@@ -8987,7 +8985,6 @@
         "name": "yup",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "1702": {
@@ -32465,8 +32462,7 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "revenue": true
+        "yields": false
     },
     "chain#1": {
         "fees": true,
