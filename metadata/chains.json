@@ -128,7 +128,6 @@
     },
     "artela": {
         "name": "Artela",
-        "fees": true,
         "gecko_id": "artela-network",
         "tokenSymbol": "ART"
     },
