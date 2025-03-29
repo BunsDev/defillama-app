@@ -1432,7 +1432,6 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "335": {
@@ -2187,8 +2186,7 @@
     "453": {
         "name": "wild-credit",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "454": {
         "name": "back-finance",
@@ -2833,7 +2831,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -4213,8 +4210,7 @@
     "824": {
         "name": "euphoria",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "825": {
         "name": "nft20",
@@ -5859,8 +5855,7 @@
     "1122": {
         "name": "grassland-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1123": {
         "name": "salem-finance",
@@ -15322,7 +15317,6 @@
         "name": "wagmi",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32471,7 +32465,8 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "chain#1": {
         "fees": true,
@@ -33386,6 +33381,9 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
+    },
+    "parent#canary": {
+        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
