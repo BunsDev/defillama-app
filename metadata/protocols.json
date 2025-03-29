@@ -32471,7 +32471,8 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "chain#1": {
         "fees": true,
