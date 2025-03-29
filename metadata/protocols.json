@@ -4452,8 +4452,7 @@
     "861": {
         "name": "bear-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "862": {
         "name": "quarry",
@@ -8132,8 +8131,7 @@
     "1540": {
         "name": "polar-bear-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1541": {
         "name": "portal",
@@ -12572,7 +12570,6 @@
         "name": "ston.fi",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32590,9 +32587,7 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
     },
     "chain#1": {
         "fees": true,
