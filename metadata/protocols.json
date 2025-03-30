@@ -236,8 +236,7 @@
     "139": {
         "name": "snowswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "140": {
         "name": "kava-lend",
@@ -6642,7 +6641,7 @@
     },
     "1264": {
         "name": "smartdexbch",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1265": {
@@ -9205,7 +9204,7 @@
     },
     "1731": {
         "name": "honkswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true
     },
@@ -10895,7 +10894,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -12227,8 +12226,7 @@
     "2263": {
         "name": "snowflake-exchange",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2264": {
         "name": "orderly-perps",
@@ -14457,8 +14455,7 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "2665": {
         "name": "apecoin",
@@ -21846,7 +21843,8 @@
     "3986": {
         "name": "dropcopy",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3987": {
         "name": "bracketx",
@@ -32590,6 +32588,11 @@
     },
     "5964": {
         "name": "bakerdao",
+        "tvl": false,
+        "yields": false
+    },
+    "5965": {
+        "name": "sandglass",
         "tvl": false,
         "yields": false
     },
