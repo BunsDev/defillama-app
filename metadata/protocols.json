@@ -10832,7 +10832,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true
     },
@@ -14097,8 +14097,7 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2619": {
         "name": "metalx-dex",
