@@ -1431,6 +1431,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "335": {
@@ -9581,8 +9582,7 @@
         "name": "pinksale",
         "tvl": true,
         "yields": false,
-        "fees": true,
-        "revenue": true
+        "fees": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -11240,7 +11240,8 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2109": {
         "name": "pyeswap",
@@ -17688,8 +17689,7 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false,
-        "dexs": true
+        "yields": false
     },
     "3260": {
         "name": "reax-swaps",
@@ -32462,8 +32462,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "fees": true,
-        "revenue": true
+        "fees": true
     },
     "chain#1": {
         "fees": true,
@@ -32654,8 +32653,7 @@
         "revenue": true
     },
     "chain#295": {
-        "fees": true,
-        "revenue": true
+        "fees": true
     },
     "chain#30": {
         "fees": true,
@@ -32899,7 +32897,6 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
-        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
