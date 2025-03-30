@@ -3617,8 +3617,7 @@
     "697": {
         "name": "cook-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "699": {
         "name": "polly-finance",
@@ -7142,6 +7141,7 @@
         "name": "astroswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1369": {
@@ -9580,7 +9580,8 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -16897,6 +16898,7 @@
         "name": "astroport",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "dexs": true
     },
     "3118": {
@@ -17687,7 +17689,8 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "3260": {
         "name": "reax-swaps",
@@ -18231,7 +18234,8 @@
     "3346": {
         "name": "cookiebase-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3347": {
         "name": "meridian-finance",
@@ -18484,7 +18488,8 @@
     "3390": {
         "name": "cookiebase-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3391": {
         "name": "liquid-collective",
@@ -32459,7 +32464,8 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "chain#1": {
         "fees": true,
@@ -32648,6 +32654,9 @@
     "chain#255": {
         "fees": true,
         "revenue": true
+    },
+    "chain#295": {
+        "fees": true
     },
     "chain#30": {
         "fees": true,
@@ -32891,6 +32900,7 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
+        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
@@ -33523,7 +33533,8 @@
     "parent#cookiebase": {
         "name": "cookiebase",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#covo-finance": {
         "name": "covo-finance",
