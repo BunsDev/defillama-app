@@ -129,6 +129,7 @@
     "artela": {
         "name": "Artela",
         "fees": true,
+        "dexs": true,
         "gecko_id": "artela-network",
         "tokenSymbol": "ART"
     },
