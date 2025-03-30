@@ -752,6 +752,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -1758,7 +1759,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -1907,7 +1907,8 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "409": {
         "name": "cafeswap",
@@ -3671,7 +3672,6 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -9580,8 +9580,7 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false,
-        "fees": true
+        "yields": false
     },
     "1808": {
         "name": "axia-protocol",
@@ -10200,6 +10199,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11653,7 +11653,8 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -32458,8 +32459,7 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "fees": true
+        "yields": false
     },
     "chain#1": {
         "fees": true,
@@ -32648,9 +32648,6 @@
     "chain#255": {
         "fees": true,
         "revenue": true
-    },
-    "chain#295": {
-        "fees": true
     },
     "chain#30": {
         "fees": true,
