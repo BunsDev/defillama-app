@@ -2643,7 +2643,8 @@
     "529": {
         "name": "shadecash",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "530": {
         "name": "avaware",
@@ -9581,7 +9582,7 @@
         "name": "pinksale",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -32464,7 +32465,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "chain#1": {
         "fees": true,
@@ -32655,7 +32656,7 @@
         "revenue": true
     },
     "chain#295": {
-        "fees": true
+        "revenue": true
     },
     "chain#30": {
         "fees": true,
