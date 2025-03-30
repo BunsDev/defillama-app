@@ -128,6 +128,8 @@
     },
     "artela": {
         "name": "Artela",
+        "fees": true,
+        "dexs": true,
         "gecko_id": "artela-network",
         "tokenSymbol": "ART"
     },
@@ -353,6 +355,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "aggregator-derivatives": true,
         "bridge-aggregators": true,
         "inflows": true,
         "chainAssets": true
