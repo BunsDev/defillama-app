@@ -19303,8 +19303,7 @@
         "name": "abachi",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "3511": {
         "name": "leech-protocol",
