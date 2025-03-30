@@ -5807,7 +5807,8 @@
     "1113": {
         "name": "mama-dao",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1114": {
         "name": "piratedao",
@@ -9582,7 +9583,7 @@
         "name": "pinksale",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -10369,8 +10370,7 @@
     "1949": {
         "name": "civfund",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1950": {
         "name": "baryon-network",
@@ -32462,7 +32462,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "chain#1": {
         "fees": true,
@@ -32653,7 +32653,7 @@
         "revenue": true
     },
     "chain#295": {
-        "fees": true
+        "revenue": true
     },
     "chain#30": {
         "fees": true,
