@@ -3734,7 +3734,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -4096,7 +4096,6 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
-        "fees": true,
         "dexs": true
     },
     "798": {
@@ -6874,8 +6873,7 @@
     "1308": {
         "name": "frog-nation-farm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1309": {
         "name": "gaia-dao",
@@ -7757,8 +7755,7 @@
     "1469": {
         "name": "btngroup",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1470": {
         "name": "nereus-finance",
@@ -9639,8 +9636,7 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false,
-        "fees": true
+        "yields": false
     },
     "1808": {
         "name": "axia-protocol",
@@ -10226,6 +10222,7 @@
         "tvl": false,
         "yields": true,
         "treasury": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -10592,7 +10589,6 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "fees": true,
         "dexs": true
     },
     "1980": {
@@ -11958,8 +11954,7 @@
     "2215": {
         "name": "frog-swap",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2216": {
         "name": "kekswap",
@@ -14458,7 +14453,8 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "2665": {
         "name": "apecoin",
@@ -16937,8 +16933,7 @@
     "3099": {
         "name": "froggy-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3100": {
         "name": "coindrip",
@@ -17812,8 +17807,7 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false,
-        "dexs": true
+        "yields": false
     },
     "3260": {
         "name": "reax-swaps",
@@ -32592,8 +32586,7 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "fees": true
+        "yields": false
     },
     "5965": {
         "name": "sandglass",
@@ -32787,9 +32780,6 @@
     "chain#255": {
         "fees": true,
         "revenue": true
-    },
-    "chain#295": {
-        "fees": true
     },
     "chain#30": {
         "fees": true,
@@ -33033,7 +33023,6 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
-        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
