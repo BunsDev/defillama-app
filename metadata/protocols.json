@@ -1910,8 +1910,7 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "409": {
         "name": "cafeswap",
@@ -3709,7 +3708,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "dexs": true
     },
@@ -4069,7 +4068,6 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "dexs": true
     },
     "798": {
@@ -7948,7 +7946,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1516": {
@@ -9534,7 +9532,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9586,8 +9583,7 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false,
-        "revenue": true
+        "yields": false
     },
     "1808": {
         "name": "axia-protocol",
@@ -10531,11 +10527,10 @@
         "yields": false
     },
     "1979": {
-        "name": "saucerswap",
+        "name": "saucerswap-v1",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true,
-        "revenue": true,
         "dexs": true
     },
     "1980": {
@@ -11207,8 +11202,7 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2102": {
         "name": "titano-swych",
@@ -11663,8 +11657,7 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -15510,7 +15503,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -17696,7 +17689,8 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "3260": {
         "name": "reax-swaps",
@@ -32466,12 +32460,21 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "revenue": true
+        "yields": false
     },
     "5965": {
         "name": "sandglass",
         "tvl": false,
+        "yields": false
+    },
+    "5966": {
+        "name": "saucerswap-v2",
+        "tvl": true,
+        "yields": false
+    },
+    "5967": {
+        "name": "haedal-vault",
+        "tvl": true,
         "yields": false
     },
     "chain#1": {
@@ -32602,9 +32605,6 @@
         "fees": true,
         "revenue": true
     },
-    "chain#2010": {
-        "revenue": true
-    },
     "chain#2020": {
         "fees": true,
         "revenue": true
@@ -32663,9 +32663,6 @@
     },
     "chain#255": {
         "fees": true,
-        "revenue": true
-    },
-    "chain#295": {
         "revenue": true
     },
     "chain#30": {
@@ -32910,6 +32907,7 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
+        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
@@ -35524,6 +35522,11 @@
         "fees": true,
         "revenue": true,
         "perps": true
+    },
+    "parent#saucerswap": {
+        "name": "saucerswap",
+        "yields": true,
+        "tvl": true
     },
     "parent#scallop": {
         "name": "scallop",
