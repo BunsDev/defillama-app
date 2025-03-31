@@ -4069,6 +4069,7 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "798": {
@@ -9585,7 +9586,8 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -10533,6 +10535,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "revenue": true,
         "dexs": true
     },
     "1980": {
@@ -14102,7 +14105,8 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2619": {
         "name": "metalx-dex",
@@ -17692,8 +17696,7 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false,
-        "dexs": true
+        "yields": false
     },
     "3260": {
         "name": "reax-swaps",
@@ -23135,8 +23138,7 @@
         "name": "baseline-protocol",
         "tvl": true,
         "yields": false,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "4235": {
         "name": "lens-protocol",
@@ -32464,7 +32466,8 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5965": {
         "name": "sandglass",
@@ -32599,6 +32602,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#2010": {
+        "revenue": true
+    },
     "chain#2020": {
         "fees": true,
         "revenue": true
@@ -32657,6 +32663,9 @@
     },
     "chain#255": {
         "fees": true,
+        "revenue": true
+    },
+    "chain#295": {
         "revenue": true
     },
     "chain#30": {
@@ -32901,7 +32910,6 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
-        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
