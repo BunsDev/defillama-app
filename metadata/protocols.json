@@ -9691,7 +9691,8 @@
     "1816": {
         "name": "ruby-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1817": {
         "name": "jupiter-swap",
@@ -14314,12 +14315,14 @@
     "2639": {
         "name": "ruby.exchange-yield",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2640": {
         "name": "ruby.exchange-stable",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2641": {
         "name": "fulcrom-perps",
@@ -25564,7 +25567,7 @@
     "4670": {
         "name": "c3-exchange",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "dexs": true
     },
     "4671": {
@@ -32640,7 +32643,20 @@
         "tvl": true,
         "yields": false
     },
+    "5973": {
+        "name": "rolldex",
+        "tvl": true,
+        "yields": false
+    },
+    "5974": {
+        "name": "alfafrens",
+        "tvl": true,
+        "yields": false
+    },
     "5975": {
+        "name": "clutch-markets",
+        "tvl": true,
+        "yields": false,
         "liquidity": true
     },
     "chain#1": {
@@ -35684,7 +35700,8 @@
     "parent#ruby.exchange": {
         "name": "ruby.exchange",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#sablier-finance": {
         "name": "sablier",
