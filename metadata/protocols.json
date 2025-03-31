@@ -1072,7 +1072,8 @@
     "274": {
         "name": "olive-cash",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "275": {
         "name": "sharedstake",
@@ -13371,7 +13372,8 @@
     "2496": {
         "name": "fundex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2497": {
         "name": "dinosaur.finance",
@@ -14373,7 +14375,8 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "2665": {
         "name": "apecoin",
@@ -15408,7 +15411,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -17689,7 +17692,8 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "3260": {
         "name": "reax-swaps",
@@ -32897,6 +32901,7 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
+        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
