@@ -4068,8 +4068,6 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
-        "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "798": {
@@ -9584,9 +9582,7 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
     },
     "1808": {
         "name": "axia-protocol",
@@ -10533,8 +10529,6 @@
         "name": "saucerswap-v1",
         "tvl": true,
         "yields": false,
-        "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "1980": {
@@ -18758,7 +18752,8 @@
     "3438": {
         "name": "baklava-space",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3439": {
         "name": "hydration",
@@ -32464,9 +32459,7 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
     },
     "5965": {
         "name": "sandglass",
@@ -32611,10 +32604,6 @@
         "fees": true,
         "revenue": true
     },
-    "chain#2010": {
-        "fees": true,
-        "revenue": true
-    },
     "chain#2020": {
         "fees": true,
         "revenue": true
@@ -32672,10 +32661,6 @@
         "revenue": true
     },
     "chain#255": {
-        "fees": true,
-        "revenue": true
-    },
-    "chain#295": {
         "fees": true,
         "revenue": true
     },
@@ -35541,8 +35526,6 @@
         "name": "saucerswap",
         "yields": true,
         "tvl": true,
-        "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "parent#scallop": {
