@@ -1030,7 +1030,8 @@
     "267": {
         "name": "s-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "269": {
         "name": "yfii",
@@ -3183,6 +3184,7 @@
         "name": "clipper",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "hacks": true,
         "activeUsers": true,
         "fees": true,
@@ -4066,7 +4068,6 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "dexs": true
     },
     "798": {
@@ -9583,8 +9584,7 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false,
-        "revenue": true
+        "yields": false
     },
     "1808": {
         "name": "axia-protocol",
@@ -10532,7 +10532,6 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "revenue": true,
         "dexs": true
     },
     "1980": {
@@ -11246,8 +11245,7 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2109": {
         "name": "pyeswap",
@@ -14375,8 +14373,7 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "2665": {
         "name": "apecoin",
@@ -15538,8 +15535,7 @@
     "2876": {
         "name": "sft-protocol",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "2877": {
         "name": "catsapes",
@@ -16965,8 +16961,7 @@
     "3128": {
         "name": "vestige",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3129": {
         "name": "tigris",
@@ -32465,8 +32460,7 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false,
-        "revenue": true
+        "yields": false
     },
     "5965": {
         "name": "sandglass",
@@ -32601,9 +32595,6 @@
         "fees": true,
         "revenue": true
     },
-    "chain#2010": {
-        "revenue": true
-    },
     "chain#2020": {
         "fees": true,
         "revenue": true
@@ -32662,9 +32653,6 @@
     },
     "chain#255": {
         "fees": true,
-        "revenue": true
-    },
-    "chain#295": {
         "revenue": true
     },
     "chain#30": {
