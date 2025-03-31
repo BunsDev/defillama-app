@@ -236,7 +236,8 @@
     "139": {
         "name": "snowswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "140": {
         "name": "kava-lend",
@@ -9319,8 +9320,7 @@
     "1751": {
         "name": "solily-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1752": {
         "name": "yelay-v1",
@@ -12235,7 +12235,8 @@
     "2263": {
         "name": "snowflake-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2264": {
         "name": "orderly-perps",
@@ -30657,7 +30658,7 @@
     },
     "5599": {
         "name": "grvt",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "raises": true
     },
