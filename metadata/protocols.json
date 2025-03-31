@@ -4066,7 +4066,7 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "798": {
@@ -9584,7 +9584,7 @@
         "name": "pinksale",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -10532,7 +10532,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "1980": {
@@ -17694,8 +17694,7 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false,
-        "dexs": true
+        "yields": false
     },
     "3260": {
         "name": "reax-swaps",
@@ -32467,7 +32466,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "5965": {
         "name": "sandglass",
@@ -32602,6 +32601,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#2010": {
+        "revenue": true
+    },
     "chain#2020": {
         "fees": true,
         "revenue": true
@@ -32663,7 +32665,7 @@
         "revenue": true
     },
     "chain#295": {
-        "fees": true
+        "revenue": true
     },
     "chain#30": {
         "fees": true,
@@ -32907,7 +32909,6 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
-        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
