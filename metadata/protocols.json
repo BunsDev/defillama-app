@@ -3954,7 +3954,6 @@
         "tvl": true,
         "yields": true,
         "governance": true,
-        "liquidity": true,
         "raises": true,
         "fees": true,
         "revenue": true
@@ -4069,7 +4068,7 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
-        "revenue": true,
+        "fees": true,
         "dexs": true
     },
     "798": {
@@ -6602,7 +6601,7 @@
     },
     "1264": {
         "name": "smartdexbch",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1265": {
@@ -9585,7 +9584,7 @@
         "name": "pinksale",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "fees": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -10532,7 +10531,7 @@
         "name": "saucerswap-v1",
         "tvl": true,
         "yields": false,
-        "revenue": true,
+        "fees": true,
         "dexs": true
     },
     "1980": {
@@ -15507,7 +15506,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -16111,8 +16110,7 @@
     "2977": {
         "name": "merkl",
         "tvl": false,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "2978": {
         "name": "protossdex",
@@ -32464,7 +32462,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "revenue": true
+        "fees": true
     },
     "5965": {
         "name": "sandglass",
@@ -32478,6 +32476,33 @@
     },
     "5967": {
         "name": "haedal-vault",
+        "tvl": true,
+        "yields": false
+    },
+    "5968": {
+        "name": "winter-walrus",
+        "tvl": true,
+        "yields": false
+    },
+    "5969": {
+        "name": "boltz",
+        "tvl": true,
+        "yields": false
+    },
+    "5970": {
+        "name": "jpg-store",
+        "tvl": true,
+        "yields": false,
+        "liquidity": true
+    },
+    "5971": {
+        "name": "orcfax",
+        "tvl": false,
+        "yields": false,
+        "liquidity": true
+    },
+    "5972": {
+        "name": "katana-dex-v3",
         "tvl": true,
         "yields": false
     },
@@ -32610,7 +32635,7 @@
         "revenue": true
     },
     "chain#2010": {
-        "revenue": true
+        "fees": true
     },
     "chain#2020": {
         "fees": true,
@@ -32673,7 +32698,7 @@
         "revenue": true
     },
     "chain#295": {
-        "revenue": true
+        "fees": true
     },
     "chain#30": {
         "fees": true,
@@ -34403,7 +34428,10 @@
         "emissions": true
     },
     "parent#katana-ronin-dex": {
-        "revenue": true
+        "name": "katana-ronin-dex",
+        "yields": false,
+        "tvl": true,
+        "fees": true
     },
     "parent#kayak": {
         "name": "kayak",
@@ -35539,7 +35567,7 @@
         "name": "saucerswap",
         "yields": true,
         "tvl": true,
-        "revenue": true
+        "fees": true
     },
     "parent#scallop": {
         "name": "scallop",
