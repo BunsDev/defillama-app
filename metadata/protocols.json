@@ -4101,6 +4101,7 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -9207,7 +9208,7 @@
     },
     "1731": {
         "name": "honkswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -9642,6 +9643,7 @@
         "name": "pinksale",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "1808": {
@@ -10594,6 +10596,7 @@
         "name": "saucerswap-v1",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -17814,7 +17817,8 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "3260": {
         "name": "reax-swaps",
@@ -32591,6 +32595,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "5965": {
@@ -32634,6 +32639,9 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false
+    },
+    "5975": {
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
@@ -32764,6 +32772,7 @@
         "revenue": true
     },
     "chain#2010": {
+        "fees": true,
         "revenue": true
     },
     "chain#2020": {
@@ -32827,6 +32836,7 @@
         "revenue": true
     },
     "chain#295": {
+        "fees": true,
         "revenue": true
     },
     "chain#30": {
@@ -33071,6 +33081,7 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
+        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
@@ -34560,7 +34571,9 @@
         "name": "katana-ronin-dex",
         "yields": false,
         "tvl": true,
-        "revenue": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "parent#kayak": {
         "name": "kayak",
@@ -35700,7 +35713,9 @@
         "name": "saucerswap",
         "yields": true,
         "tvl": true,
-        "revenue": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "parent#scallop": {
         "name": "scallop",
