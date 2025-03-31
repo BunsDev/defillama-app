@@ -1945,7 +1945,8 @@
     "414": {
         "name": "treedefi",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "415": {
         "name": "naos-finance",
@@ -4066,7 +4067,7 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
-        "revenue": true,
+        "fees": true,
         "dexs": true
     },
     "798": {
@@ -6012,7 +6013,8 @@
     "1151": {
         "name": "the-seed-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1152": {
         "name": "robiniaswap",
@@ -9583,7 +9585,7 @@
         "name": "pinksale",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "fees": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -9927,7 +9929,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
@@ -10530,7 +10533,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "revenue": true,
+        "fees": true,
         "dexs": true
     },
     "1980": {
@@ -11748,8 +11751,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -12462,7 +12464,8 @@
         "name": "swapfish",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -13631,7 +13634,6 @@
         "tvl": true,
         "yields": true,
         "governance": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -17693,7 +17695,8 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "3260": {
         "name": "reax-swaps",
@@ -18015,8 +18018,7 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "3315": {
         "name": "crescentswap",
@@ -25459,7 +25461,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32467,7 +32468,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "revenue": true
+        "fees": true
     },
     "5965": {
         "name": "sandglass",
@@ -32663,7 +32664,7 @@
         "revenue": true
     },
     "chain#295": {
-        "revenue": true
+        "fees": true
     },
     "chain#30": {
         "fees": true,
@@ -32907,6 +32908,7 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
+        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
