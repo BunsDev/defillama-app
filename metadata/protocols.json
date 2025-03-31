@@ -4135,8 +4135,7 @@
     "808": {
         "name": "swift-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "809": {
         "name": "polyyeld-finance",
@@ -7541,7 +7540,6 @@
         "name": "polaris-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -10530,7 +10528,6 @@
         "name": "saucerswap-v1",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "1980": {
@@ -20456,8 +20453,7 @@
     "3746": {
         "name": "davincigraph",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3747": {
         "name": "intentx",
@@ -24389,7 +24385,6 @@
         "name": "hbarsuite",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "4468": {
@@ -29062,8 +29057,7 @@
     "5328": {
         "name": "headstarter",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5329": {
         "name": "thalaswap-v2",
@@ -35526,7 +35520,8 @@
     "parent#saucerswap": {
         "name": "saucerswap",
         "yields": true,
-        "tvl": true
+        "tvl": true,
+        "dexs": true
     },
     "parent#scallop": {
         "name": "scallop",
