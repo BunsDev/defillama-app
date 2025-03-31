@@ -1440,7 +1440,8 @@
     "335": {
         "name": "flashstake-old",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "336": {
         "name": "sifchain",
@@ -4068,6 +4069,7 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "798": {
@@ -9582,7 +9584,8 @@
     "1807": {
         "name": "pinksale",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -10529,6 +10532,7 @@
         "name": "saucerswap-v1",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "1980": {
@@ -11284,6 +11288,7 @@
         "name": "flashstake",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "emissions": true
     },
     "2116": {
@@ -17689,8 +17694,7 @@
     "3259": {
         "name": "aftermath-amm",
         "tvl": true,
-        "yields": false,
-        "dexs": true
+        "yields": false
     },
     "3260": {
         "name": "reax-swaps",
@@ -26867,7 +26871,7 @@
     "4939": {
         "name": "maha.xyz",
         "tvl": false,
-        "yields": true,
+        "yields": false,
         "governance": true,
         "treasury": true,
         "liquidity": true,
@@ -32459,7 +32463,8 @@
     "5964": {
         "name": "bakerdao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5965": {
         "name": "sandglass",
@@ -32604,6 +32609,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#2010": {
+        "revenue": true
+    },
     "chain#2020": {
         "fees": true,
         "revenue": true
@@ -32662,6 +32670,9 @@
     },
     "chain#255": {
         "fees": true,
+        "revenue": true
+    },
+    "chain#295": {
         "revenue": true
     },
     "chain#30": {
@@ -32906,7 +32917,6 @@
         "name": "aftermath-finance",
         "yields": false,
         "tvl": true,
-        "dexs": true,
         "aggregator": true
     },
     "parent#ajira-pay": {
@@ -34392,6 +34402,9 @@
         "revenue": true,
         "emissions": true
     },
+    "parent#katana-ronin-dex": {
+        "revenue": true
+    },
     "parent#kayak": {
         "name": "kayak",
         "yields": false,
@@ -35526,7 +35539,7 @@
         "name": "saucerswap",
         "yields": true,
         "tvl": true,
-        "dexs": true
+        "revenue": true
     },
     "parent#scallop": {
         "name": "scallop",
