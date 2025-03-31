@@ -2305,6 +2305,7 @@
     },
     "winr": {
         "name": "WINR",
+        "dexs": true,
         "gecko_id": "winr-protocol",
         "tokenSymbol": "WINR"
     },

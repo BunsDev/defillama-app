@@ -1986,7 +1986,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "fees": true,
         "dexs": true
     },
     "420": {
@@ -7669,7 +7668,6 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
-        "fees": true,
         "dexs": true
     },
     "1453": {
@@ -14820,7 +14818,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "fees": true,
         "dexs": true
     },
     "2729": {
@@ -18259,7 +18256,7 @@
     },
     "3331": {
         "name": "tetu-pawnshop",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true
     },
@@ -20051,7 +20048,6 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
-        "fees": true,
         "perps": true
     },
     "3649": {
@@ -32533,7 +32529,6 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "fees": true,
         "dexs": true
     },
     "5951": {
@@ -32609,14 +32604,12 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false,
-        "aggregator": true
+        "yields": false
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "fees": true,
         "dexs": true
     },
     "5967": {
@@ -32649,7 +32642,8 @@
     "5972": {
         "name": "katana-dex-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5973": {
         "name": "rolldex",
@@ -32666,6 +32660,16 @@
         "tvl": true,
         "yields": false,
         "liquidity": true
+    },
+    "5976": {
+        "name": "spindash",
+        "tvl": true,
+        "yields": false
+    },
+    "5977": {
+        "name": "privacy-pools",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
