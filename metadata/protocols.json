@@ -4066,7 +4066,7 @@
         "name": "katana-dex",
         "tvl": true,
         "yields": false,
-        "revenue": true,
+        "fees": true,
         "dexs": true
     },
     "798": {
@@ -9584,7 +9584,7 @@
         "name": "pinksale",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "fees": true
     },
     "1808": {
         "name": "axia-protocol",
@@ -10532,7 +10532,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "revenue": true,
+        "fees": true,
         "dexs": true
     },
     "1980": {
@@ -32467,7 +32467,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
-        "revenue": true
+        "fees": true
     },
     "5965": {
         "name": "sandglass",
@@ -32663,7 +32663,7 @@
         "revenue": true
     },
     "chain#295": {
-        "revenue": true
+        "fees": true
     },
     "chain#30": {
         "fees": true,

@@ -128,7 +128,6 @@
     },
     "artela": {
         "name": "Artela",
-        "fees": true,
         "gecko_id": "artela-network",
         "tokenSymbol": "ART"
     },
@@ -149,7 +148,8 @@
     "astar-zkevm": {
         "name": "Astar zkEVM",
         "fees": true,
-        "dexs": true
+        "dexs": true,
+        "aggregators": true
     },
     "aura-network": {
         "name": "Aura Network",
@@ -183,6 +183,7 @@
     "bahamut": {
         "name": "Bahamut",
         "fees": true,
+        "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"
     },
@@ -249,7 +250,6 @@
         "name": "Bitcoincash",
         "fees": true,
         "dexs": true,
-        "derivatives": true,
         "aggregators": true,
         "gecko_id": "bitcoin-cash",
         "tokenSymbol": "BCH"
@@ -803,6 +803,7 @@
         "name": "Flare",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "flare-networks",
         "tokenSymbol": "FLR"
     },
@@ -975,6 +976,7 @@
         "name": "Horizen EON",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "zencash",
         "tokenSymbol": "ZEN"
     },
@@ -1161,6 +1163,7 @@
     "kroma": {
         "name": "Kroma",
         "fees": true,
+        "aggregators": true,
         "inflows": true,
         "chainAssets": true,
         "gecko_id": "kroma",
@@ -2068,6 +2071,7 @@
         "name": "Syscoin",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "syscoin",
         "tokenSymbol": "SYS"
     },
@@ -2229,6 +2233,7 @@
         "name": "Velas",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "velas",
         "tokenSymbol": "VLX"
     },
