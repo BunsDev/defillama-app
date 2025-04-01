@@ -1507,7 +1507,6 @@
         "name": "impermax-v2",
         "tvl": true,
         "yields": false,
-        "treasury": true,
         "liquidity": true,
         "fees": true,
         "revenue": true
@@ -6408,7 +6407,8 @@
     "1216": {
         "name": "farm-hero",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1217": {
         "name": "parallel-polkadot-crowdloan",
@@ -14184,7 +14184,6 @@
         "name": "dedust",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -30492,7 +30491,6 @@
         "name": "shadow-exchange-clmm",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -31126,7 +31124,6 @@
         "name": "shadow-exchange-legacy",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -34529,6 +34526,7 @@
         "tvl": true,
         "governance": true,
         "forks": true,
+        "treasury": true,
         "revenue": true
     },
     "parent#inception": {
@@ -35814,7 +35812,6 @@
         "name": "shadow-exchange",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
