@@ -705,6 +705,7 @@
     },
     "eos": {
         "name": "EOS",
+        "fees": true,
         "dexs": true,
         "gecko_id": "eos",
         "tokenSymbol": "EOS"
@@ -1101,6 +1102,7 @@
     },
     "k2": {
         "name": "K2",
+        "fees": true,
         "chainAssets": true
     },
     "kadena": {
@@ -1208,8 +1210,7 @@
     "lightlink": {
         "name": "LightLink",
         "fees": true,
-        "dexs": true,
-        "derivatives": true
+        "dexs": true
     },
     "linea": {
         "name": "Linea",
@@ -1956,6 +1957,7 @@
     },
     "sophon": {
         "name": "Sophon",
+        "fees": true,
         "dexs": true,
         "chainAssets": true,
         "gecko_id": "sophon",
@@ -2306,6 +2308,7 @@
     },
     "winr": {
         "name": "WINR",
+        "fees": true,
         "gecko_id": "winr-protocol",
         "tokenSymbol": "WINR"
     },
