@@ -1973,8 +1973,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -3038,7 +3036,8 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "596": {
         "name": "flux-protocol",
@@ -7616,8 +7615,6 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
-        "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -12854,6 +12851,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -14729,8 +14727,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -19929,8 +19925,6 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
-        "fees": true,
-        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -32409,9 +32403,7 @@
     "5950": {
         "name": "justbet",
         "tvl": true,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
     },
     "5951": {
         "name": "arbius",
@@ -32491,9 +32483,7 @@
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
     },
     "5967": {
         "name": "haedal-vault",
@@ -32525,9 +32515,7 @@
     "5972": {
         "name": "katana-dex-v3",
         "tvl": true,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
     },
     "5973": {
         "name": "rolldex",
@@ -32553,9 +32541,10 @@
     "5977": {
         "name": "privacy-pools",
         "tvl": true,
-        "yields": false,
-        "fees": true,
-        "revenue": true
+        "yields": false
+    },
+    "5978": {
+        "treasury": true
     },
     "chain#1": {
         "fees": true,
@@ -34070,6 +34059,7 @@
         "name": "folks-finance",
         "yields": true,
         "tvl": true,
+        "treasury": true,
         "raises": true
     },
     "parent#forge-sx": {
