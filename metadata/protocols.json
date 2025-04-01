@@ -1973,7 +1973,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -7615,7 +7614,6 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -14728,7 +14726,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -19929,7 +19926,6 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -21979,7 +21975,7 @@
     "4030": {
         "name": "genesislrt-(native-restaking)",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "4031": {
         "name": "sunswap-v3",
@@ -32409,7 +32405,6 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "dexs": true
     },
     "5951": {
@@ -32485,13 +32480,13 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "aggregator": true
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "dexs": true
     },
     "5967": {
@@ -32525,7 +32520,6 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "dexs": true
     },
     "5973": {
@@ -32552,8 +32546,7 @@
     "5977": {
         "name": "privacy-pools",
         "tvl": true,
-        "yields": false,
-        "revenue": true
+        "yields": false
     },
     "5978": {
         "name": "polkadot-treasury",
@@ -34392,7 +34385,7 @@
     },
     "parent#inception": {
         "name": "inception",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "fees": true,
         "revenue": true
