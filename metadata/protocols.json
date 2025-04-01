@@ -1973,7 +1973,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -7615,7 +7615,7 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -14728,7 +14728,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -15255,7 +15255,8 @@
     "2824": {
         "name": "abc-pool",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2825": {
         "name": "nostra-money-market",
@@ -19928,7 +19929,7 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -32408,7 +32409,7 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "5951": {
@@ -32490,7 +32491,7 @@
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "5967": {
@@ -32524,7 +32525,7 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "5973": {
@@ -32552,9 +32553,12 @@
         "name": "privacy-pools",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "5978": {
+        "name": "polkadot-treasury",
+        "tvl": false,
+        "yields": false,
         "treasury": true
     },
     "chain#1": {
