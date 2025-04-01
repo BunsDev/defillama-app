@@ -1973,6 +1973,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -7618,6 +7619,7 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -14732,6 +14734,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -19935,6 +19938,7 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "perps": true
     },
@@ -32417,8 +32421,8 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "revenue": true,
-        "dexs": true
+        "fees": true,
+        "revenue": true
     },
     "5951": {
         "name": "arbius",
@@ -32493,15 +32497,14 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false,
-        "dexs": true
+        "yields": false
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "revenue": true,
-        "dexs": true
+        "fees": true,
+        "revenue": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32534,8 +32537,8 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "revenue": true,
-        "dexs": true
+        "fees": true,
+        "revenue": true
     },
     "5973": {
         "name": "rolldex",
@@ -32562,6 +32565,7 @@
         "name": "privacy-pools",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "5978": {

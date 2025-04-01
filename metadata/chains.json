@@ -705,6 +705,7 @@
     },
     "eos": {
         "name": "EOS",
+        "fees": true,
         "dexs": true,
         "gecko_id": "eos",
         "tokenSymbol": "EOS"
@@ -1955,6 +1956,7 @@
     },
     "sophon": {
         "name": "Sophon",
+        "fees": true,
         "dexs": true,
         "chainAssets": true,
         "gecko_id": "sophon",
@@ -2158,7 +2160,6 @@
     },
     "tombchain": {
         "name": "Tombchain",
-        "dexs": true,
         "gecko_id": "tomb",
         "tokenSymbol": "TOMB"
     },
@@ -2306,7 +2307,7 @@
     },
     "winr": {
         "name": "WINR",
-        "dexs": true,
+        "fees": true,
         "gecko_id": "winr-protocol",
         "tokenSymbol": "WINR"
     },
