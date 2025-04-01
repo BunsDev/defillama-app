@@ -183,6 +183,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "liquidity": true,
         "raises": true
     },
     "132": {
@@ -1972,7 +1973,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -3595,8 +3596,7 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "693": {
         "name": "superfluid",
@@ -7618,7 +7618,7 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -10212,6 +10212,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11454,7 +11455,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -12470,7 +12470,8 @@
         "name": "swapfish",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -14731,7 +14732,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -19934,7 +19935,7 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -26778,8 +26779,7 @@
     "4915": {
         "name": "kinetic",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "4916": {
         "name": "boson-protocol",
@@ -32414,7 +32414,8 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true,
+        "dexs": true
     },
     "5951": {
         "name": "arbius",
@@ -32489,13 +32490,15 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true,
+        "dexs": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32528,7 +32531,8 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true,
+        "dexs": true
     },
     "5973": {
         "name": "rolldex",
@@ -32555,7 +32559,7 @@
         "name": "privacy-pools",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "5978": {
         "name": "polkadot-treasury",
@@ -32736,7 +32740,7 @@
         "revenue": true
     },
     "chain#2410": {
-        "fees": true
+        "revenue": true
     },
     "chain#246": {
         "fees": true,
@@ -32771,7 +32775,7 @@
         "revenue": true
     },
     "chain#314": {
-        "fees": true
+        "revenue": true
     },
     "chain#321": {
         "fees": true,
