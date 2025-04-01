@@ -1973,6 +1973,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -2379,7 +2380,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -2686,8 +2688,7 @@
         "name": "teddy-cash",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "536": {
         "name": "larix",
@@ -3188,6 +3189,7 @@
         "yields": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -3709,7 +3711,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "dexs": true
     },
@@ -3843,7 +3845,8 @@
     "737": {
         "name": "dino.exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "738": {
         "name": "defi-halal",
@@ -4046,6 +4049,7 @@
         "name": "cashio",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "794": {
@@ -7614,6 +7618,7 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -13382,7 +13387,8 @@
     "2497": {
         "name": "dinosaur.finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2498": {
         "name": "umee",
@@ -14726,6 +14732,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -16069,6 +16076,7 @@
         "tvl": true,
         "yields": false,
         "forks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "emissions": true
@@ -18025,7 +18033,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -19926,6 +19935,7 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -20107,7 +20117,8 @@
     "3679": {
         "name": "phase",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3680": {
         "name": "statix-farm",
@@ -28125,7 +28136,8 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "5158": {
         "name": "enosys-amm-v3",
@@ -32405,6 +32417,7 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "5951": {
@@ -32481,12 +32494,13 @@
         "name": "sandglass",
         "tvl": false,
         "yields": false,
-        "aggregator": true
+        "dexs": true
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "5967": {
@@ -32520,6 +32534,7 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "5973": {
@@ -32546,7 +32561,8 @@
     "5977": {
         "name": "privacy-pools",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5978": {
         "name": "polkadot-treasury",
