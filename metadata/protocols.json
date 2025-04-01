@@ -1973,6 +1973,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "dexs": true
     },
     "420": {
@@ -2305,7 +2306,6 @@
         "name": "complus-network",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "472": {
@@ -7615,6 +7615,7 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "dexs": true
     },
     "1453": {
@@ -14727,6 +14728,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "fees": true,
         "dexs": true
     },
     "2729": {
@@ -15162,7 +15164,8 @@
     "2807": {
         "name": "matrixdock",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2808": {
         "name": "whitehole-finance",
@@ -19925,6 +19928,7 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "perps": true
     },
     "3649": {
@@ -32403,7 +32407,9 @@
     "5950": {
         "name": "justbet",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "dexs": true
     },
     "5951": {
         "name": "arbius",
@@ -32483,7 +32489,9 @@
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "dexs": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32515,7 +32523,9 @@
     "5972": {
         "name": "katana-dex-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "dexs": true
     },
     "5973": {
         "name": "rolldex",
@@ -32541,7 +32551,8 @@
     "5977": {
         "name": "privacy-pools",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "5978": {
         "treasury": true
