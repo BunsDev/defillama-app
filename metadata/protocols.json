@@ -1983,7 +1983,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -4666,7 +4665,6 @@
         "name": "mesher",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true
     },
     "898": {
@@ -7669,7 +7667,6 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -10905,7 +10902,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -14821,7 +14818,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -20054,7 +20050,6 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
-        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -32531,7 +32526,7 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "dexs": true
     },
     "5951": {
         "name": "arbius",
@@ -32606,13 +32601,14 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "dexs": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32645,7 +32641,7 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "dexs": true
     },
     "5973": {
         "name": "rolldex",
@@ -32671,8 +32667,7 @@
     "5977": {
         "name": "privacy-pools",
         "tvl": true,
-        "yields": false,
-        "revenue": true
+        "yields": false
     },
     "5978": {
         "name": "polkadot-treasury",
@@ -32684,6 +32679,12 @@
         "name": "hyperindex",
         "tvl": true,
         "yields": false
+    },
+    "5981": {
+        "name": "impermax-v3",
+        "tvl": true,
+        "yields": false,
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
@@ -32857,9 +32858,6 @@
         "fees": true,
         "revenue": true
     },
-    "chain#2410": {
-        "revenue": true
-    },
     "chain#246": {
         "fees": true,
         "revenue": true
@@ -32890,9 +32888,6 @@
     },
     "chain#3073": {
         "fees": true,
-        "revenue": true
-    },
-    "chain#314": {
         "revenue": true
     },
     "chain#321": {
@@ -34527,7 +34522,7 @@
         "governance": true,
         "forks": true,
         "treasury": true,
-        "revenue": true
+        "liquidity": true
     },
     "parent#inception": {
         "name": "inception",
