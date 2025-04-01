@@ -2159,7 +2159,6 @@
     },
     "tombchain": {
         "name": "Tombchain",
-        "dexs": true,
         "gecko_id": "tomb",
         "tokenSymbol": "TOMB"
     },
@@ -2307,7 +2306,6 @@
     },
     "winr": {
         "name": "WINR",
-        "dexs": true,
         "gecko_id": "winr-protocol",
         "tokenSymbol": "WINR"
     },
