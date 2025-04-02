@@ -18095,7 +18095,7 @@
     "3324": {
         "name": "predy-v5",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "fees": true,
         "revenue": true
     },
@@ -35465,7 +35465,7 @@
     },
     "parent#predy-finance": {
         "name": "predy-finance",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "fees": true,
         "revenue": true
