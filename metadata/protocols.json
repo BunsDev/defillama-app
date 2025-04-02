@@ -1970,7 +1970,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -7619,7 +7619,7 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -8871,7 +8871,8 @@
     "1679": {
         "name": "dot-dot-finance",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "liquidity": true
     },
     "1680": {
         "name": "orcus-finance",
@@ -14730,7 +14731,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -19934,7 +19935,7 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
-        "fees": true,
+        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -24126,7 +24127,8 @@
     "4415": {
         "name": "dengendex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4416": {
         "name": "frogswap-farm",
@@ -27359,7 +27361,8 @@
         "name": "genesis-dao",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "5021": {
         "name": "velvet-v3",
@@ -32409,7 +32412,7 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "5951": {
         "name": "arbius",
@@ -32490,7 +32493,7 @@
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32523,7 +32526,7 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "5973": {
         "name": "rolldex",
@@ -32550,7 +32553,7 @@
         "name": "privacy-pools",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "revenue": true
     },
     "5978": {
         "name": "polkadot-treasury",
@@ -32742,7 +32745,7 @@
         "revenue": true
     },
     "chain#2410": {
-        "fees": true
+        "revenue": true
     },
     "chain#246": {
         "fees": true,
@@ -32777,7 +32780,7 @@
         "revenue": true
     },
     "chain#314": {
-        "fees": true
+        "revenue": true
     },
     "chain#321": {
         "fees": true,
@@ -34412,7 +34415,7 @@
         "forks": true,
         "treasury": true,
         "liquidity": true,
-        "fees": true
+        "revenue": true
     },
     "parent#inception": {
         "name": "inception",
