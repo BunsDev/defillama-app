@@ -1969,6 +1969,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "dexs": true
     },
     "420": {
@@ -2377,8 +2378,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -7619,6 +7619,7 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "dexs": true
     },
     "1453": {
@@ -11210,7 +11211,8 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2102": {
         "name": "titano-swych",
@@ -14728,6 +14730,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "fees": true,
         "dexs": true
     },
     "2729": {
@@ -15678,6 +15681,7 @@
         "yields": false,
         "treasury": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -16072,7 +16076,6 @@
         "tvl": true,
         "yields": false,
         "forks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "emissions": true
@@ -19053,8 +19056,7 @@
     "3488": {
         "name": "sparkswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3489": {
         "name": "haedal-protocol",
@@ -19931,6 +19933,7 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "perps": true
     },
     "3649": {
@@ -32408,7 +32411,7 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "dexs": true
+        "fees": true
     },
     "5951": {
         "name": "arbius",
@@ -32483,14 +32486,13 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false,
-        "dexs": true
+        "yields": false
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "dexs": true
+        "fees": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32523,7 +32525,7 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "dexs": true
+        "fees": true
     },
     "5973": {
         "name": "rolldex",
@@ -32549,7 +32551,8 @@
     "5977": {
         "name": "privacy-pools",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "5978": {
         "name": "polkadot-treasury",
@@ -32740,6 +32743,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#2410": {
+        "fees": true
+    },
     "chain#246": {
         "fees": true,
         "revenue": true
@@ -32771,6 +32777,9 @@
     "chain#3073": {
         "fees": true,
         "revenue": true
+    },
+    "chain#314": {
+        "fees": true
     },
     "chain#321": {
         "fees": true,
@@ -34404,7 +34413,8 @@
         "governance": true,
         "forks": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "fees": true
     },
     "parent#inception": {
         "name": "inception",
