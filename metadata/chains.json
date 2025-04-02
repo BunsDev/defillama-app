@@ -67,6 +67,11 @@
         "fees": true,
         "chainAssets": true
     },
+    "ao": {
+        "name": "AO",
+        "gecko_id": "ao-computer",
+        "tokenSymbol": "AO"
+    },
     "apechain": {
         "name": "ApeChain",
         "fees": true,
@@ -250,6 +255,7 @@
         "name": "Bitcoincash",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "gecko_id": "bitcoin-cash",
         "tokenSymbol": "BCH"
@@ -885,6 +891,7 @@
         "name": "Gnosis",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
         "inflows": true,
@@ -2166,6 +2173,7 @@
     },
     "tombchain": {
         "name": "Tombchain",
+        "dexs": true,
         "gecko_id": "tomb",
         "tokenSymbol": "TOMB"
     },
@@ -2314,6 +2322,7 @@
     "winr": {
         "name": "WINR",
         "fees": true,
+        "dexs": true,
         "gecko_id": "winr-protocol",
         "tokenSymbol": "WINR"
     },

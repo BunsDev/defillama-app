@@ -1230,7 +1230,6 @@
         "tvl": false,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "raises": true
     },
     "301": {
@@ -1970,6 +1969,7 @@
         "yields": false,
         "liquidity": true,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -2315,8 +2315,7 @@
     "473": {
         "name": "baguette",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "474": {
         "name": "canary",
@@ -6911,7 +6910,8 @@
     "1323": {
         "name": "poopsicle",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1324": {
         "name": "furylabs-finance",
@@ -7620,6 +7620,7 @@
         "tvl": true,
         "yields": false,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -10475,7 +10476,7 @@
     },
     "1967": {
         "name": "pembrock-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1968": {
@@ -14728,9 +14729,9 @@
         "name": "syncswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
         "forks": true,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -18146,7 +18147,7 @@
     },
     "3331": {
         "name": "tetu-pawnshop",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -19934,6 +19935,7 @@
         "tvl": true,
         "yields": false,
         "fees": true,
+        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -20015,7 +20017,7 @@
     "3663": {
         "name": "nolus-protocol",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true
     },
     "3664": {
@@ -25456,11 +25458,6 @@
         "yields": true,
         "dexs": true
     },
-    "4671": {
-        "name": "sailing-portfolios",
-        "tvl": true,
-        "yields": false
-    },
     "4672": {
         "name": "unirouter",
         "tvl": true,
@@ -26480,7 +26477,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4862": {
@@ -26936,7 +26933,7 @@
         "dexs": true
     },
     "4947": {
-        "name": "function",
+        "name": "function-fbtc",
         "tvl": true,
         "yields": false
     },
@@ -31879,7 +31876,7 @@
     },
     "5853": {
         "name": "maple-rwa",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true
     },
@@ -32411,7 +32408,9 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5951": {
         "name": "arbius",
@@ -32486,13 +32485,16 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32525,7 +32527,9 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5973": {
         "name": "rolldex",
@@ -32552,7 +32556,8 @@
         "name": "privacy-pools",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "5978": {
         "name": "polkadot-treasury",
@@ -32565,11 +32570,24 @@
         "tvl": true,
         "yields": false
     },
+    "5980": {
+        "name": "liquidops",
+        "tvl": true,
+        "yields": false
+    },
     "5981": {
         "name": "impermax-v3",
         "tvl": true,
         "yields": false,
         "liquidity": true
+    },
+    "5982": {
+        "name": "syncswap-v3",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "chain#1": {
         "fees": true,
@@ -32744,7 +32762,8 @@
         "revenue": true
     },
     "chain#2410": {
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "chain#246": {
         "fees": true,
@@ -32779,7 +32798,8 @@
         "revenue": true
     },
     "chain#314": {
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "chain#321": {
         "fees": true,
@@ -32893,6 +32913,10 @@
         "fees": true,
         "revenue": true
     },
+    "chain#6699": {
+        "fees": true,
+        "revenue": true
+    },
     "chain#690": {
         "fees": true,
         "revenue": true
@@ -32952,6 +32976,12 @@
         "revenue": true,
         "dexs": true,
         "perps": true
+    },
+    "parent#SyncSwap Protocol": {
+        "name": "syncswap",
+        "yields": false,
+        "governance": true,
+        "forks": true
     },
     "parent#a51-finance": {
         "name": "a51-finance",
@@ -34414,7 +34444,8 @@
         "forks": true,
         "treasury": true,
         "liquidity": true,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "parent#inception": {
         "name": "inception",
@@ -36119,6 +36150,12 @@
         "yields": true,
         "tvl": true,
         "emissions": true
+    },
+    "parent#syncswap-protocol": {
+        "tvl": true,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "parent#synfutures": {
         "name": "synfutures",
