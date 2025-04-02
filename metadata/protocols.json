@@ -12013,7 +12013,6 @@
         "name": "axelar",
         "tvl": true,
         "yields": false,
-        "treasury": true,
         "liquidity": true,
         "raises": true,
         "emissions": true
@@ -33247,6 +33246,9 @@
         "name": "avely-finance",
         "yields": false,
         "tvl": true
+    },
+    "parent#axelar-network": {
+        "treasury": true
     },
     "parent#axion-finance": {
         "name": "axion-finance",
