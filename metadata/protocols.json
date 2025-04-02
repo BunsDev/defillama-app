@@ -32412,8 +32412,7 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "revenue": true,
-        "dexs": true
+        "revenue": true
     },
     "5951": {
         "name": "arbius",
@@ -32488,15 +32487,13 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false,
-        "dexs": true
+        "yields": false
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "revenue": true,
-        "dexs": true
+        "revenue": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32529,8 +32526,7 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "revenue": true,
-        "dexs": true
+        "revenue": true
     },
     "5973": {
         "name": "rolldex",
