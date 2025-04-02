@@ -1969,6 +1969,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "dexs": true
     },
     "420": {
@@ -4813,7 +4814,8 @@
     "931": {
         "name": "genesis-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "932": {
         "name": "xensa",
@@ -7619,6 +7621,7 @@
         "name": "paycash",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "dexs": true
     },
     "1453": {
@@ -14728,6 +14731,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "fees": true,
         "dexs": true
     },
     "2729": {
@@ -19931,6 +19935,7 @@
         "name": "paradex",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "perps": true
     },
     "3649": {
@@ -32407,7 +32412,9 @@
     "5950": {
         "name": "justbet",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "dexs": true
     },
     "5951": {
         "name": "arbius",
@@ -32482,12 +32489,15 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "dexs": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32519,7 +32529,9 @@
     "5972": {
         "name": "katana-dex-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "dexs": true
     },
     "5973": {
         "name": "rolldex",
@@ -32545,7 +32557,8 @@
     "5977": {
         "name": "privacy-pools",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "5978": {
         "name": "polkadot-treasury",
@@ -32736,6 +32749,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#2410": {
+        "fees": true
+    },
     "chain#246": {
         "fees": true,
         "revenue": true
@@ -32767,6 +32783,9 @@
     "chain#3073": {
         "fees": true,
         "revenue": true
+    },
+    "chain#314": {
+        "fees": true
     },
     "chain#321": {
         "fees": true,
@@ -34400,7 +34419,8 @@
         "governance": true,
         "forks": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "fees": true
     },
     "parent#inception": {
         "name": "inception",
