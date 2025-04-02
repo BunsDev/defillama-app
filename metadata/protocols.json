@@ -9705,7 +9705,6 @@
         "name": "sharkswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "1829": {
@@ -12014,8 +12013,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "raises": true,
-        "emissions": true
+        "raises": true
     },
     "2238": {
         "name": "anetabtc",
@@ -21329,6 +21327,7 @@
         "name": "kim-exchange-v1",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "3914": {
@@ -22023,6 +22022,7 @@
         "name": "kim-exchange-v2",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23507,6 +23507,7 @@
         "name": "kim-exchange-v3",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32588,6 +32589,21 @@
         "revenue": true,
         "dexs": true
     },
+    "5983": {
+        "name": "t-rize",
+        "tvl": true,
+        "yields": false
+    },
+    "5984": {
+        "name": "anvil",
+        "tvl": true,
+        "yields": false
+    },
+    "5985": {
+        "name": "axelar-cross-chain",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -32976,12 +32992,6 @@
         "dexs": true,
         "perps": true
     },
-    "parent#SyncSwap Protocol": {
-        "name": "syncswap",
-        "yields": false,
-        "governance": true,
-        "forks": true
-    },
     "parent#a51-finance": {
         "name": "a51-finance",
         "yields": false,
@@ -33248,7 +33258,11 @@
         "tvl": true
     },
     "parent#axelar-network": {
-        "treasury": true
+        "name": "axelar-network",
+        "yields": false,
+        "tvl": true,
+        "treasury": true,
+        "emissions": true
     },
     "parent#axion-finance": {
         "name": "axion-finance",
@@ -34575,6 +34589,7 @@
         "name": "kim-exchange",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -36154,7 +36169,10 @@
         "emissions": true
     },
     "parent#syncswap-protocol": {
+        "name": "syncswap-protocol",
+        "yields": false,
         "tvl": true,
+        "governance": true,
         "fees": true,
         "revenue": true,
         "dexs": true
