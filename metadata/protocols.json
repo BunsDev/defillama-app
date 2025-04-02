@@ -2093,7 +2093,8 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "439": {
         "name": "the-grand-banks",
@@ -4868,6 +4869,7 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -9055,8 +9057,7 @@
     "1712": {
         "name": "evmoswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1713": {
         "name": "duet-protocol",
@@ -12753,7 +12754,6 @@
         "name": "tender-finance",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "hacks": true,
         "activeUsers": true
     },
@@ -32412,7 +32412,8 @@
         "name": "justbet",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5951": {
         "name": "arbius",
@@ -32487,13 +32488,15 @@
     "5965": {
         "name": "sandglass",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5966": {
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5967": {
         "name": "haedal-vault",
@@ -32526,7 +32529,8 @@
         "name": "katana-dex-v3",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5973": {
         "name": "rolldex",
