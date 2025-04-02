@@ -1970,6 +1970,7 @@
         "yields": false,
         "liquidity": true,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "420": {
@@ -3034,8 +3035,7 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "596": {
         "name": "flux-protocol",
@@ -7622,6 +7622,7 @@
         "tvl": true,
         "yields": false,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "1453": {
@@ -14732,6 +14733,7 @@
         "governance": true,
         "forks": true,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "2729": {
@@ -19936,6 +19938,7 @@
         "tvl": true,
         "yields": false,
         "fees": true,
+        "revenue": true,
         "perps": true
     },
     "3649": {
@@ -32414,6 +32417,7 @@
         "tvl": true,
         "yields": false,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "5951": {
@@ -32497,6 +32501,7 @@
         "tvl": true,
         "yields": false,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "5967": {
@@ -32531,6 +32536,7 @@
         "tvl": true,
         "yields": false,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "5973": {
@@ -32558,7 +32564,8 @@
         "name": "privacy-pools",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "5978": {
         "name": "polkadot-treasury",
@@ -32750,7 +32757,8 @@
         "revenue": true
     },
     "chain#2410": {
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "chain#246": {
         "fees": true,
@@ -32785,7 +32793,8 @@
         "revenue": true
     },
     "chain#314": {
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "chain#321": {
         "fees": true,
@@ -34420,7 +34429,8 @@
         "forks": true,
         "treasury": true,
         "liquidity": true,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "parent#inception": {
         "name": "inception",
