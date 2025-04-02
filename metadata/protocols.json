@@ -746,8 +746,7 @@
         "name": "vesper",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "liquidity": true
+        "governance": true
     },
     "221": {
         "name": "defi-swap",
@@ -5707,7 +5706,8 @@
     "1095": {
         "name": "stand-cash",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1096": {
         "name": "purefi",
@@ -6785,7 +6785,8 @@
     "1299": {
         "name": "guru-network-classic",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1301": {
         "name": "apedao",
@@ -29221,7 +29222,8 @@
     "5354": {
         "name": "elma",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5355": {
         "name": "based-ai",
@@ -34296,6 +34298,7 @@
         "yields": false,
         "tvl": true,
         "treasury": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
