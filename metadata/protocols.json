@@ -10622,7 +10622,8 @@
     "1993": {
         "name": "kibbleswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1994": {
         "name": "dogmoney",
@@ -32597,12 +32598,14 @@
     "5984": {
         "name": "anvil",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5985": {
         "name": "axelar-cross-chain",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
@@ -33262,6 +33265,7 @@
         "yields": false,
         "tvl": true,
         "treasury": true,
+        "liquidity": true,
         "emissions": true
     },
     "parent#axion-finance": {
