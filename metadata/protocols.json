@@ -9052,7 +9052,8 @@
     "1712": {
         "name": "evmoswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1713": {
         "name": "duet-protocol",
@@ -14120,7 +14121,8 @@
     "2621": {
         "name": "sterling-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2622": {
         "name": "mare-finance-v1",
@@ -15673,7 +15675,6 @@
         "yields": false,
         "treasury": true,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
