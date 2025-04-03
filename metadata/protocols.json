@@ -7787,8 +7787,7 @@
     "1485": {
         "name": "whaleex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1486": {
         "name": "fountain-protocol",
@@ -10472,7 +10471,7 @@
     },
     "1967": {
         "name": "pembrock-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1968": {
@@ -12848,7 +12847,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
