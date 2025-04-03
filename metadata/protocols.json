@@ -11752,8 +11752,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -31801,7 +31800,7 @@
     },
     "5843": {
         "name": "flex-perpetuals",
-        "tvl": false,
+        "tvl": true,
         "yields": true,
         "liquidity": true,
         "fees": true,
