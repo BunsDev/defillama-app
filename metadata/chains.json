@@ -1832,9 +1832,7 @@
     "saga": {
         "name": "Saga",
         "fees": true,
-        "dexs": true,
-        "gecko_id": "saga-2",
-        "tokenSymbol": "SAGA"
+        "dexs": true
     },
     "sanko": {
         "name": "Sanko",
