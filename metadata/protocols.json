@@ -1171,7 +1171,8 @@
     "289": {
         "name": "yetiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "290": {
         "name": "penguin-finance",
@@ -4861,6 +4862,7 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -17732,9 +17734,7 @@
     "3265": {
         "name": "agni-finance",
         "tvl": true,
-        "yields": false,
-        "fees": true,
-        "dexs": true
+        "yields": false
     },
     "3266": {
         "name": "shibshift",
