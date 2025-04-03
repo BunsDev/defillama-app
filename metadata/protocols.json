@@ -19176,7 +19176,8 @@
     "3488": {
         "name": "sparkswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3489": {
         "name": "haedal-protocol",
@@ -22794,8 +22795,7 @@
     "4147": {
         "name": "0xscans",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4148": {
         "name": "meteora-dlmm",
@@ -32753,6 +32753,16 @@
         "tvl": true,
         "yields": false
     },
+    "5992": {
+        "name": "goatswap-v2",
+        "tvl": true,
+        "yields": false
+    },
+    "5993": {
+        "name": "goatswap-v3",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -34394,6 +34404,10 @@
         "dexs": true,
         "perps": true,
         "emissions": true
+    },
+    "parent#goatswap": {
+        "name": "goatswap",
+        "yields": false
     },
     "parent#goblins-cash": {
         "name": "goblins-cash",

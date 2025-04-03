@@ -894,6 +894,9 @@
         "inflows": true,
         "chainAssets": true
     },
+    "goat": {
+        "name": "Goat"
+    },
     "gochain": {
         "name": "GoChain",
         "gecko_id": "gochain",
