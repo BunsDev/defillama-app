@@ -4861,7 +4861,6 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -13884,8 +13883,7 @@
         "name": "king-finance",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "2580": {
         "name": "nuls-pocm",
@@ -27445,8 +27443,7 @@
     "5039": {
         "name": "taolie",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5040": {
         "name": "xtrade",
