@@ -10841,7 +10841,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -18444,7 +18444,8 @@
     "3380": {
         "name": "baso-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "3381": {
         "name": "thegoblins",
