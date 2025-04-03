@@ -24376,7 +24376,8 @@
         "name": "puff-penthouse",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "4440": {
         "hacks": true

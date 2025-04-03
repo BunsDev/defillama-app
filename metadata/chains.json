@@ -13,6 +13,7 @@
     },
     "acala": {
         "name": "Acala",
+        "dexs": true,
         "inflows": true,
         "gecko_id": "acala",
         "tokenSymbol": "ACA"
