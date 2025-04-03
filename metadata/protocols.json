@@ -3900,7 +3900,6 @@
         "name": "muesliswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "748": {
@@ -4182,8 +4181,7 @@
     "818": {
         "name": "cashcow-protocol",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "819": {
         "name": "helios-prime",
@@ -5068,8 +5066,7 @@
     "978": {
         "name": "chickenswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "979": {
         "name": "partyswap",
@@ -21371,7 +21368,6 @@
         "name": "pharaoh-cl",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23427,7 +23423,6 @@
         "name": "pharaoh-legacy",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -31806,7 +31801,7 @@
     },
     "5843": {
         "name": "flex-perpetuals",
-        "tvl": true,
+        "tvl": false,
         "yields": true,
         "liquidity": true,
         "fees": true,
@@ -35376,7 +35371,6 @@
         "name": "pharaoh-exchange",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
