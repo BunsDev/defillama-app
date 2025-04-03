@@ -152,8 +152,7 @@
     },
     "astar-zkevm": {
         "name": "Astar zkEVM",
-        "fees": true,
-        "aggregators": true
+        "fees": true
     },
     "aura-network": {
         "name": "Aura Network",
