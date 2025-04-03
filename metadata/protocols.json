@@ -17734,7 +17734,6 @@
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "3266": {
