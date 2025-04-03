@@ -17733,7 +17733,10 @@
     "3265": {
         "name": "agni-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "3266": {
         "name": "shibshift",
@@ -25614,7 +25617,9 @@
     "4705": {
         "name": "cellula",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "4706": {
         "name": "dunes",
@@ -27440,7 +27445,8 @@
     "5039": {
         "name": "taolie",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5040": {
         "name": "xtrade",
@@ -32584,6 +32590,16 @@
         "tvl": true,
         "yields": false,
         "liquidity": true
+    },
+    "5986": {
+        "name": "bitzap-yusd",
+        "tvl": true,
+        "yields": false
+    },
+    "5987": {
+        "name": "valantis",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
