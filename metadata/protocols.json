@@ -724,7 +724,8 @@
     "216": {
         "name": "auctus",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "217": {
         "name": "connext",
@@ -18378,8 +18379,7 @@
     "3347": {
         "name": "meridian-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3348": {
         "name": "soswap",
@@ -18604,8 +18604,7 @@
     "3386": {
         "name": "meridian-trade",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3387": {
         "name": "bryan-on-base",
@@ -35138,7 +35137,6 @@
         "name": "meridian",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "dexs": true,
         "emissions": true
     },
