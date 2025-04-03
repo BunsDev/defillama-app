@@ -14855,7 +14855,8 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -33546,6 +33547,9 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
+    },
+    "parent#canary": {
+        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
