@@ -7950,8 +7950,7 @@
         "tvl": false,
         "yields": false,
         "governance": true,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "1506": {
         "name": "pulse-dao",
