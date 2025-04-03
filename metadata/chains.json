@@ -1710,6 +1710,11 @@
         "name": "Polynomial",
         "chainAssets": true
     },
+    "prom": {
+        "name": "Prom",
+        "gecko_id": "prometeus",
+        "tokenSymbol": "PROM"
+    },
     "proton": {
         "name": "Proton",
         "gecko_id": "proton",
@@ -2057,6 +2062,11 @@
     "superposition": {
         "name": "Superposition",
         "fees": true
+    },
+    "supra": {
+        "name": "Supra",
+        "gecko_id": "supra",
+        "tokenSymbol": "SUPRA"
     },
     "swan": {
         "name": "Swan",
