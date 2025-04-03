@@ -9805,7 +9805,8 @@
     "1847": {
         "name": "acala-swap",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "1848": {
         "name": "acala-dollar",
@@ -24641,7 +24642,8 @@
     "4515": {
         "name": "glowswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "4516": {
         "name": "bountive",
@@ -24884,7 +24886,8 @@
     "4563": {
         "name": "fenix-concentrated-liquidity",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "dexs": true
     },
     "4564": {
         "name": "nuri-legacy",
