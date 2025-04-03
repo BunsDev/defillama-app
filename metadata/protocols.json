@@ -3939,7 +3939,8 @@
     "754": {
         "name": "bossswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "755": {
         "name": "arrow",
