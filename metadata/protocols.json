@@ -2374,7 +2374,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -23509,8 +23510,7 @@
         "name": "hyperblast",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "4301": {
         "name": "verylongswap-amm",
@@ -24476,8 +24476,7 @@
     "4481": {
         "name": "hyperliquid-bridge",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4483": {
         "name": "volcano",
@@ -29730,8 +29729,7 @@
     "5448": {
         "name": "hyperliquid-hlp",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5450": {
         "name": "bouncebit-cedefi-yield",
@@ -30059,7 +30057,6 @@
         "name": "hyperliquid-perps",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "perps": true
     },
     "5508": {
@@ -31365,7 +31362,6 @@
         "name": "hyperliquid-spot-orderbook",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -34407,7 +34403,6 @@
         "name": "hyperliquid",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
