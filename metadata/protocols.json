@@ -2480,7 +2480,6 @@
         "name": "polycat",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "500": {
@@ -10854,7 +10853,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -12478,7 +12477,6 @@
         "name": "swapfish",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true
     },
     "2332": {
@@ -12538,8 +12536,7 @@
     "2341": {
         "name": "polycat-dex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2342": {
         "name": "vapordex-v1",
@@ -32665,6 +32662,11 @@
         "tvl": true,
         "yields": false
     },
+    "5994": {
+        "name": "coin98",
+        "tvl": false,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -35506,7 +35508,6 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
