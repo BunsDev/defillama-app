@@ -366,6 +366,7 @@
     "bsquared": {
         "name": "BSquared",
         "fees": true,
+        "dexs": true,
         "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
@@ -1647,6 +1648,10 @@
         "dexs": true,
         "gecko_id": "penumbra",
         "tokenSymbol": "UM"
+    },
+    "perennial": {
+        "name": "Perennial",
+        "derivatives": true
     },
     "persistence-one": {
         "name": "Persistence One",
