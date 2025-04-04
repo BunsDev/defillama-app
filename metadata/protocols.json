@@ -647,8 +647,7 @@
         "name": "goose-finance",
         "tvl": true,
         "yields": true,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "206": {
         "name": "xtoken",
@@ -7128,7 +7127,8 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1364": {
         "name": "narwhalswap",
@@ -9940,7 +9940,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
@@ -10847,7 +10848,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true
     },
@@ -12471,7 +12472,8 @@
         "name": "swapfish",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12766,7 +12768,8 @@
     "2384": {
         "name": "oreoswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2385": {
         "name": "exactly",
@@ -13879,7 +13882,8 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2578": {
         "name": "beamer-bridge",
@@ -20579,7 +20583,8 @@
     "3764": {
         "name": "boom",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3765": {
         "name": "cryptoo-tech",
@@ -22194,7 +22199,8 @@
     "4069": {
         "name": "possum-labs",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4070": {
         "name": "ionic-protocol",
@@ -27694,7 +27700,8 @@
     "5080": {
         "name": "boomswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5081": {
         "name": "kujata",
