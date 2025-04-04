@@ -12424,13 +12424,12 @@
         "dexs": true
     },
     "2308": {
-        "name": "jito",
+        "name": "jito-liquid-staking",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true,
         "fees": true,
-        "revenue": true,
-        "emissions": true
+        "revenue": true
     },
     "2309": {
         "name": "indigo",
@@ -28373,8 +28372,7 @@
         "name": "filament-beta",
         "tvl": false,
         "yields": false,
-        "raises": true,
-        "perps": true
+        "raises": true
     },
     "5178": {
         "name": "moonthat",
@@ -32790,6 +32788,11 @@
         "tvl": true,
         "yields": false
     },
+    "5996": {
+        "name": "jito-restaking",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -34728,6 +34731,13 @@
         "name": "jewelswap",
         "yields": false,
         "tvl": true
+    },
+    "parent#jito": {
+        "name": "jito",
+        "yields": true,
+        "tvl": true,
+        "revenue": true,
+        "emissions": true
     },
     "parent#joltify-finance": {
         "name": "joltify-finance",
