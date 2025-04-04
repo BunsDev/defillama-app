@@ -7716,7 +7716,8 @@
     "1469": {
         "name": "btngroup",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1470": {
         "name": "nereus-finance",
@@ -10851,8 +10852,7 @@
     "2035": {
         "name": "bitgert-swap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2036": {
         "name": "ssap",
