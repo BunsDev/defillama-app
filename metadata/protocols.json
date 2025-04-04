@@ -4445,6 +4445,7 @@
         "name": "snowdog",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "860": {
@@ -19415,7 +19416,7 @@
     },
     "3528": {
         "name": "caviar-tangible",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true
@@ -32796,6 +32797,9 @@
         "liquidity": true
     },
     "5997": {
+        "name": "strike-finance",
+        "tvl": true,
+        "yields": false,
         "liquidity": true
     },
     "chain#1": {
