@@ -34288,7 +34288,8 @@
     },
     "parent#goatswap": {
         "name": "goatswap",
-        "yields": false
+        "yields": false,
+        "tvl": true
     },
     "parent#goblins-cash": {
         "name": "goblins-cash",
