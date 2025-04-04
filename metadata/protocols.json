@@ -9104,6 +9104,7 @@
         "name": "fenrir-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true
     },
     "1711": {
