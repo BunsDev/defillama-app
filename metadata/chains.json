@@ -137,6 +137,10 @@
         "gecko_id": "artela-network",
         "tokenSymbol": "ART"
     },
+    "arweave": {
+        "name": "Arweave",
+        "fees": true
+    },
     "asset-chain": {
         "name": "Asset Chain",
         "fees": true,
