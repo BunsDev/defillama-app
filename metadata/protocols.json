@@ -1907,7 +1907,8 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "409": {
         "name": "cafeswap",
@@ -4647,7 +4648,8 @@
         "yields": true,
         "governance": true,
         "liquidity": true,
-        "raises": true
+        "raises": true,
+        "revenue": true
     },
     "901": {
         "name": "everestdao",
@@ -10219,6 +10221,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11674,7 +11677,8 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -16783,6 +16787,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "revenue": true,
         "emissions": true
     },
     "3092": {
@@ -26057,7 +26062,8 @@
         "name": "sofa.org",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "revenue": true
     },
     "4780": {
         "name": "tivel-finance",
@@ -26977,6 +26983,7 @@
         "name": "edgex",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "perps": true
     },
     "4955": {
@@ -28569,7 +28576,8 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "raises": true
+        "raises": true,
+        "revenue": true
     },
     "5235": {
         "name": "multex",
@@ -30554,7 +30562,8 @@
     "5601": {
         "name": "verus-market",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5602": {
         "name": "nodo",
@@ -31486,7 +31495,8 @@
     "5784": {
         "name": "haedal-amm-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5785": {
         "name": "bitfi-basis",
@@ -32502,7 +32512,8 @@
     "5967": {
         "name": "haedal-vault",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5968": {
         "name": "winter-walrus",
@@ -32872,6 +32883,9 @@
         "fees": true,
         "revenue": true
     },
+    "chain#35386": {
+        "revenue": true
+    },
     "chain#40": {
         "fees": true,
         "revenue": true
@@ -32982,6 +32996,9 @@
     },
     "chain#74": {
         "fees": true,
+        "revenue": true
+    },
+    "chain#777777": {
         "revenue": true
     },
     "chain#80094": {
@@ -34357,7 +34374,8 @@
     "parent#haedal": {
         "name": "haedal",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "revenue": true
     },
     "parent#halotrade": {
         "name": "halotrade",
