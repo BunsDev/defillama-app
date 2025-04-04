@@ -5072,7 +5072,8 @@
     "978": {
         "name": "chickenswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "979": {
         "name": "partyswap",
@@ -22506,6 +22507,7 @@
         "name": "omnidrome",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
