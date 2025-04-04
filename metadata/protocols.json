@@ -6657,7 +6657,6 @@
         "name": "stellaswap-v2",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "dexs": true
     },
     "1277": {
@@ -7798,7 +7797,8 @@
     "1486": {
         "name": "fountain-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1487": {
         "name": "klaybank",
@@ -15886,7 +15886,6 @@
         "name": "stellaswap-v3",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "2935": {
@@ -23784,7 +23783,8 @@
     "4352": {
         "name": "satoshi-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4353": {
         "name": "pyreswap",
@@ -31602,8 +31602,7 @@
     "5802": {
         "name": "stellaswap-v4",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5803": {
         "name": "ginseng-swap",
@@ -36093,7 +36092,6 @@
         "name": "stellaswap",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
         "dexs": true
     },
     "parent#sturdy": {
