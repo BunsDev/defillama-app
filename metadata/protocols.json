@@ -7533,7 +7533,8 @@
     "1437": {
         "name": "nightmare-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1438": {
         "name": "treehouse-finance",
@@ -13645,7 +13646,6 @@
         "tvl": true,
         "yields": true,
         "governance": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -15449,8 +15449,7 @@
     "2856": {
         "name": "gridex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2857": {
         "name": "frogge.finance",
