@@ -4649,6 +4649,7 @@
         "governance": true,
         "liquidity": true,
         "raises": true,
+        "fees": true,
         "revenue": true
     },
     "901": {
@@ -4851,8 +4852,7 @@
     "939": {
         "name": "r-u-generous",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "940": {
         "name": "soda-protocol",
@@ -13672,6 +13672,7 @@
         "name": "megaton-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "raises": true,
         "dexs": true
     },
@@ -16787,6 +16788,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "revenue": true,
         "emissions": true
     },
@@ -26063,6 +26065,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "revenue": true
     },
     "4780": {
@@ -26983,6 +26986,7 @@
         "name": "edgex",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "perps": true
     },
@@ -28577,6 +28581,7 @@
         "yields": true,
         "liquidity": true,
         "raises": true,
+        "fees": true,
         "revenue": true
     },
     "5235": {
@@ -30563,7 +30568,9 @@
         "name": "verus-market",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5602": {
         "name": "nodo",
@@ -31496,7 +31503,9 @@
         "name": "haedal-amm-protocol",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5785": {
         "name": "bitfi-basis",
@@ -32513,6 +32522,7 @@
         "name": "haedal-vault",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "5968": {
@@ -32884,6 +32894,7 @@
         "revenue": true
     },
     "chain#35386": {
+        "fees": true,
         "revenue": true
     },
     "chain#40": {
@@ -32999,6 +33010,7 @@
         "revenue": true
     },
     "chain#777777": {
+        "fees": true,
         "revenue": true
     },
     "chain#80094": {
@@ -34375,7 +34387,9 @@
         "name": "haedal",
         "yields": false,
         "tvl": true,
-        "revenue": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "parent#halotrade": {
         "name": "halotrade",
