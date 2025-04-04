@@ -2377,8 +2377,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -11218,8 +11217,7 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2102": {
         "name": "titano-swych",
@@ -14098,7 +14096,6 @@
         "tvl": true,
         "yields": true,
         "governance": true,
-        "liquidity": true,
         "hacks": true,
         "raises": true,
         "emissions": true
