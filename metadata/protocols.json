@@ -1172,8 +1172,7 @@
     "289": {
         "name": "yetiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "290": {
         "name": "penguin-finance",
@@ -4170,8 +4169,7 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "816": {
         "name": "xsigma",
@@ -31298,6 +31296,7 @@
         "name": "burrbear",
         "tvl": true,
         "yields": false,
+        "raises": true,
         "fees": true,
         "revenue": true,
         "dexs": true
