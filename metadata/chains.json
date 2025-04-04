@@ -50,6 +50,7 @@
     },
     "algorand": {
         "name": "Algorand",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "aggregators": true,
@@ -95,6 +96,7 @@
     },
     "arbitrum": {
         "name": "Arbitrum",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -169,6 +171,7 @@
     },
     "avalanche": {
         "name": "Avalanche",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -195,6 +198,7 @@
     },
     "base": {
         "name": "Base",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -234,6 +238,7 @@
     },
     "bitcoin": {
         "name": "Bitcoin",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -348,6 +353,7 @@
     },
     "bsc": {
         "name": "BSC",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -390,6 +396,7 @@
     },
     "cardano": {
         "name": "Cardano",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -724,6 +731,7 @@
     },
     "ethereum": {
         "name": "Ethereum",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -1238,6 +1246,7 @@
     },
     "litecoin": {
         "name": "Litecoin",
+        "activeUsers": true,
         "fees": true,
         "aggregators": true,
         "bridge-aggregators": true,
@@ -1681,6 +1690,7 @@
     },
     "polygon": {
         "name": "Polygon",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -1846,6 +1856,7 @@
     },
     "scroll": {
         "name": "Scroll",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -1918,6 +1929,7 @@
     },
     "solana": {
         "name": "Solana",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -2188,6 +2200,7 @@
     },
     "tron": {
         "name": "Tron",
+        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "aggregators": true,
