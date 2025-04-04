@@ -13647,6 +13647,7 @@
         "tvl": true,
         "yields": true,
         "governance": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -16592,7 +16593,7 @@
         "perps": true
     },
     "3057": {
-        "name": "openeden",
+        "name": "openeden-tbill",
         "tvl": true,
         "yields": false,
         "fees": true,
@@ -32665,6 +32666,11 @@
         "tvl": false,
         "yields": false
     },
+    "5995": {
+        "name": "openeden-usdo",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -35321,6 +35327,13 @@
         "governance": true,
         "liquidity": true
     },
+    "parent#openeden": {
+        "name": "openeden",
+        "yields": false,
+        "tvl": true,
+        "fees": true,
+        "revenue": true
+    },
     "parent#opensea": {
         "name": "opensea",
         "yields": false,
@@ -35410,6 +35423,9 @@
         "name": "paraluni",
         "yields": false,
         "tvl": true
+    },
+    "parent#paraspace": {
+        "activeUsers": true
     },
     "parent#parax": {
         "name": "parallel-super-app",
