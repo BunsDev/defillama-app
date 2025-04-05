@@ -11626,7 +11626,7 @@
     },
     "2156": {
         "name": "ethwswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2157": {
