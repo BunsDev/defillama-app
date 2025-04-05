@@ -8053,7 +8053,8 @@
     "1533": {
         "name": "life",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1534": {
         "name": "strikex",
