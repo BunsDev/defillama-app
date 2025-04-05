@@ -2586,8 +2586,7 @@
     "514": {
         "name": "orion-money",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "515": {
         "name": "wrap-protocol",
@@ -2688,7 +2687,6 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true,
         "raises": true
     },
     "534": {
@@ -5461,7 +5459,9 @@
         "yields": true,
         "governance": true,
         "liquidity": true,
-        "raises": true
+        "raises": true,
+        "fees": true,
+        "revenue": true
     },
     "1045": {
         "name": "tempus-finance",
@@ -9772,6 +9772,7 @@
         "name": "sharkswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1829": {
@@ -11809,7 +11810,9 @@
         "name": "dolomite",
         "tvl": true,
         "yields": true,
-        "raises": true
+        "raises": true,
+        "fees": true,
+        "revenue": true
     },
     "2188": {
         "name": "real-protocol",
@@ -23284,7 +23287,8 @@
         "name": "baseline-protocol",
         "tvl": true,
         "yields": false,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "4235": {
         "name": "lens-protocol",
@@ -24176,7 +24180,8 @@
         "name": "vest-exchange",
         "tvl": true,
         "yields": false,
-        "raises": true
+        "raises": true,
+        "perps": true
     },
     "4401": {
         "name": "zethr",
@@ -25147,6 +25152,8 @@
         "name": "ape.store",
         "tvl": true,
         "yields": false,
+        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "4585": {
@@ -27625,7 +27632,9 @@
     "5044": {
         "name": "euler-v2",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "fees": true,
+        "revenue": true
     },
     "5046": {
         "name": "drift-staked-sol",
@@ -29265,7 +29274,9 @@
     "5337": {
         "name": "royco-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "5338": {
         "name": "solanahub-staked-sol",
@@ -29471,7 +29482,9 @@
     "5376": {
         "name": "cian-yield-layer",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "fees": true,
+        "revenue": true
     },
     "5377": {
         "name": "blazingapp",
@@ -31430,7 +31443,9 @@
         "name": "beraborrow",
         "tvl": true,
         "yields": false,
-        "raises": true
+        "raises": true,
+        "fees": true,
+        "revenue": true
     },
     "5747": {
         "name": "straxswap",
@@ -33849,7 +33864,9 @@
     "parent#cian-protocol": {
         "name": "cian-protocol",
         "yields": true,
-        "tvl": true
+        "tvl": true,
+        "fees": true,
+        "revenue": true
     },
     "parent#claimswap": {
         "name": "claimswap",
@@ -34267,6 +34284,8 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
+        "fees": true,
+        "revenue": true,
         "emissions": true
     },
     "parent#extra-finance": {
