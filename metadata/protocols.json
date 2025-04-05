@@ -3149,7 +3149,8 @@
     "616": {
         "name": "amy-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "617": {
         "name": "bogged-finance",
@@ -3308,7 +3309,8 @@
     "642": {
         "name": "bumper-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "643": {
         "name": "geist-finance",
@@ -35443,9 +35445,6 @@
         "name": "paraluni",
         "yields": false,
         "tvl": true
-    },
-    "parent#paraspace": {
-        "activeUsers": true
     },
     "parent#parax": {
         "name": "parallel-super-app",
