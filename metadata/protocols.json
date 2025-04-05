@@ -3709,6 +3709,7 @@
         "name": "polkaswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "714": {
