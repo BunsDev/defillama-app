@@ -2785,7 +2785,8 @@
     "548": {
         "name": "dfs-network",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "549": {
         "name": "vigor",
@@ -6105,7 +6106,8 @@
     "1160": {
         "name": "baker-guild",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1161": {
         "name": "niifi",
@@ -7654,7 +7656,8 @@
     "1448": {
         "name": "white-whale-vaults",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1449": {
         "name": "impactmarket",
@@ -16114,6 +16117,7 @@
         "tvl": false,
         "yields": false,
         "treasury": true,
+        "liquidity": true,
         "raises": true,
         "fees": true,
         "revenue": true,
@@ -17376,7 +17380,8 @@
     "3177": {
         "name": "white-whale-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3178": {
         "name": "pegasys-v3",
@@ -28619,8 +28624,7 @@
     "5220": {
         "name": "metahub-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5221": {
         "name": "raindex",
@@ -32616,6 +32620,7 @@
         "name": "bakerdao",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -36869,7 +36874,8 @@
     "parent#white-whale": {
         "name": "white-whale",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#wise-lending": {
         "name": "wise-lending",
