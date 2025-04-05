@@ -5821,8 +5821,7 @@
     "1107": {
         "name": "waterloan",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1108": {
         "name": "gearbox",
