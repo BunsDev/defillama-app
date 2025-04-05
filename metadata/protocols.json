@@ -1913,8 +1913,7 @@
         "name": "cafeswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "410": {
         "name": "swamp-finance",
@@ -2835,7 +2834,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -4601,7 +4599,7 @@
         "yields": false
     },
     "894": {
-        "name": "paraswap",
+        "name": "velora",
         "tvl": false,
         "yields": false,
         "governance": true,
@@ -7126,8 +7124,7 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1364": {
         "name": "narwhalswap",
@@ -9544,6 +9541,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9682,8 +9680,7 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -11664,7 +11661,7 @@
         "liquidity": true
     },
     "2175": {
-        "name": "goosefx",
+        "name": "goosefx-v1",
         "tvl": true,
         "yields": false,
         "perps": true
@@ -12477,8 +12474,7 @@
     "2331": {
         "name": "swapfish",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12772,8 +12768,7 @@
     "2384": {
         "name": "oreoswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2385": {
         "name": "exactly",
@@ -13887,8 +13882,7 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2578": {
         "name": "beamer-bridge",
@@ -14881,8 +14875,7 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2752": {
         "name": "onchain-trade",
@@ -18038,7 +18031,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -32680,6 +32674,11 @@
         "yields": false,
         "liquidity": true
     },
+    "5998": {
+        "name": "goosefx-v2",
+        "tvl": false,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -34352,6 +34351,12 @@
         "yields": false,
         "tvl": true,
         "raises": true
+    },
+    "parent#goosefx": {
+        "name": "goosefx",
+        "yields": false,
+        "tvl": true,
+        "perps": true
     },
     "parent#goplus-security": {
         "name": "goplus-security",
