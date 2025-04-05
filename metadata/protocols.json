@@ -18818,8 +18818,7 @@
     "3424": {
         "name": "raccoon-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3425": {
         "name": "scallop-pool",
@@ -26610,7 +26609,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
