@@ -413,8 +413,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "168": {
         "name": "dev-protocol",
@@ -1914,8 +1913,7 @@
         "name": "cafeswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "410": {
         "name": "swamp-finance",
@@ -2836,7 +2834,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -7127,8 +7124,7 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1364": {
         "name": "narwhalswap",
@@ -9545,6 +9541,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -10133,7 +10130,8 @@
     "1902": {
         "name": "starswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1903": {
         "name": "vovo-finance",
@@ -10724,7 +10722,8 @@
     "2010": {
         "name": "starswap-starcoin",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2011": {
         "name": "sudo-inu",
@@ -12476,8 +12475,7 @@
     "2331": {
         "name": "swapfish",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12771,8 +12769,7 @@
     "2384": {
         "name": "oreoswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2385": {
         "name": "exactly",
@@ -13886,8 +13883,7 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2578": {
         "name": "beamer-bridge",
@@ -16065,7 +16061,8 @@
     "2966": {
         "name": "starmaker",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2967": {
         "name": "optimism-foundation",
