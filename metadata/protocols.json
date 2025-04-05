@@ -1914,8 +1914,7 @@
         "name": "cafeswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "410": {
         "name": "swamp-finance",
@@ -2378,7 +2377,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -2835,7 +2835,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -3771,8 +3770,7 @@
     "724": {
         "name": "handle.fi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "725": {
         "name": "bishares",
@@ -7127,8 +7125,7 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1364": {
         "name": "narwhalswap",
@@ -11720,8 +11717,7 @@
     "2184": {
         "name": "handle.fi-perps",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2185": {
         "name": "stabledoin",
@@ -12477,8 +12473,7 @@
     "2331": {
         "name": "swapfish",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12772,8 +12767,7 @@
     "2384": {
         "name": "oreoswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2385": {
         "name": "exactly",
@@ -13887,8 +13881,7 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2578": {
         "name": "beamer-bridge",
@@ -20837,8 +20830,7 @@
     "3820": {
         "name": "handle.fi-hsp",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3821": {
         "name": "particles-money",
@@ -34416,8 +34408,7 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "parent#hatom-protocol": {
         "name": "hatom-protocol",
