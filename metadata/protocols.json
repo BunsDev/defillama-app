@@ -7892,8 +7892,7 @@
         "name": "fantasm",
         "tvl": true,
         "yields": false,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "1505": {
         "name": "floor-dao",
@@ -16042,8 +16041,7 @@
     "2963": {
         "name": "memedex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2964": {
         "name": "cozy-v2",
