@@ -1508,7 +1508,7 @@
     "343": {
         "name": "impermax-v2",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true,
         "fees": true,
         "revenue": true
@@ -34706,7 +34706,7 @@
     },
     "parent#impermax-finance": {
         "name": "impermax-finance",
-        "yields": false,
+        "yields": true,
         "tvl": true,
         "governance": true,
         "forks": true,
