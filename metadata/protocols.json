@@ -1800,7 +1800,8 @@
     "391": {
         "name": "pantherswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "392": {
         "name": "wardenswap",
@@ -12839,6 +12840,7 @@
         "tvl": true,
         "yields": false,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -13547,7 +13549,8 @@
     "2523": {
         "name": "casinocronos",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2524": {
         "name": "friends-with-benefits",
@@ -16540,7 +16543,8 @@
     "3049": {
         "name": "crowdswap",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "liquidity": true
     },
     "3050": {
         "name": "daolama",
