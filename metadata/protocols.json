@@ -572,7 +572,8 @@
     "193": {
         "name": "unit-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "194": {
         "name": "pancakeswap-amm",
@@ -2835,6 +2836,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -4170,7 +4172,8 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "816": {
         "name": "xsigma",
@@ -4734,6 +4737,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -5076,7 +5080,8 @@
     "979": {
         "name": "partyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "980": {
         "name": "wannaswap",
@@ -11660,8 +11665,7 @@
     "2174": {
         "name": "dexfinance-bsc",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2175": {
         "name": "goosefx-v1",
@@ -11768,7 +11772,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -18768,7 +18773,8 @@
     "3436": {
         "name": "fedex-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3437": {
         "name": "pyswap",
@@ -22681,7 +22687,8 @@
     "4147": {
         "name": "0xscans",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4148": {
         "name": "meteora-dlmm",
@@ -33948,7 +33955,6 @@
         "yields": true,
         "tvl": true,
         "treasury": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
