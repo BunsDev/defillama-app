@@ -11182,8 +11182,7 @@
     "2094": {
         "name": "boneswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2095": {
         "name": "ethichub",
@@ -18260,8 +18259,7 @@
     "3346": {
         "name": "cookiebase-dex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3347": {
         "name": "meridian-finance",
@@ -18513,8 +18511,7 @@
     "3390": {
         "name": "cookiebase-farm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3391": {
         "name": "liquid-collective",
@@ -33804,8 +33801,7 @@
     "parent#cookiebase": {
         "name": "cookiebase",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#covo-finance": {
         "name": "covo-finance",
