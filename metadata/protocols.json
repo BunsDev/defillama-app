@@ -10388,7 +10388,8 @@
     "1949": {
         "name": "civfund",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1950": {
         "name": "baryon-network",
