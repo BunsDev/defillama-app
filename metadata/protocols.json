@@ -2095,8 +2095,7 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "439": {
         "name": "the-grand-banks",
@@ -3700,7 +3699,6 @@
         "forks": true,
         "raises": true,
         "fees": true,
-        "revenue": true,
         "dexs": true
     },
     "712": {
@@ -3730,7 +3728,7 @@
     },
     "716": {
         "name": "billion-happiness",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "717": {
@@ -6623,8 +6621,7 @@
     "1266": {
         "name": "fees.wtf",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1267": {
         "name": "the-open-dao-sos",
@@ -8708,8 +8705,7 @@
     "1647": {
         "name": "waterfall-defi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1648": {
         "name": "cgx-finance",
@@ -10116,8 +10112,7 @@
     "1898": {
         "name": "waterfall-wtf",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1899": {
         "name": "taiga-karura",
@@ -13047,8 +13042,7 @@
     "2429": {
         "name": "paraluni-dex",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2430": {
         "name": "waterfall-dex",
@@ -13586,7 +13580,6 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -16688,7 +16681,8 @@
     "3072": {
         "name": "dubble-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3073": {
         "name": "predy-v2",
@@ -32705,7 +32699,8 @@
     "5998": {
         "name": "goosefx-v2",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "perps": true
     },
     "chain#1": {
         "fees": true,
