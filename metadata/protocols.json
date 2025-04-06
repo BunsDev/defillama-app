@@ -11452,6 +11452,7 @@
         "name": "capricorn-finance",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "2129": {
