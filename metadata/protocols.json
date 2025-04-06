@@ -951,6 +951,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -1507,7 +1508,7 @@
     "343": {
         "name": "impermax-v2",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true,
         "fees": true,
         "revenue": true
@@ -1771,6 +1772,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true
@@ -2665,8 +2667,7 @@
     "529": {
         "name": "shadecash",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "530": {
         "name": "avaware",
@@ -2855,7 +2856,6 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
@@ -8807,8 +8807,7 @@
     "1656": {
         "name": "funbeast",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1657": {
         "name": "predy-v3.2",
@@ -15101,6 +15100,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -28616,7 +28616,7 @@
     "5214": {
         "name": "metrom",
         "tvl": false,
-        "yields": false
+        "yields": true
     },
     "5216": {
         "name": "pit-finance",
@@ -32309,7 +32309,7 @@
     "5905": {
         "name": "multipli.fi",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "5906": {
         "name": "yuzu-finance",
@@ -34706,7 +34706,7 @@
     },
     "parent#impermax-finance": {
         "name": "impermax-finance",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "governance": true,
         "forks": true,
