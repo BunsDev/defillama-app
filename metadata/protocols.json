@@ -1230,6 +1230,7 @@
         "tvl": false,
         "yields": false,
         "governance": true,
+        "liquidity": true,
         "raises": true
     },
     "301": {
@@ -2316,7 +2317,8 @@
     "473": {
         "name": "baguette",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "474": {
         "name": "canary",
@@ -7612,7 +7614,8 @@
         "name": "solidex",
         "tvl": true,
         "yields": false,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "1451": {
         "raises": true
@@ -10221,6 +10224,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -16729,7 +16733,8 @@
         "name": "olympulsex",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "3083": {
         "name": "penpie",
