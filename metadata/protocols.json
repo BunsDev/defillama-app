@@ -3698,7 +3698,6 @@
         "yields": false,
         "forks": true,
         "raises": true,
-        "fees": true,
         "dexs": true
     },
     "712": {
