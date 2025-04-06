@@ -1910,8 +1910,7 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "409": {
         "name": "cafeswap",
@@ -3727,7 +3726,7 @@
     },
     "716": {
         "name": "billion-happiness",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "717": {
@@ -8368,7 +8367,8 @@
     "1589": {
         "name": "puzzle-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1590": {
         "name": "milkyswap",
@@ -11554,7 +11554,7 @@
     },
     "2156": {
         "name": "ethwswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2157": {
@@ -11676,8 +11676,7 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -14864,8 +14863,7 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -16018,6 +16016,7 @@
         "name": "holdstation-defutures",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -29998,6 +29997,7 @@
         "name": "holdstation-swap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -34491,6 +34491,7 @@
         "name": "holdstation",
         "yields": true,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
@@ -35657,7 +35658,8 @@
     "parent#puzzleswaporg": {
         "name": "puzzleswaporg",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#quickswap": {
         "name": "quickswap",
