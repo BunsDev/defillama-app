@@ -10613,7 +10613,6 @@
         "name": "pangea-swap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "1988": {
