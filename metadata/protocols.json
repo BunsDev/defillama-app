@@ -1459,8 +1459,7 @@
     "335": {
         "name": "flashstake-old",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "336": {
         "name": "sifchain",
@@ -1834,7 +1833,8 @@
     "393": {
         "name": "apy-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "394": {
         "name": "reaper-farm",
@@ -11390,7 +11390,6 @@
         "name": "flashstake",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "emissions": true
     },
     "2116": {
@@ -22794,7 +22793,7 @@
     "4142": {
         "name": "stratum-exchange",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true
     },
     "4143": {
