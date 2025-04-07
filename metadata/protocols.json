@@ -6620,7 +6620,8 @@
     "1266": {
         "name": "fees.wtf",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1267": {
         "name": "the-open-dao-sos",
@@ -8704,7 +8705,8 @@
     "1647": {
         "name": "waterfall-defi",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1648": {
         "name": "cgx-finance",
@@ -10111,7 +10113,8 @@
     "1898": {
         "name": "waterfall-wtf",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1899": {
         "name": "taiga-karura",
@@ -27352,7 +27355,6 @@
         "name": "cyberperp",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "perps": true
     },
     "5017": {
