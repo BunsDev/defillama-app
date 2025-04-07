@@ -4733,7 +4733,6 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true,
@@ -17848,7 +17847,6 @@
         "name": "pika-v4",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -35544,7 +35542,6 @@
         "name": "pika-protocol",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
