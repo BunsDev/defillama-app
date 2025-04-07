@@ -1585,7 +1585,6 @@
         "name": "gamma",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "hacks": true,
         "fees": true,
         "revenue": true
@@ -15457,7 +15456,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -15501,8 +15500,7 @@
     "2863": {
         "name": "saitaswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2864": {
         "name": "thena-fusion",
@@ -19161,9 +19159,9 @@
         "options": true
     },
     "3502": {
-        "name": "seamless-protocol",
+        "name": "seamless-v1",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true
     },
     "3503": {
@@ -35877,6 +35875,11 @@
         "yields": true,
         "tvl": true,
         "liquidity": true
+    },
+    "parent#seamless-protocol": {
+        "name": "seamless-protocol",
+        "yields": true,
+        "tvl": true
     },
     "parent#secta-finance": {
         "name": "secta-finance",
