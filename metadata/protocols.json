@@ -2841,7 +2841,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -4190,7 +4189,8 @@
     "817": {
         "name": "cashcow-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "818": {
         "name": "cashcow-protocol",
@@ -9961,8 +9961,7 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1872": {
         "name": "rift-finance",
@@ -10238,7 +10237,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11201,7 +11199,8 @@
     "2094": {
         "name": "boneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2095": {
         "name": "ethichub",
@@ -11785,8 +11784,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -14883,7 +14881,8 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -18791,8 +18790,7 @@
     "3438": {
         "name": "baklava-space",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3439": {
         "name": "hydration",
@@ -19303,7 +19301,8 @@
     "3526": {
         "name": "rexdex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3527": {
         "name": "blazebot",
@@ -21757,8 +21756,7 @@
     "3986": {
         "name": "dropcopy",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3987": {
         "name": "bracketx",
