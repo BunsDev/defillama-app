@@ -1202,7 +1202,8 @@
         "name": "lydia",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "294": {
         "name": "anchor",
@@ -1508,8 +1509,7 @@
     "345": {
         "name": "alpaca-leveraged-yield-farming",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "346": {
         "name": "yieldly",
@@ -14119,7 +14119,8 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2619": {
         "name": "metalx-dex",
@@ -14360,8 +14361,7 @@
     "2658": {
         "name": "alpaca-perpetual-futures-exchange",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2659": {
         "name": "lunagens",
@@ -16420,8 +16420,7 @@
     "3027": {
         "name": "alpaca-finance-2.0",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "3028": {
         "name": "auto-core",
@@ -19558,6 +19557,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -30658,7 +30658,7 @@
     },
     "5616": {
         "name": "republic-note",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5617": {
@@ -33219,8 +33219,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "parent#alphafi": {
         "name": "alphafi",
