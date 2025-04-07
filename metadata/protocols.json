@@ -19598,6 +19598,7 @@
         "tvl": true,
         "yields": false,
         "raises": true,
+        "fees": true,
         "revenue": true
     },
     "3559": {
@@ -31961,6 +31962,7 @@
         "name": "hypurrfi",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "5839": {
@@ -32646,6 +32648,7 @@
         "name": "resupply",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "5964": {
@@ -32800,8 +32803,7 @@
     "5990": {
         "name": "mirage-protocol",
         "tvl": true,
-        "yields": false,
-        "fees": true
+        "yields": false
     },
     "5991": {
         "name": "dexlyn-labs",
@@ -32850,6 +32852,7 @@
         "name": "hard-swap",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -36278,6 +36281,7 @@
         "yields": false,
         "tvl": true,
         "raises": true,
+        "fees": true,
         "revenue": true
     },
     "parent#stakewise": {
