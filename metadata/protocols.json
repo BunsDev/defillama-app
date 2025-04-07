@@ -32653,9 +32653,6 @@
         "revenue": true
     },
     "5964": {
-        "name": "bakerdao",
-        "tvl": false,
-        "yields": false,
         "liquidity": true,
         "fees": true,
         "revenue": true
@@ -32886,7 +32883,8 @@
     "6005": {
         "name": "momentum",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "chain#1": {
         "fees": true,
