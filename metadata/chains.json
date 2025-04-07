@@ -188,7 +188,6 @@
     },
     "bahamut": {
         "name": "Bahamut",
-        "fees": true,
         "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"
@@ -469,7 +468,6 @@
     },
     "conflux": {
         "name": "Conflux",
-        "fees": true,
         "aggregators": true,
         "inflows": true,
         "gecko_id": "conflux-token",

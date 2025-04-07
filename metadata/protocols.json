@@ -2572,7 +2572,6 @@
         "name": "quipuswap-v1",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "514": {
@@ -4745,7 +4744,6 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -7564,6 +7562,7 @@
         "name": "polaris-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9962,8 +9961,7 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1872": {
         "name": "rift-finance",
@@ -10239,7 +10237,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -16684,20 +16681,17 @@
     "3069": {
         "name": "quipuswap-stableswap",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "3070": {
         "name": "quipuswap-v2",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3071": {
         "name": "quipuswap-v3",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3072": {
         "name": "dubble-exchange",
@@ -18715,7 +18709,8 @@
     "3423": {
         "name": "zena-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3424": {
         "name": "raccoon-finance",
@@ -19341,8 +19336,7 @@
     "3531": {
         "name": "mozaic",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3532": {
         "name": "manga-fi",
@@ -35705,7 +35699,6 @@
         "yields": true,
         "tvl": true,
         "forks": true,
-        "liquidity": true,
         "dexs": true
     },
     "parent#rabbitx-fusion": {
