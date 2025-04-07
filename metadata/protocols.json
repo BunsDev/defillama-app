@@ -3830,7 +3830,8 @@
     "733": {
         "name": "stabilize",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "734": {
         "name": "openswap",
@@ -4189,8 +4190,7 @@
     "817": {
         "name": "cashcow-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "818": {
         "name": "cashcow-protocol",
@@ -4743,6 +4743,7 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -9960,7 +9961,8 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1872": {
         "name": "rift-finance",
@@ -10236,6 +10238,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -14880,8 +14883,7 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -32721,6 +32723,17 @@
         "tvl": true,
         "yields": false
     },
+    "6000": {
+        "name": "seamless-vaults",
+        "tvl": true,
+        "yields": false,
+        "liquidity": true
+    },
+    "6001": {
+        "name": "arbera",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -35879,7 +35892,8 @@
     "parent#seamless-protocol": {
         "name": "seamless-protocol",
         "yields": true,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#secta-finance": {
         "name": "secta-finance",

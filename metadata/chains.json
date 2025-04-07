@@ -1672,6 +1672,9 @@
         "gecko_id": "plume",
         "tokenSymbol": "PLUME"
     },
+    "plume-mainnet": {
+        "name": "Plume Mainnet"
+    },
     "pokt": {
         "name": "Pokt",
         "gecko_id": "pocket-network",
