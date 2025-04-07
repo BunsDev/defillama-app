@@ -3,6 +3,7 @@
         "name": "wbtc",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "3": {
@@ -287,6 +288,7 @@
         "yields": false,
         "liquidity": true,
         "hacks": true,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -297,6 +299,7 @@
         "forks": true,
         "treasury": true,
         "liquidity": true,
+        "fees": true,
         "revenue": true,
         "emissions": true
     },
@@ -645,6 +648,7 @@
         "treasury": true,
         "liquidity": true,
         "hacks": true,
+        "fees": true,
         "revenue": true
     },
     "205": {
@@ -907,6 +911,7 @@
         "governance": true,
         "liquidity": true,
         "activeUsers": true,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -2837,6 +2842,7 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
@@ -3587,6 +3593,7 @@
         "name": "sunswap-v1",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -4184,7 +4191,8 @@
     "817": {
         "name": "cashcow-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "818": {
         "name": "cashcow-protocol",
@@ -6665,6 +6673,7 @@
         "name": "stellaswap-v2",
         "tvl": true,
         "yields": true,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
@@ -7962,7 +7971,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1516": {
@@ -10789,6 +10798,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "fees": true,
         "revenue": true
     },
     "2021": {
@@ -12312,7 +12322,6 @@
         "tvl": true,
         "yields": true,
         "forks": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -14875,7 +14884,8 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -15440,7 +15450,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -15463,7 +15473,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -15534,7 +15544,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -20866,7 +20876,7 @@
     "3823": {
         "name": "keom-protocol",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "fees": true,
         "revenue": true
     },
@@ -30665,7 +30675,7 @@
     },
     "5616": {
         "name": "republic-note",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5617": {
@@ -33941,7 +33951,6 @@
         "name": "desk",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true,
@@ -33991,6 +34000,7 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
+        "fees": true,
         "revenue": true,
         "dexs": true,
         "aggregator": true,
@@ -35927,6 +35937,7 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
+        "fees": true,
         "revenue": true,
         "emissions": true
     },
@@ -36158,6 +36169,7 @@
         "name": "stellaswap",
         "yields": true,
         "tvl": true,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },

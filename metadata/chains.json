@@ -143,8 +143,7 @@
     },
     "asset-chain": {
         "name": "Asset Chain",
-        "fees": true,
-        "dexs": true
+        "fees": true
     },
     "astar": {
         "name": "Astar",
@@ -471,7 +470,6 @@
     "conflux": {
         "name": "Conflux",
         "fees": true,
-        "dexs": true,
         "aggregators": true,
         "inflows": true,
         "gecko_id": "conflux-token",
