@@ -2,7 +2,8 @@
     "2": {
         "name": "wbtc",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "3": {
         "name": "curve-dex",
@@ -286,6 +287,7 @@
         "yields": false,
         "liquidity": true,
         "hacks": true,
+        "revenue": true,
         "dexs": true
     },
     "148": {
@@ -295,6 +297,7 @@
         "forks": true,
         "treasury": true,
         "liquidity": true,
+        "revenue": true,
         "emissions": true
     },
     "149": {
@@ -641,7 +644,8 @@
         "forks": true,
         "treasury": true,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "revenue": true
     },
     "205": {
         "name": "goose-finance",
@@ -903,6 +907,7 @@
         "governance": true,
         "liquidity": true,
         "activeUsers": true,
+        "revenue": true,
         "dexs": true
     },
     "247": {
@@ -1074,8 +1079,7 @@
     "274": {
         "name": "olive-cash",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "275": {
         "name": "sharedstake",
@@ -3583,6 +3587,7 @@
         "name": "sunswap-v1",
         "tvl": true,
         "yields": false,
+        "revenue": true,
         "dexs": true
     },
     "691": {
@@ -6660,6 +6665,7 @@
         "name": "stellaswap-v2",
         "tvl": true,
         "yields": true,
+        "revenue": true,
         "dexs": true
     },
     "1277": {
@@ -10782,7 +10788,8 @@
         "name": "silo-v1",
         "tvl": true,
         "yields": true,
-        "liquidity": true
+        "liquidity": true,
+        "revenue": true
     },
     "2021": {
         "name": "router-protocol",
@@ -26904,7 +26911,7 @@
     "4939": {
         "name": "maha.xyz",
         "tvl": false,
-        "yields": false,
+        "yields": true,
         "governance": true,
         "treasury": true,
         "liquidity": true,
@@ -33984,6 +33991,7 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
+        "revenue": true,
         "dexs": true,
         "aggregator": true,
         "emissions": true
@@ -35919,6 +35927,7 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
+        "revenue": true,
         "emissions": true
     },
     "parent#skullswap": {
@@ -36149,6 +36158,7 @@
         "name": "stellaswap",
         "yields": true,
         "tvl": true,
+        "revenue": true,
         "dexs": true
     },
     "parent#sturdy": {
