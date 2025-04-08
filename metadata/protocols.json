@@ -3645,8 +3645,7 @@
     "701": {
         "name": "behodler",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "702": {
         "name": "coffin-finance",
@@ -18930,7 +18929,6 @@
         "name": "kinetix-derivatives",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "dexs": true
     },
     "3466": {
@@ -19341,7 +19339,6 @@
         "name": "kinetix-amm-v2",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -19350,7 +19347,6 @@
         "name": "kinetix-amm-v3",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -22459,7 +22455,6 @@
         "name": "kinetix-derivatives-v2",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -25149,7 +25144,7 @@
     "4603": {
         "name": "ceto-swap",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "4604": {
         "name": "cropper-clmm",
@@ -34804,7 +34799,6 @@
         "name": "kinetix",
         "yields": true,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
