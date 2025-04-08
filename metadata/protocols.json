@@ -8017,7 +8017,7 @@
     },
     "1515": {
         "name": "echidna-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1516": {
@@ -18451,8 +18451,7 @@
     "3357": {
         "name": "antihero-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3358": {
         "name": "krav",
@@ -32927,7 +32926,8 @@
         "name": "felix",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "chain#1": {
         "fees": true,
