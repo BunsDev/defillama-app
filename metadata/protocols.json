@@ -3192,7 +3192,6 @@
         "name": "clipper",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "hacks": true,
         "activeUsers": true,
         "fees": true,
@@ -10564,7 +10563,7 @@
     "1979": {
         "name": "saucerswap-v1",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -12372,7 +12371,7 @@
     "2308": {
         "name": "jito-liquid-staking",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true,
         "fees": true,
         "revenue": true
@@ -15441,7 +15440,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2854": {
@@ -15878,7 +15877,7 @@
     "2929": {
         "name": "sparklend",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "fees": true,
         "revenue": true
     },
@@ -16059,7 +16058,8 @@
     "2963": {
         "name": "memedex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2964": {
         "name": "cozy-v2",
@@ -19155,7 +19155,7 @@
     "3502": {
         "name": "seamless-v1",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true
     },
     "3503": {
@@ -26205,7 +26205,7 @@
     "4806": {
         "name": "stable-jack-ausd",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "raises": true
     },
     "4807": {
@@ -29882,7 +29882,7 @@
     "5470": {
         "name": "celeron",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "5471": {
         "name": "opentrade",
