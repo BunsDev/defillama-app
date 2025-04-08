@@ -188,7 +188,6 @@
     },
     "bahamut": {
         "name": "Bahamut",
-        "fees": true,
         "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"
@@ -470,7 +469,6 @@
     "conflux": {
         "name": "Conflux",
         "fees": true,
-        "dexs": true,
         "aggregators": true,
         "inflows": true,
         "gecko_id": "conflux-token",
@@ -1332,6 +1330,7 @@
     },
     "meer": {
         "name": "MEER",
+        "dexs": true,
         "gecko_id": "qitmeer-network",
         "tokenSymbol": "MEER"
     },
