@@ -143,7 +143,8 @@
     },
     "asset-chain": {
         "name": "Asset Chain",
-        "fees": true
+        "fees": true,
+        "dexs": true
     },
     "astar": {
         "name": "Astar",
@@ -188,6 +189,7 @@
     },
     "bahamut": {
         "name": "Bahamut",
+        "fees": true,
         "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"
@@ -468,6 +470,8 @@
     },
     "conflux": {
         "name": "Conflux",
+        "fees": true,
+        "dexs": true,
         "aggregators": true,
         "inflows": true,
         "gecko_id": "conflux-token",
@@ -896,7 +900,9 @@
         "chainAssets": true
     },
     "goat": {
-        "name": "Goat"
+        "name": "Goat",
+        "fees": true,
+        "dexs": true
     },
     "gochain": {
         "name": "GoChain",
