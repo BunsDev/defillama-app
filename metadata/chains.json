@@ -954,6 +954,7 @@
     },
     "hashkey-chain": {
         "name": "HashKey Chain",
+        "fees": true,
         "gecko_id": "hashkey-ecopoints",
         "tokenSymbol": "HSK"
     },
@@ -1723,6 +1724,7 @@
     },
     "polynomial": {
         "name": "Polynomial",
+        "fees": true,
         "chainAssets": true
     },
     "prom": {
