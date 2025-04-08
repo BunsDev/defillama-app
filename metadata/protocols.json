@@ -1954,8 +1954,7 @@
     "414": {
         "name": "treedefi",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "415": {
         "name": "naos-finance",
@@ -6025,8 +6024,7 @@
     "1151": {
         "name": "the-seed-farm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1152": {
         "name": "robiniaswap",
@@ -12336,7 +12334,8 @@
     "2300": {
         "name": "strx-finance",
         "tvl": true,
-        "yields": true
+        "yields": true,
+        "liquidity": true
     },
     "2302": {
         "name": "goober",
@@ -32771,7 +32770,7 @@
         "yields": false
     },
     "6009": {
-        "name": "stable-jack-scusd",
+        "name": "stable-jack-v2",
         "tvl": true,
         "yields": false
     },
