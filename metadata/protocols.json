@@ -2842,6 +2842,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -10564,6 +10565,7 @@
         "name": "saucerswap-v1",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -15533,7 +15535,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -20492,7 +20494,8 @@
     "3746": {
         "name": "davincigraph",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3747": {
         "name": "intentx",
@@ -24431,6 +24434,7 @@
         "name": "hbarsuite",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "4468": {
@@ -29107,7 +29111,8 @@
     "5328": {
         "name": "headstarter",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5329": {
         "name": "thalaswap-v2",
@@ -32535,6 +32540,7 @@
         "name": "saucerswap-v2",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -35918,6 +35924,7 @@
         "name": "saucerswap",
         "yields": true,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
