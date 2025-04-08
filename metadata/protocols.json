@@ -1917,7 +1917,8 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "409": {
         "name": "cafeswap",
@@ -4186,8 +4187,7 @@
     "817": {
         "name": "cashcow-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "818": {
         "name": "cashcow-protocol",
@@ -8396,7 +8396,6 @@
         "name": "strips-finance",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "1593": {
@@ -9555,7 +9554,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11692,7 +11690,8 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -11781,7 +11780,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -12784,7 +12784,8 @@
     "2384": {
         "name": "oreoswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2385": {
         "name": "exactly",
@@ -28151,8 +28152,7 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "5158": {
         "name": "enosys-amm-v3",
@@ -32616,7 +32616,7 @@
     "5980": {
         "name": "liquidops",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "5981": {
         "name": "impermax-v3",
