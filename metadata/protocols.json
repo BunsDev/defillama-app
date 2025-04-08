@@ -3879,7 +3879,6 @@
         "name": "dino.exchange",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true
     },
     "738": {
@@ -13483,8 +13482,7 @@
     "2497": {
         "name": "dinosaur.finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2498": {
         "name": "umee",
