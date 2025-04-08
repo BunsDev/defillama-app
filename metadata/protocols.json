@@ -820,7 +820,6 @@
         "name": "idex-classic",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "231": {
@@ -21818,8 +21817,7 @@
     "3998": {
         "name": "idex-v1",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3999": {
         "name": "cega-v2",
@@ -22455,7 +22453,7 @@
     "4109": {
         "name": "segment-finance",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "4110": {
         "name": "kinetix-derivatives-v2",
@@ -27714,7 +27712,6 @@
         "name": "idex-v4",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "perps": true
     },
     "5080": {
@@ -34640,7 +34637,6 @@
         "name": "idex",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "perps": true
     },
     "parent#iguanadex": {
