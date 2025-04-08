@@ -21044,7 +21044,8 @@
     "3856": {
         "name": "peerme",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3857": {
         "name": "deri-v4",
@@ -23533,7 +23534,8 @@
         "name": "hyperblast",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "4301": {
         "name": "verylongswap-amm",
@@ -24504,7 +24506,8 @@
     "4481": {
         "name": "hyperliquid-bridge",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4483": {
         "name": "volcano",
@@ -25319,11 +25322,6 @@
     },
     "4637": {
         "name": "bouncebit-staking",
-        "tvl": true,
-        "yields": false
-    },
-    "4638": {
-        "name": "bouncebit-premium",
         "tvl": true,
         "yields": false
     },
@@ -26639,11 +26637,6 @@
     },
     "4884": {
         "name": "kosmos",
-        "tvl": true,
-        "yields": false
-    },
-    "4885": {
-        "name": "bouncebit-easy",
         "tvl": true,
         "yields": false
     },
@@ -29773,7 +29766,8 @@
     "5448": {
         "name": "hyperliquid-hlp",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5450": {
         "name": "bouncebit-cedefi-yield",
@@ -30102,6 +30096,7 @@
         "name": "hyperliquid-perps",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "perps": true
     },
     "5508": {
@@ -31413,6 +31408,7 @@
         "name": "hyperliquid-spot-orderbook",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -33675,9 +33671,6 @@
         "liquidity": true
     },
     "parent#bouncebit-cedefi": {
-        "name": "bouncebit-cedefi",
-        "yields": false,
-        "tvl": true,
         "fees": true,
         "revenue": true
     },
@@ -34616,6 +34609,7 @@
         "name": "hyperliquid",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
