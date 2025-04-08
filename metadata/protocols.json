@@ -3716,7 +3716,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true,
         "dexs": true
@@ -15463,7 +15463,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2858": {
