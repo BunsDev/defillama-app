@@ -468,7 +468,6 @@
     },
     "conflux": {
         "name": "Conflux",
-        "fees": true,
         "aggregators": true,
         "inflows": true,
         "gecko_id": "conflux-token",
