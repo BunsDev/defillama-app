@@ -1210,8 +1210,7 @@
         "name": "lydia",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "294": {
         "name": "anchor",
@@ -2379,8 +2378,7 @@
     "482": {
         "name": "shibance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "483": {
         "name": "nftx",
@@ -3194,7 +3192,6 @@
         "tvl": true,
         "yields": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -3717,7 +3714,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true,
         "dexs": true
@@ -11240,7 +11237,8 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "2102": {
         "name": "titano-swych",
@@ -11483,6 +11481,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -14129,8 +14128,7 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true,
-        "activeUsers": true
+        "treasury": true
     },
     "2619": {
         "name": "metalx-dex",
@@ -32625,7 +32623,7 @@
     "5981": {
         "name": "impermax-v3",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true
     },
     "5982": {
@@ -33669,10 +33667,6 @@
         "governance": true,
         "treasury": true,
         "liquidity": true
-    },
-    "parent#bouncebit-cedefi": {
-        "fees": true,
-        "revenue": true
     },
     "parent#bounceclub": {
         "name": "bounceclub",
