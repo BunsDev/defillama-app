@@ -26625,6 +26625,7 @@
         "name": "usual",
         "tvl": true,
         "yields": true,
+        "treasury": true,
         "liquidity": true,
         "raises": true
     },
@@ -32774,6 +32775,16 @@
     },
     "6009": {
         "name": "stable-jack-scusd",
+        "tvl": true,
+        "yields": false
+    },
+    "6012": {
+        "name": "bodega-market",
+        "tvl": true,
+        "yields": false
+    },
+    "6013": {
+        "name": "moar-market",
         "tvl": true,
         "yields": false
     },
