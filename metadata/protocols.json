@@ -2520,7 +2520,8 @@
     "502": {
         "name": "coinwind",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "503": {
         "name": "derive-v1",
@@ -8776,7 +8777,8 @@
     "1649": {
         "name": "milky-cow",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1650": {
         "name": "sicx",
@@ -9710,8 +9712,7 @@
     "1816": {
         "name": "ruby-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1817": {
         "name": "jupiter-swap",
@@ -14336,14 +14337,12 @@
     "2639": {
         "name": "ruby.exchange-yield",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2640": {
         "name": "ruby.exchange-stable",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2641": {
         "name": "fulcrom-perps",
@@ -16527,7 +16526,8 @@
     "3024": {
         "name": "etherberry-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3025": {
         "name": "ktx-perps",
@@ -30822,7 +30822,8 @@
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5623": {
         "name": "sonefi-amm",
@@ -30913,7 +30914,8 @@
         "yields": false,
         "raises": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "dexs": true
     },
     "5641": {
         "name": "citrex-markets",
@@ -32915,6 +32917,17 @@
         "name": "moar-market",
         "tvl": true,
         "yields": false
+    },
+    "6014": {
+        "name": "typus-perp",
+        "tvl": true,
+        "yields": false
+    },
+    "6015": {
+        "name": "felix",
+        "tvl": true,
+        "yields": false,
+        "fees": true
     },
     "chain#1": {
         "fees": true,
@@ -36031,8 +36044,7 @@
     "parent#ruby.exchange": {
         "name": "ruby.exchange",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#sablier-finance": {
         "name": "sablier",
