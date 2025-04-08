@@ -1042,8 +1042,7 @@
     "267": {
         "name": "s-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "269": {
         "name": "yfii",
@@ -1184,8 +1183,7 @@
     "289": {
         "name": "yetiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "290": {
         "name": "penguin-finance",
@@ -11241,8 +11239,7 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2102": {
         "name": "titano-swych",
@@ -13596,7 +13593,6 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -15455,7 +15451,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -31622,7 +31618,7 @@
     "5801": {
         "name": "cadabra-finance",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true
     },
     "5802": {
