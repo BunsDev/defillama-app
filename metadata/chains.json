@@ -793,7 +793,6 @@
         "derivatives": true,
         "aggregators": true,
         "options": true,
-        "aggregator-derivatives": true,
         "bridge-aggregators": true,
         "inflows": true,
         "gecko_id": "fantom",
