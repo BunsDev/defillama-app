@@ -2836,7 +2836,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "562": {
@@ -11568,7 +11567,7 @@
     },
     "2156": {
         "name": "ethwswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2157": {
