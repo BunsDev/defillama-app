@@ -11571,7 +11571,7 @@
     },
     "2156": {
         "name": "ethwswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2157": {
@@ -22094,8 +22094,7 @@
     "4048": {
         "name": "circlepacific",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4049": {
         "name": "zerion-wallet",
