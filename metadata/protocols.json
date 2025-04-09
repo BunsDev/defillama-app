@@ -4651,7 +4651,8 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "aggregator": true
+        "aggregator": true,
+        "emissions": true
     },
     "895": {
         "name": "blackpool",
@@ -7559,7 +7560,7 @@
     },
     "1432": {
         "name": "pegasys-v2",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -14483,8 +14484,7 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "2665": {
         "name": "apecoin",
