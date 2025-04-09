@@ -1832,6 +1832,7 @@
         "name": "Ronin",
         "fees": true,
         "dexs": true,
+        "inflows": true,
         "chainAssets": true
     },
     "rootstock": {
