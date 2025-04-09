@@ -1410,8 +1410,7 @@
     "328": {
         "name": "steakbank-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "329": {
         "name": "sovryn-dex",
@@ -4154,8 +4153,7 @@
     "805": {
         "name": "snowbank",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "806": {
         "name": "glide-finance",
@@ -4606,7 +4604,8 @@
     "887": {
         "name": "swapperchan",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "888": {
         "name": "revault",
