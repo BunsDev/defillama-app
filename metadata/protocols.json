@@ -1472,8 +1472,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "339": {
         "name": "lien",
@@ -2383,8 +2382,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -24464,7 +24462,7 @@
     "4473": {
         "name": "avalon-finance",
         "tvl": true,
-        "yields": false
+        "yields": true
     },
     "4474": {
         "name": "shibanova",
@@ -33464,7 +33462,7 @@
     },
     "parent#avalon-labs": {
         "name": "avalon-labs",
-        "yields": false,
+        "yields": true,
         "tvl": true,
         "raises": true
     },
