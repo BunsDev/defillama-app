@@ -2308,7 +2308,6 @@
         "name": "complus-network",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "472": {
@@ -14404,7 +14403,8 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "2665": {
         "name": "apecoin",
