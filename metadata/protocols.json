@@ -876,9 +876,6 @@
         "liquidity": true,
         "raises": true
     },
-    "240": {
-        "liquidity": true
-    },
     "241": {
         "name": "powerpool",
         "tvl": true,
@@ -14848,7 +14845,8 @@
     "2744": {
         "name": "kavastarter",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2745": {
         "name": "leetswap",
