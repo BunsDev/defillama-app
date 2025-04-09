@@ -3036,7 +3036,8 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "596": {
         "name": "flux-protocol",
@@ -9689,7 +9690,8 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -13592,6 +13594,7 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -32516,7 +32519,7 @@
     "5963": {
         "name": "resupply",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "fees": true,
         "revenue": true
     },
@@ -35277,6 +35280,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
