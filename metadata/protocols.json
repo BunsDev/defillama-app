@@ -3929,7 +3929,7 @@
     "751": {
         "name": "umami-finance",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "752": {
         "name": "nexus-protocol",
@@ -4175,6 +4175,7 @@
         "name": "pureswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true
     },
     "816": {
@@ -11231,8 +11232,7 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2102": {
         "name": "titano-swych",
@@ -13731,7 +13731,7 @@
     "2548": {
         "name": "vela-exchange",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "fees": true,
         "revenue": true,
         "perps": true,
@@ -18786,7 +18786,8 @@
     "3438": {
         "name": "baklava-space",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3439": {
         "name": "hydration",
@@ -28706,7 +28707,7 @@
     },
     "5260": {
         "name": "goldstation-rwa",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5261": {
@@ -32805,6 +32806,11 @@
         "fees": true,
         "revenue": true
     },
+    "6017": {
+        "name": "official-trump",
+        "tvl": false,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -33698,7 +33704,7 @@
     },
     "parent#bonsaidao-ecosystem": {
         "name": "bonsaidao-ecosystem",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "governance": true,
         "treasury": true,
