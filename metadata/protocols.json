@@ -32932,6 +32932,17 @@
     "6017": {
         "name": "official-trump",
         "tvl": false,
+        "yields": false,
+        "liquidity": true
+    },
+    "6018": {
+        "name": "zo-perps",
+        "tvl": true,
+        "yields": false
+    },
+    "6019": {
+        "name": "mystic-finance",
+        "tvl": true,
         "yields": false
     },
     "chain#1": {
