@@ -4153,7 +4153,8 @@
     "805": {
         "name": "snowbank",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "806": {
         "name": "glide-finance",
