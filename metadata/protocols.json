@@ -432,6 +432,7 @@
         "tvl": true,
         "yields": false,
         "forks": true,
+        "liquidity": true,
         "raises": true
     },
     "170": {
@@ -2738,6 +2739,7 @@
         "name": "soulswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "545": {
@@ -4306,7 +4308,8 @@
     "839": {
         "name": "hades-swap",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "840": {
         "name": "bunnypark",
