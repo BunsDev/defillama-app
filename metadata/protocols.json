@@ -16541,8 +16541,7 @@
     "3026": {
         "name": "monoceros",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3027": {
         "name": "alpaca-finance-2.0",
