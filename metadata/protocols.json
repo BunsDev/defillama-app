@@ -36306,7 +36306,10 @@
         "name": "sudo-finance",
         "yields": false,
         "tvl": true,
-        "forks": true
+        "forks": true,
+        "fees": true,
+        "revenue": true,
+        "perps": true
     },
     "parent#sudoswap": {
         "name": "sudoswap",
