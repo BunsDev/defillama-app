@@ -3679,7 +3679,6 @@
         "name": "luaswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "709": {
@@ -7904,7 +7903,8 @@
         "name": "fantasm",
         "tvl": true,
         "yields": false,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "1505": {
         "name": "floor-dao",
@@ -14880,8 +14880,7 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2752": {
         "name": "onchain-trade",
@@ -28142,8 +28141,7 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "5158": {
         "name": "enosys-amm-v3",
