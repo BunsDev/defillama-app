@@ -2703,7 +2703,9 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "fees": true,
+        "revenue": true
     },
     "536": {
         "name": "larix",
@@ -6844,8 +6846,7 @@
     "1299": {
         "name": "guru-network-classic",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1301": {
         "name": "apedao",
@@ -18438,7 +18439,9 @@
     "3355": {
         "name": "sable-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "3356": {
         "name": "neuron",
@@ -22188,7 +22191,9 @@
     "4043": {
         "name": "liquidloans",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "4044": {
         "name": "jiblend",
@@ -24064,7 +24069,9 @@
     "4376": {
         "name": "powercity-earn-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "4377": {
         "name": "a51-finance-v3",
@@ -26359,7 +26366,9 @@
         "name": "threshold-thusd",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "fees": true,
+        "revenue": true
     },
     "4813": {
         "name": "moonshot",
@@ -26742,7 +26751,9 @@
     "4881": {
         "name": "powercity-flex-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "4882": {
         "name": "usual",
@@ -29366,8 +29377,7 @@
     "5354": {
         "name": "elma",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5355": {
         "name": "based-ai",
@@ -32937,7 +32947,9 @@
     "6018": {
         "name": "zo-perps",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "6019": {
         "name": "mystic-finance",
@@ -32967,7 +32979,8 @@
     "6025": {
         "name": "tardly",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "treasury": true
     },
     "chain#1": {
         "fees": true,
@@ -34678,7 +34691,6 @@
         "yields": false,
         "tvl": true,
         "treasury": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -35868,7 +35880,9 @@
     "parent#powercity": {
         "name": "powercity",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "fees": true,
+        "revenue": true
     },
     "parent#predy-finance": {
         "name": "predy-finance",
@@ -36746,7 +36760,9 @@
         "name": "threshold-network",
         "yields": false,
         "tvl": true,
-        "liquidity": true
+        "liquidity": true,
+        "fees": true,
+        "revenue": true
     },
     "parent#throne": {
         "name": "throne",
