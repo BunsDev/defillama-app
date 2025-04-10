@@ -16630,7 +16630,8 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "aggregator": true
     },
     "3042": {
         "name": "the-llamas",
@@ -23137,6 +23138,7 @@
         "name": "bladeswap-amm",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "4207": {
@@ -25654,7 +25656,8 @@
     "4679": {
         "name": "dragon-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4680": {
         "name": "iswap-tech",
@@ -26017,6 +26020,7 @@
         "name": "bladeswap-cl",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "4747": {
@@ -32949,7 +32953,8 @@
         "tvl": true,
         "yields": false,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "perps": true
     },
     "6019": {
         "name": "mystic-finance",
@@ -33818,6 +33823,7 @@
         "name": "bladeswap",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true
     },
     "parent#blasterswap": {
