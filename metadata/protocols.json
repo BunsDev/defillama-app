@@ -7431,6 +7431,7 @@
         "tvl": true,
         "yields": false,
         "forks": true,
+        "liquidity": true,
         "dexs": true
     },
     "1408": {
@@ -7474,7 +7475,8 @@
     "1416": {
         "name": "gemkeeper",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1417": {
         "name": "gemmine",
@@ -8881,7 +8883,8 @@
     "1668": {
         "name": "milkydex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1669": {
         "name": "tokensfarm",
@@ -20126,7 +20129,8 @@
     "3659": {
         "name": "solidpulse",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3660": {
         "name": "sanctuary",
@@ -24774,7 +24778,7 @@
     },
     "4511": {
         "name": "pay-protocol",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4512": {
@@ -32958,6 +32962,11 @@
     },
     "6024": {
         "name": "aegis",
+        "tvl": true,
+        "yields": false
+    },
+    "6025": {
+        "name": "tardly",
         "tvl": true,
         "yields": false
     },
