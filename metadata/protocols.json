@@ -6121,6 +6121,7 @@
         "name": "psyoptions",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "raises": true
     },
     "1173": {
@@ -10640,8 +10641,7 @@
     "1993": {
         "name": "kibbleswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1994": {
         "name": "dogmoney",
@@ -15432,7 +15432,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2854": {
@@ -15442,7 +15442,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -15525,7 +15525,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -32817,6 +32817,11 @@
         "tvl": true,
         "yields": false
     },
+    "6022": {
+        "name": "mainstreet",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -35588,9 +35593,6 @@
         "name": "paraluni",
         "yields": false,
         "tvl": true
-    },
-    "parent#paraspace": {
-        "activeUsers": true
     },
     "parent#parax": {
         "name": "parallel-super-app",
