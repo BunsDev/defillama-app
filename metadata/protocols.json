@@ -1681,7 +1681,6 @@
         "name": "biswap-v2",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true,
         "fees": true,
         "revenue": true,
@@ -15446,7 +15445,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -17324,8 +17323,7 @@
     "3188": {
         "name": "biswap-v3",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3189": {
         "name": "konverter",
@@ -22069,10 +22067,9 @@
         "yields": false
     },
     "4045": {
-        "name": "sudo-finance",
+        "name": "sudo-perps",
         "tvl": true,
         "yields": false,
-        "forks": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -26423,7 +26420,7 @@
         "revenue": true
     },
     "4847": {
-        "name": "astherus-perps",
+        "name": "aster-perps",
         "tvl": true,
         "yields": false
     },
@@ -29404,7 +29401,7 @@
         "yields": false
     },
     "5386": {
-        "name": "astherus-usdf",
+        "name": "aster-usdf",
         "tvl": true,
         "yields": false
     },
@@ -29592,7 +29589,7 @@
         "dexs": true
     },
     "5418": {
-        "name": "astherus-asbtc",
+        "name": "aster-asbtc",
         "tvl": true,
         "yields": false
     },
@@ -30343,7 +30340,7 @@
         "yields": false
     },
     "5558": {
-        "name": "astherus-asbnb",
+        "name": "aster-asbnb",
         "tvl": true,
         "yields": false
     },
@@ -33467,7 +33464,7 @@
         "tvl": true
     },
     "parent#astherus": {
-        "name": "astherus",
+        "name": "aster",
         "yields": false,
         "tvl": true,
         "raises": true,
@@ -33633,7 +33630,6 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -36305,6 +36301,12 @@
         "yields": false,
         "tvl": true,
         "dexs": true
+    },
+    "parent#sudo-finance": {
+        "name": "sudo-finance",
+        "yields": false,
+        "tvl": true,
+        "forks": true
     },
     "parent#sudoswap": {
         "name": "sudoswap",
