@@ -21470,7 +21470,6 @@
         "name": "kim-exchange-v1",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "3914": {
@@ -22165,7 +22164,6 @@
         "name": "kim-exchange-v2",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23653,7 +23651,6 @@
         "name": "kim-exchange-v3",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -35006,7 +35003,6 @@
         "name": "kim-exchange",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
