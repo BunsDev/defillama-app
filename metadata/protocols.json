@@ -5713,8 +5713,7 @@
     "1095": {
         "name": "stand-cash",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1096": {
         "name": "purefi",
@@ -9068,8 +9067,7 @@
     "1712": {
         "name": "evmoswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1713": {
         "name": "duet-protocol",
@@ -14137,8 +14135,7 @@
     "2621": {
         "name": "sterling-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2622": {
         "name": "mare-finance-v1",
@@ -15455,7 +15452,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2858": {
@@ -26900,7 +26897,6 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
         "emissions": true
     },
     "4940": {
@@ -32819,6 +32815,16 @@
     },
     "6022": {
         "name": "mainstreet",
+        "tvl": true,
+        "yields": false
+    },
+    "6023": {
+        "name": "brunch",
+        "tvl": true,
+        "yields": false
+    },
+    "6024": {
+        "name": "aegis",
         "tvl": true,
         "yields": false
     },
