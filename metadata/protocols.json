@@ -7536,8 +7536,7 @@
     "1437": {
         "name": "nightmare-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1438": {
         "name": "treehouse-finance",
@@ -9549,7 +9548,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
