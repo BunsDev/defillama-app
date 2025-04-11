@@ -19304,7 +19304,8 @@
     "3529": {
         "name": "dip-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3530": {
         "name": "bmx-classic-perps",
