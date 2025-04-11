@@ -3857,7 +3857,8 @@
     "740": {
         "name": "elephantdex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "741": {
         "name": "vaulty-finance",
@@ -7210,6 +7211,7 @@
         "name": "elephant-money",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "1379": {
@@ -35326,7 +35328,6 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
