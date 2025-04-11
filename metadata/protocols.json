@@ -755,7 +755,8 @@
         "name": "vesper",
         "tvl": true,
         "yields": true,
-        "governance": true
+        "governance": true,
+        "liquidity": true
     },
     "221": {
         "name": "defi-swap",
@@ -15954,7 +15955,8 @@
     "2923": {
         "name": "tprotocol-v1",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2924": {
         "name": "goodentry",
@@ -19598,7 +19600,8 @@
     "3560": {
         "name": "tprotocol-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3561": {
         "name": "tegro",
@@ -20267,7 +20270,7 @@
     },
     "3682": {
         "name": "candyswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -33016,7 +33019,7 @@
         "liquidity": true
     },
     "6033": {
-        "name": "uranium",
+        "name": "uranium.io",
         "tvl": true,
         "yields": false
     },
@@ -36862,7 +36865,8 @@
         "name": "tprotocol",
         "yields": false,
         "tvl": true,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "parent#trader-joe": {
         "name": "lfj",
