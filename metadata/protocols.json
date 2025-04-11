@@ -11732,7 +11732,8 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2187": {
         "name": "dolomite",
@@ -24248,7 +24249,7 @@
     },
     "4433": {
         "name": "kriya-strats",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4434": {
@@ -37060,6 +37061,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
