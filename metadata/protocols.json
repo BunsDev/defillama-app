@@ -731,8 +731,7 @@
     "216": {
         "name": "auctus",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "217": {
         "name": "connext",
@@ -1430,7 +1429,7 @@
     "333": {
         "name": "o3-swap",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "treasury": true
     },
     "334": {
@@ -5072,7 +5071,8 @@
     "978": {
         "name": "chickenswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "979": {
         "name": "partyswap",
@@ -7724,8 +7724,7 @@
     "1469": {
         "name": "btngroup",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1470": {
         "name": "nereus-finance",
@@ -7806,8 +7805,7 @@
     "1486": {
         "name": "fountain-protocol",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1487": {
         "name": "klaybank",
@@ -21855,7 +21853,6 @@
         "name": "merchant-moe-dex",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -24212,7 +24209,6 @@
         "name": "merchant-moe-liquidity-book",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -30237,6 +30233,7 @@
         "name": "vader-ai",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -35282,7 +35279,6 @@
         "name": "merchant-moe",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
