@@ -5227,6 +5227,7 @@
         "name": "soy-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1009": {
