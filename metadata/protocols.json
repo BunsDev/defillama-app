@@ -13776,6 +13776,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "revenue": true,
         "emissions": true
     },
     "2543": {
@@ -15564,7 +15565,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -26763,7 +26764,8 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "raises": true
+        "raises": true,
+        "revenue": true
     },
     "4883": {
         "name": "kawa-finance",
