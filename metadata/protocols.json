@@ -9401,8 +9401,7 @@
     "1773": {
         "name": "benddao-lending",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "1774": {
         "name": "blitz-labs",
@@ -9918,8 +9917,7 @@
     "1865": {
         "name": "oracle-swap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1866": {
         "name": "dexpad",
@@ -11617,7 +11615,8 @@
     "2166": {
         "name": "lfgswap-ethereumpow",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2167": {
         "name": "dao-swap",
@@ -13758,8 +13757,7 @@
     "2554": {
         "name": "benddao-ape-staking",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2555": {
         "name": "subzero+",
@@ -14299,7 +14297,8 @@
     "2647": {
         "name": "lfgswap-core",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2648": {
         "name": "archerswap",
@@ -14877,7 +14876,8 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2752": {
         "name": "onchain-trade",
@@ -17546,7 +17546,8 @@
     "3232": {
         "name": "yieldpulse-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3233": {
         "name": "ajna-v1",
@@ -33635,7 +33636,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
         "emissions": true
     },
     "parent#benqi": {
@@ -34987,7 +34987,8 @@
     "parent#lfgswap": {
         "name": "lfgswap",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#lif3.com": {
         "name": "lif3.com",
