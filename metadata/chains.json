@@ -1034,6 +1034,7 @@
         "name": "ICP",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "internet-computer",
         "tokenSymbol": "ICP"
     },

@@ -21067,6 +21067,11 @@
         "yields": false,
         "liquidity": true
     },
+    "3866": {
+        "name": "rainbow-bridge",
+        "tvl": true,
+        "yields": false
+    },
     "3867": {
         "name": "ascent-exchange-v1",
         "tvl": true,
@@ -31849,7 +31854,8 @@
     "5842": {
         "name": "sir",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "hacks": true
     },
     "5843": {
         "name": "flex-perpetuals",
