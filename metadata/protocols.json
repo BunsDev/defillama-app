@@ -656,8 +656,7 @@
         "name": "goose-finance",
         "tvl": true,
         "yields": true,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "206": {
         "name": "xtoken",
@@ -4979,7 +4978,6 @@
         "name": "nearpad",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "954": {
@@ -15554,7 +15552,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -15639,7 +15637,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -28974,7 +28972,7 @@
     },
     "5285": {
         "name": "suimarket",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5286": {
@@ -32351,6 +32349,9 @@
         "yields": false
     },
     "5908": {
+        "name": "witty",
+        "tvl": true,
+        "yields": false,
         "fees": true,
         "revenue": true
     },
