@@ -27479,8 +27479,7 @@
     "5039": {
         "name": "taolie",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5040": {
         "name": "xtrade",
