@@ -13581,7 +13581,6 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18453,8 +18452,7 @@
     "3380": {
         "name": "baso-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "3381": {
         "name": "thegoblins",
@@ -24250,7 +24248,7 @@
     },
     "4433": {
         "name": "kriya-strats",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "4434": {
@@ -32857,6 +32855,31 @@
         "tvl": false,
         "yields": false,
         "aggregator": true
+    },
+    "6027": {
+        "liquidity": true
+    },
+    "6028": {
+        "name": "kaito",
+        "tvl": false,
+        "yields": false,
+        "liquidity": true
+    },
+    "6029": {
+        "name": "magic-eden",
+        "tvl": false,
+        "yields": false,
+        "liquidity": true,
+        "nfts": true
+    },
+    "6031": {
+        "name": "cookie-dao",
+        "tvl": false,
+        "yields": false,
+        "liquidity": true
+    },
+    "6032": {
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
