@@ -897,8 +897,7 @@
         "name": "wepiggy",
         "tvl": true,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "246": {
         "name": "pangolin",
@@ -35327,6 +35326,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
