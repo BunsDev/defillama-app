@@ -9123,7 +9123,8 @@
     "1711": {
         "name": "candle",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1712": {
         "name": "evmoswap",
@@ -13776,6 +13777,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "fees": true,
         "revenue": true,
         "emissions": true
     },
@@ -15542,7 +15544,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -26765,6 +26767,7 @@
         "yields": true,
         "liquidity": true,
         "raises": true,
+        "fees": true,
         "revenue": true
     },
     "4883": {
@@ -33022,6 +33025,11 @@
     },
     "6033": {
         "name": "uranium.io",
+        "tvl": true,
+        "yields": false
+    },
+    "6034": {
+        "name": "interest-labs",
         "tvl": true,
         "yields": false
     },
