@@ -26627,7 +26627,6 @@
         "name": "usual",
         "tvl": true,
         "yields": true,
-        "treasury": true,
         "liquidity": true,
         "raises": true
     },
@@ -32809,7 +32808,8 @@
         "name": "official-trump",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "6018": {
         "name": "zo-perps",
@@ -32880,6 +32880,11 @@
     },
     "6032": {
         "liquidity": true
+    },
+    "6033": {
+        "name": "uranium",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
