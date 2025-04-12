@@ -3710,7 +3710,6 @@
         "name": "polkaswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "714": {
@@ -13442,7 +13441,6 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
         "nfts": true,
         "raises": true,
         "emissions": true
