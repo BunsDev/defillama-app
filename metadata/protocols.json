@@ -2826,8 +2826,7 @@
     "559": {
         "name": "dapp-account-dao",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "561": {
         "name": "alita-finance",
@@ -4140,7 +4139,8 @@
     "808": {
         "name": "swift-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "809": {
         "name": "polyyeld-finance",
