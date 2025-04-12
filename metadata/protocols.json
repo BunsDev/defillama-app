@@ -2093,7 +2093,8 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "439": {
         "name": "the-grand-banks",
@@ -3592,7 +3593,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -14865,7 +14867,8 @@
         "name": "antfarm-finance",
         "tvl": true,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2750": {
         "name": "nuon-finance",
@@ -25489,6 +25492,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -28153,7 +28157,8 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "5158": {
         "name": "enosys-amm-v3",
@@ -32905,7 +32910,11 @@
     "6036": {
         "name": "melania-meme",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
+    },
+    "6037": {
+        "liquidity": true
     },
     "6039": {
         "name": "quantixai",
@@ -32915,7 +32924,11 @@
     "6040": {
         "name": "uxlink",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
+    },
+    "6041": {
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
