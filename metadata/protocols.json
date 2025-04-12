@@ -8652,8 +8652,7 @@
     "1637": {
         "name": "bluebit",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1638": {
         "name": "dddx",
@@ -10134,8 +10133,7 @@
     "1902": {
         "name": "starswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1903": {
         "name": "vovo-finance",
@@ -10726,8 +10724,7 @@
     "2010": {
         "name": "starswap-starcoin",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2011": {
         "name": "sudo-inu",
@@ -16062,8 +16059,7 @@
     "2966": {
         "name": "starmaker",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2967": {
         "name": "optimism-foundation",
