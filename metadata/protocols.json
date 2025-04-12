@@ -7779,7 +7779,8 @@
     "1479": {
         "name": "phantom-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1480": {
         "name": "xray-swap",
@@ -8782,6 +8783,7 @@
         "name": "swappi",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1661": {
@@ -10178,8 +10180,7 @@
     "1910": {
         "name": "shiftdollar",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1911": {
         "name": "betswirl",
@@ -31908,7 +31909,7 @@
     },
     "5849": {
         "name": "hand-of-god",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5850": {
