@@ -3186,7 +3186,6 @@
         "tvl": true,
         "yields": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -3309,8 +3308,7 @@
     "642": {
         "name": "bumper-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "643": {
         "name": "geist-finance",
@@ -9268,7 +9266,8 @@
     "1748": {
         "name": "murica",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1749": {
         "name": "pandaland",
@@ -11141,8 +11140,7 @@
     "2086": {
         "name": "rage-trade-v1-(deprecated)",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2087": {
         "name": "chee-finance",
@@ -11761,8 +11759,7 @@
         "name": "sushi-bentobox",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2191": {
         "name": "omnidex-lend",
@@ -22201,6 +22198,7 @@
         "name": "dydx-v4",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
