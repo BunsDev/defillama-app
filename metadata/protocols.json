@@ -1940,7 +1940,8 @@
     "413": {
         "name": "spectrum-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "414": {
         "name": "treedefi",
@@ -5491,8 +5492,7 @@
     "1055": {
         "name": "fiat-dao",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1056": {
         "name": "redacted-protocol",
@@ -9697,6 +9697,7 @@
         "name": "nirvana-v1",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "hacks": true
     },
     "1826": {
@@ -14390,7 +14391,8 @@
         "name": "forta",
         "tvl": false,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "2665": {
         "name": "apecoin",
@@ -28505,7 +28507,8 @@
     "5220": {
         "name": "metahub-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5221": {
         "name": "raindex",
@@ -30194,7 +30197,9 @@
         "name": "kongswap",
         "tvl": true,
         "yields": false,
-        "revenue": true
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5529": {
         "name": "silverswap",
@@ -30373,7 +30378,8 @@
     "5563": {
         "name": "nirvana-v2",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "5567": {
         "name": "bedrock-brbtc",
@@ -35498,7 +35504,8 @@
     "parent#nirvana": {
         "name": "nirvana",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "liquidity": true
     },
     "parent#nostra": {
         "name": "nostra",
@@ -37103,7 +37110,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
