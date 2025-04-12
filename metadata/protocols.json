@@ -1430,7 +1430,7 @@
     "333": {
         "name": "o3-swap",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "treasury": true
     },
     "334": {
@@ -4740,6 +4740,7 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -13652,6 +13653,7 @@
         "tvl": true,
         "yields": true,
         "governance": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -33854,6 +33856,9 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
+    },
+    "parent#canary": {
+        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
