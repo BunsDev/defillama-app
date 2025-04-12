@@ -3032,7 +3032,8 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "596": {
         "name": "flux-protocol",
@@ -30192,7 +30193,8 @@
     "5528": {
         "name": "kongswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5529": {
         "name": "silverswap",
@@ -35762,6 +35764,7 @@
         "yields": false,
         "tvl": true,
         "governance": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
