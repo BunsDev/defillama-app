@@ -5253,7 +5253,8 @@
     "1012": {
         "name": "pumpkin-dao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1014": {
         "name": "tempodao",
