@@ -143,8 +143,7 @@
     },
     "asset-chain": {
         "name": "Asset Chain",
-        "fees": true,
-        "dexs": true
+        "fees": true
     },
     "astar": {
         "name": "Astar",
@@ -1783,6 +1782,7 @@
     },
     "rangers": {
         "name": "Rangers",
+        "dexs": true,
         "gecko_id": "rangers-protocol-gas",
         "tokenSymbol": "RPG"
     },
