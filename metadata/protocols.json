@@ -3150,8 +3150,7 @@
     "616": {
         "name": "amy-finance",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "617": {
         "name": "bogged-finance",
@@ -9716,7 +9715,6 @@
         "name": "sharkswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "1829": {
@@ -10700,7 +10698,7 @@
     },
     "2005": {
         "name": "exinpool",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2006": {
