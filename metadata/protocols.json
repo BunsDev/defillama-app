@@ -1549,7 +1549,6 @@
         "name": "gravity-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "352": {
@@ -5249,8 +5248,7 @@
     "1012": {
         "name": "pumpkin-dao",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1014": {
         "name": "tempodao",
