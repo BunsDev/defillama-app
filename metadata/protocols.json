@@ -7610,8 +7610,7 @@
     "1448": {
         "name": "white-whale-vaults",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1449": {
         "name": "impactmarket",
@@ -8061,8 +8060,7 @@
     "1533": {
         "name": "life",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1534": {
         "name": "strikex",
@@ -17260,8 +17258,7 @@
     "3177": {
         "name": "white-whale-dex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3178": {
         "name": "pegasys-v3",
@@ -18655,7 +18652,8 @@
     "3417": {
         "name": "unclesam-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3418": {
         "name": "meowl",
@@ -32904,6 +32902,21 @@
         "tvl": true,
         "yields": false
     },
+    "6036": {
+        "name": "melania-meme",
+        "tvl": false,
+        "yields": false
+    },
+    "6039": {
+        "name": "quantixai",
+        "tvl": false,
+        "yields": false
+    },
+    "6040": {
+        "name": "uxlink",
+        "tvl": false,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -37005,8 +37018,7 @@
     "parent#white-whale": {
         "name": "white-whale",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#wise-lending": {
         "name": "wise-lending",
