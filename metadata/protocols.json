@@ -12494,7 +12494,8 @@
     "2333": {
         "name": "julswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2334": {
         "name": "defiedge",
@@ -30669,7 +30670,7 @@
     },
     "5616": {
         "name": "republic-note",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "5617": {
