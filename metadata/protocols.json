@@ -3037,8 +3037,7 @@
     "595": {
         "name": "convergence",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "596": {
         "name": "flux-protocol",
@@ -11736,8 +11735,7 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2187": {
         "name": "dolomite",
@@ -35811,7 +35809,6 @@
         "yields": false,
         "tvl": true,
         "governance": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
