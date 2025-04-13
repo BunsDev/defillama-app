@@ -954,7 +954,6 @@
         "yields": false,
         "governance": true,
         "forks": true,
-        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -9508,7 +9507,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -11775,8 +11773,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
