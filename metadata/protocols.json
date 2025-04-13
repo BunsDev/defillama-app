@@ -32733,7 +32733,7 @@
     },
     "5998": {
         "name": "goosefx-v2",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "perps": true
     },
