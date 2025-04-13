@@ -11386,7 +11386,6 @@
         "name": "capricorn-finance",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "2129": {
@@ -14357,7 +14356,8 @@
     "2658": {
         "name": "alpaca-perpetual-futures-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "2659": {
         "name": "lunagens",
@@ -16139,7 +16139,8 @@
         "name": "tsunamix",
         "tvl": true,
         "yields": false,
-        "raises": true
+        "raises": true,
+        "fees": true
     },
     "2980": {
         "name": "quickperps",
@@ -18919,6 +18920,7 @@
         "name": "kinetix-derivatives",
         "tvl": true,
         "yields": true,
+        "fees": true,
         "dexs": true
     },
     "3466": {
@@ -19517,7 +19519,8 @@
     "3569": {
         "name": "phame-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "3570": {
         "name": "marginfi-lst",
@@ -22657,7 +22660,8 @@
     "4143": {
         "name": "sobax",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true
     },
     "4144": {
         "name": "jediswap-v2",
@@ -33446,7 +33450,8 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "forks": true
+        "forks": true,
+        "fees": true
     },
     "parent#alphafi": {
         "name": "alphafi",
