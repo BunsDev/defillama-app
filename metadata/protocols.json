@@ -13632,8 +13632,7 @@
     "2523": {
         "name": "casinocronos",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2524": {
         "name": "friends-with-benefits",
@@ -30796,7 +30795,7 @@
     },
     "5616": {
         "name": "republic-note",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "5617": {
