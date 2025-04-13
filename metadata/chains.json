@@ -188,7 +188,6 @@
     },
     "bahamut": {
         "name": "Bahamut",
-        "fees": true,
         "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"

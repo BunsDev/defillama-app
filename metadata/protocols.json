@@ -10762,7 +10762,7 @@
     },
     "2005": {
         "name": "exinpool",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2006": {
