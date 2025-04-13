@@ -15856,7 +15856,7 @@
     "2907": {
         "name": "chronos-v1",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "activeUsers": true,
         "fees": true,
         "revenue": true,
@@ -34080,7 +34080,7 @@
     },
     "parent#chronos": {
         "name": "chronos",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "fees": true,
         "revenue": true,
