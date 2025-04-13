@@ -8055,7 +8055,7 @@
     },
     "1523": {
         "name": "klaystation",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1524": {
