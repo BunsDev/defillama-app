@@ -20760,8 +20760,7 @@
     "3805": {
         "name": "shekelswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3806": {
         "name": "rollup-finance-stake",
@@ -23799,8 +23798,7 @@
     "4352": {
         "name": "satoshi-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4353": {
         "name": "pyreswap",
