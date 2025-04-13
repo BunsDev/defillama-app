@@ -636,7 +636,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -3186,6 +3185,7 @@
         "tvl": true,
         "yields": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -14357,7 +14357,8 @@
         "name": "alpaca-perpetual-futures-exchange",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "2659": {
         "name": "lunagens",
@@ -16140,7 +16141,8 @@
         "tvl": true,
         "yields": false,
         "raises": true,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "2980": {
         "name": "quickperps",
@@ -18032,7 +18034,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -18921,6 +18924,7 @@
         "tvl": true,
         "yields": true,
         "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "3466": {
@@ -19520,7 +19524,8 @@
         "name": "phame-protocol",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "3570": {
         "name": "marginfi-lst",
@@ -22661,7 +22666,8 @@
         "name": "sobax",
         "tvl": true,
         "yields": false,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "4144": {
         "name": "jediswap-v2",
@@ -33451,7 +33457,8 @@
         "tvl": true,
         "governance": true,
         "forks": true,
-        "fees": true
+        "fees": true,
+        "revenue": true
     },
     "parent#alphafi": {
         "name": "alphafi",
