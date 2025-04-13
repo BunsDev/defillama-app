@@ -3615,7 +3615,7 @@
         "dexs": true
     },
     "696": {
-        "name": "agave-(deprecated)",
+        "name": "agave",
         "tvl": true,
         "yields": false,
         "governance": true,
@@ -11136,7 +11136,7 @@
         "yields": false
     },
     "2086": {
-        "name": "rage-trade-v1-(deprecated)",
+        "name": "rage-trade-v1",
         "tvl": true,
         "yields": false,
         "activeUsers": true
@@ -15429,7 +15429,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2854": {
@@ -15452,7 +15452,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2858": {
@@ -15521,7 +15521,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2871": {
@@ -16617,7 +16617,7 @@
         "dexs": true
     },
     "3061": {
-        "name": "synfutures-v2-(deprecated)",
+        "name": "synfutures-v2",
         "tvl": true,
         "yields": false,
         "raises": true,
@@ -18738,7 +18738,7 @@
         "yields": false
     },
     "3432": {
-        "name": "vooi-v1-(deprecated)",
+        "name": "vooi-v1",
         "tvl": true,
         "yields": false
     },
