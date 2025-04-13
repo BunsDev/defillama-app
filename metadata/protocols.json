@@ -9262,7 +9262,8 @@
     "1747": {
         "name": "game-theory",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1748": {
         "name": "murica",
@@ -11181,7 +11182,8 @@
     "2093": {
         "name": "scaryswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2094": {
         "name": "boneswap",
