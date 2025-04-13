@@ -11737,7 +11737,8 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2187": {
         "name": "dolomite",
@@ -12720,7 +12721,7 @@
     "2375": {
         "name": "y2k-v1",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true,
         "fees": true,
         "revenue": true,
@@ -19557,6 +19558,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -37076,7 +37078,7 @@
     },
     "parent#y2k-finance": {
         "name": "y2k-finance",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "forks": true,
         "liquidity": true,
@@ -37150,6 +37152,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
