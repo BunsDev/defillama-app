@@ -5986,8 +5986,7 @@
     "1136": {
         "name": "rose",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1137": {
         "name": "sunflower-finance",
@@ -16667,8 +16666,7 @@
     "3049": {
         "name": "crowdswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3050": {
         "name": "daolama",
