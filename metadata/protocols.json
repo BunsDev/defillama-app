@@ -7090,7 +7090,8 @@
     "1354": {
         "name": "dogs-of-elon",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1355": {
         "name": "knights-of-fantom",
@@ -15431,7 +15432,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -15454,7 +15455,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -15523,7 +15524,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
@@ -16414,7 +16415,8 @@
     "3026": {
         "name": "monoceros",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3027": {
         "name": "alpaca-finance-2.0",
@@ -18284,8 +18286,7 @@
     "3351": {
         "name": "boobs.finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3352": {
         "name": "paladin-dullahan",
@@ -26634,6 +26635,7 @@
         "name": "usual",
         "tvl": true,
         "yields": true,
+        "treasury": true,
         "liquidity": true,
         "raises": true,
         "fees": true,
