@@ -8433,8 +8433,7 @@
     "1589": {
         "name": "puzzle-swap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1590": {
         "name": "milkyswap",
@@ -36048,8 +36047,7 @@
     "parent#puzzleswaporg": {
         "name": "puzzleswaporg",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#quickswap": {
         "name": "quickswap",
