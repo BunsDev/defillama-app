@@ -3594,8 +3594,7 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "693": {
         "name": "superfluid",
@@ -4176,8 +4175,7 @@
         "name": "pureswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "816": {
         "name": "xsigma",
@@ -18695,8 +18693,7 @@
     "3423": {
         "name": "zena-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3424": {
         "name": "raccoon-finance",
@@ -32941,6 +32938,11 @@
     },
     "6041": {
         "liquidity": true
+    },
+    "6042": {
+        "name": "lighter-v2",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
