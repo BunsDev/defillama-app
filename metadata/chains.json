@@ -618,6 +618,7 @@
     "dogechain": {
         "name": "Dogechain",
         "fees": true,
+        "dexs": true,
         "aggregators": true,
         "inflows": true,
         "gecko_id": "dogechain",
