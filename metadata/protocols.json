@@ -2094,8 +2094,7 @@
         "yields": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "439": {
         "name": "the-grand-banks",
@@ -3640,7 +3639,8 @@
     "701": {
         "name": "behodler",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "702": {
         "name": "coffin-finance",
@@ -9687,8 +9687,7 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -15599,7 +15598,7 @@
     "2885": {
         "name": "asymetrix-protocol",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "emissions": true
     },
     "2886": {
@@ -25496,7 +25495,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true

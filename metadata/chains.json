@@ -143,7 +143,8 @@
     },
     "asset-chain": {
         "name": "Asset Chain",
-        "fees": true
+        "fees": true,
+        "dexs": true
     },
     "astar": {
         "name": "Astar",
@@ -188,6 +189,7 @@
     },
     "bahamut": {
         "name": "Bahamut",
+        "fees": true,
         "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"
@@ -1728,6 +1730,7 @@
     },
     "polynomial": {
         "name": "Polynomial",
+        "fees": true,
         "chainAssets": true
     },
     "prom": {
