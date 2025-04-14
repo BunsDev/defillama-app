@@ -1551,7 +1551,6 @@
         "name": "gravity-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "352": {
@@ -6642,6 +6641,7 @@
         "name": "solarflare",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1271": {
@@ -7621,8 +7621,7 @@
         "name": "solidex",
         "tvl": true,
         "yields": false,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "1451": {
         "raises": true
@@ -16725,8 +16724,7 @@
         "name": "olympulsex",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "3083": {
         "name": "penpie",
@@ -28152,8 +28150,7 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "5158": {
         "name": "enosys-amm-v3",
@@ -37188,7 +37185,6 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
