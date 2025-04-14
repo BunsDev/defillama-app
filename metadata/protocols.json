@@ -8885,8 +8885,7 @@
     "1679": {
         "name": "dot-dot-finance",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "1680": {
         "name": "orcus-finance",
@@ -10225,6 +10224,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -14530,7 +14530,7 @@
     },
     "2690": {
         "name": "wynd-lsd",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2691": {
@@ -24151,8 +24151,7 @@
     "4415": {
         "name": "dengendex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4416": {
         "name": "frogswap-farm",
@@ -26760,11 +26759,6 @@
     },
     "4905": {
         "name": "shezmu",
-        "tvl": true,
-        "yields": false
-    },
-    "4906": {
-        "name": "phoenix-defi-hub",
         "tvl": true,
         "yields": false
     },
@@ -32553,9 +32547,6 @@
         "revenue": true
     },
     "5965": {
-        "name": "sandglass",
-        "tvl": false,
-        "yields": false,
         "dexs": true
     },
     "5966": {
