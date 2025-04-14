@@ -6957,8 +6957,7 @@
     "1331": {
         "name": "deeplock",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1332": {
         "name": "dna-dollar",
@@ -32546,6 +32545,9 @@
         "revenue": true
     },
     "5965": {
+        "name": "sandglass",
+        "tvl": true,
+        "yields": false,
         "dexs": true
     },
     "5966": {
@@ -32938,9 +32940,30 @@
         "yields": false
     },
     "6043": {
+        "name": "encoins",
+        "tvl": true,
+        "yields": false,
         "liquidity": true
     },
+    "6045": {
+        "name": "laminar",
+        "tvl": true,
+        "yields": false
+    },
+    "6046": {
+        "name": "stakin",
+        "tvl": true,
+        "yields": false
+    },
+    "6047": {
+        "name": "berapaw",
+        "tvl": false,
+        "yields": false
+    },
     "6048": {
+        "name": "datamine-network",
+        "tvl": false,
+        "yields": false,
         "liquidity": true
     },
     "chain#1": {
