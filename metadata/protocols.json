@@ -3821,8 +3821,7 @@
     "733": {
         "name": "stabilize",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "734": {
         "name": "openswap",
@@ -32937,6 +32936,12 @@
         "name": "lighter-v2",
         "tvl": true,
         "yields": false
+    },
+    "6043": {
+        "liquidity": true
+    },
+    "6048": {
+        "liquidity": true
     },
     "chain#1": {
         "fees": true,
