@@ -1576,6 +1576,7 @@
         "name": "gamma",
         "tvl": true,
         "yields": true,
+        "liquidity": true,
         "hacks": true,
         "fees": true,
         "revenue": true
@@ -12653,8 +12654,7 @@
     "2362": {
         "name": "hedgehog",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2364": {
         "name": "butter-network",
@@ -16949,8 +16949,7 @@
     "3122": {
         "name": "monolend",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3123": {
         "name": "stealcam",
