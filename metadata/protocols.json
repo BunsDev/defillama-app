@@ -5601,6 +5601,7 @@
         "tvl": true,
         "yields": false,
         "hacks": true,
+        "activeUsers": true,
         "dexs": true
     },
     "1075": {
@@ -9552,6 +9553,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -13044,7 +13046,8 @@
     "2429": {
         "name": "paraluni-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2430": {
         "name": "waterfall-dex",
@@ -26914,7 +26917,7 @@
     "4939": {
         "name": "maha.xyz",
         "tvl": false,
-        "yields": true,
+        "yields": false,
         "governance": true,
         "treasury": true,
         "emissions": true
@@ -33646,6 +33649,7 @@
         "yields": true,
         "tvl": true,
         "governance": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#bank-of-cronos": {
