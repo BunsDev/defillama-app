@@ -1551,6 +1551,7 @@
         "name": "gravity-finance",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "352": {
@@ -4738,6 +4739,7 @@
         "name": "pika",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -5166,7 +5168,8 @@
     "996": {
         "name": "ocp-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "997": {
         "name": "piggy",
@@ -6369,8 +6372,7 @@
     "1216": {
         "name": "farm-hero",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1217": {
         "name": "parallel-polkadot-crowdloan",
@@ -6558,6 +6560,7 @@
         "name": "hakuswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "1255": {
@@ -14110,7 +14113,8 @@
         "tvl": true,
         "yields": false,
         "expenses": true,
-        "treasury": true
+        "treasury": true,
+        "activeUsers": true
     },
     "2619": {
         "name": "metalx-dex",
@@ -32839,6 +32843,7 @@
         "name": "liquid-ron",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "6022": {
