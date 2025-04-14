@@ -5875,7 +5875,8 @@
     "1114": {
         "name": "piratedao",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1115": {
         "name": "tectonic",
