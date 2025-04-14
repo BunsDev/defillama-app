@@ -10928,7 +10928,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2036": {
