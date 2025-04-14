@@ -15434,7 +15434,7 @@
     },
     "2855": {
         "name": "noah-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -16772,6 +16772,7 @@
         "name": "miaswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "3091": {
@@ -32837,7 +32838,8 @@
     "6020": {
         "name": "liquid-ron",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "6022": {
         "name": "mainstreet",
