@@ -1910,8 +1910,7 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "409": {
         "name": "cafeswap",
@@ -11680,8 +11679,7 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -22653,7 +22651,7 @@
     "4140": {
         "name": "clip-finance",
         "tvl": true,
-        "yields": true
+        "yields": false
     },
     "4142": {
         "name": "stratum-exchange",
@@ -25949,7 +25947,8 @@
     "4756": {
         "name": "mellow-lrt",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "4757": {
         "name": "symbiotic",
@@ -32966,6 +32965,9 @@
         "yields": false,
         "liquidity": true
     },
+    "6049": {
+        "revenue": true
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -35367,7 +35369,8 @@
     "parent#mellow-protocol": {
         "name": "mellow-protocol",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "revenue": true
     },
     "parent#merchant-moe": {
         "name": "merchant-moe",
