@@ -6712,8 +6712,7 @@
     "1284": {
         "name": "paladin-dao",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1285": {
         "name": "alphadex",
@@ -11556,7 +11555,7 @@
     },
     "2156": {
         "name": "ethwswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2157": {
@@ -25948,6 +25947,7 @@
         "name": "mellow-lrt",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "4757": {
@@ -32966,6 +32966,10 @@
         "liquidity": true
     },
     "6049": {
+        "name": "axiom",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
         "revenue": true
     },
     "chain#1": {
@@ -35370,6 +35374,7 @@
         "name": "mellow-protocol",
         "yields": false,
         "tvl": true,
+        "fees": true,
         "revenue": true
     },
     "parent#merchant-moe": {
