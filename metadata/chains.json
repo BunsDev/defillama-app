@@ -913,8 +913,7 @@
         "dexs": true
     },
     "godwokenv1": {
-        "name": "GodwokenV1",
-        "dexs": true
+        "name": "GodwokenV1"
     },
     "goerli": {
         "name": "Goerli",
@@ -1033,6 +1032,7 @@
         "name": "ICP",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "internet-computer",
         "tokenSymbol": "ICP"
     },
