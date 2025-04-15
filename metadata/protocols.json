@@ -2260,7 +2260,6 @@
         "name": "beta-finance-v1",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "raises": true
     },
     "465": {
@@ -5080,8 +5079,7 @@
     "979": {
         "name": "partyswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "980": {
         "name": "wannaswap",
@@ -18764,8 +18762,7 @@
     "3436": {
         "name": "fedex-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3437": {
         "name": "pyswap",
@@ -21107,8 +21104,7 @@
     "3870": {
         "name": "beta-finance-v2",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3871": {
         "name": "wildcat-protocol",
@@ -21419,7 +21415,8 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
-        "raises": true
+        "raises": true,
+        "perps": true
     },
     "3925": {
         "name": "singularitynet-agix-staking",
@@ -28175,7 +28172,8 @@
     "5160": {
         "name": "elfi-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "perps": true
     },
     "5161": {
         "name": "ton-diamonds",
@@ -33782,8 +33780,7 @@
     "parent#beta-finance": {
         "name": "beta-finance",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#biswap": {
         "name": "biswap",
