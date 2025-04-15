@@ -1765,6 +1765,7 @@
         "yields": false,
         "governance": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -27405,7 +27406,8 @@
         "name": "genesis-dao",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "5021": {
         "name": "velvet-v3",

@@ -914,7 +914,8 @@
         "dexs": true
     },
     "godwokenv1": {
-        "name": "GodwokenV1"
+        "name": "GodwokenV1",
+        "dexs": true
     },
     "goerli": {
         "name": "Goerli",
