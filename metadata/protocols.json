@@ -761,6 +761,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -1205,7 +1206,8 @@
         "name": "lydia",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "294": {
         "name": "anchor",
@@ -2833,7 +2835,6 @@
         "name": "alita-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "562": {
@@ -28150,7 +28151,8 @@
     "5157": {
         "name": "yellow",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "5158": {
         "name": "enosys-amm-v3",
@@ -34828,6 +34830,9 @@
         "fees": true,
         "revenue": true,
         "dexs": true
+    },
+    "parent#hypurfi": {
+        "fees": true
     },
     "parent#icecreamswap": {
         "name": "icecreamswap",
