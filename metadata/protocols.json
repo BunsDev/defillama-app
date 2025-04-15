@@ -1463,7 +1463,6 @@
         "forks": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -1554,7 +1553,6 @@
         "name": "gravity-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "352": {
@@ -2197,7 +2195,8 @@
     "453": {
         "name": "wild-credit",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "454": {
         "name": "back-finance",
@@ -2385,8 +2384,7 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "activeUsers": true
+        "liquidity": true
     },
     "484": {
         "name": "marinade-liquid-staking",
@@ -3386,7 +3384,6 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -3949,8 +3946,7 @@
     "754": {
         "name": "bossswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "755": {
         "name": "arrow",
@@ -5880,7 +5876,8 @@
     "1122": {
         "name": "grassland-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1123": {
         "name": "salem-finance",
@@ -8951,7 +8948,8 @@
     "1690": {
         "name": "zombie-network",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1691": {
         "name": "halofi",
@@ -9188,7 +9186,6 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11358,7 +11355,6 @@
         "name": "frax-swap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -15707,7 +15703,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
