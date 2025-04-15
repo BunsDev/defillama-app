@@ -3186,7 +3186,6 @@
         "tvl": true,
         "yields": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -3543,7 +3542,8 @@
     "683": {
         "name": "goswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "684": {
         "name": "hpdex",
@@ -5768,7 +5768,8 @@
     "1105": {
         "name": "bourbon-dao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1106": {
         "name": "chad-finance",
@@ -7334,7 +7335,8 @@
     "1399": {
         "name": "fastyield-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1400": {
         "name": "lizard",
@@ -10222,7 +10224,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11135,8 +11136,7 @@
     "2086": {
         "name": "rage-trade-v1",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2087": {
         "name": "chee-finance",
@@ -21130,7 +21130,6 @@
         "name": "aimbot",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -32930,7 +32929,6 @@
         "name": "uxlink",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "emissions": true
     },
     "6041": {
@@ -32997,6 +32995,10 @@
         "yields": false
     },
     "6054": {
+        "name": "razor-dex",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
         "revenue": true,
         "dexs": true
     },
