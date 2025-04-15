@@ -7159,7 +7159,6 @@
         "name": "astroswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "1369": {
@@ -12321,8 +12320,7 @@
     "2300": {
         "name": "strx-finance",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "2302": {
         "name": "goober",
@@ -16919,7 +16917,6 @@
         "name": "astroport",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "dexs": true
     },
     "3118": {
