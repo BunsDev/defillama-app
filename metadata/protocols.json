@@ -8148,7 +8148,8 @@
     "1548": {
         "name": "chaotic-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1549": {
         "name": "babena",
@@ -9171,7 +9172,7 @@
     },
     "1731": {
         "name": "honkswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true
     },
@@ -10248,7 +10249,8 @@
     "1920": {
         "name": "ordernchaos",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1921": {
         "name": "dogeclaw",
@@ -11752,7 +11754,8 @@
         "name": "sushi-bentobox",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2191": {
         "name": "omnidex-lend",
@@ -20046,6 +20049,7 @@
         "name": "amnis-finance",
         "tvl": true,
         "yields": true,
+        "treasury": true,
         "raises": true
     },
     "3668": {
