@@ -2845,7 +2845,8 @@
     "563": {
         "name": "timewarp",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "564": {
         "name": "fabric",
@@ -3185,7 +3186,6 @@
         "tvl": true,
         "yields": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -10221,7 +10221,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11134,8 +11133,7 @@
     "2086": {
         "name": "rage-trade-v1",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2087": {
         "name": "chee-finance",
@@ -31839,7 +31837,7 @@
         "dexs": true
     },
     "5838": {
-        "name": "hypurrfi",
+        "name": "hypurrfi-pooled",
         "tvl": true,
         "yields": false,
         "fees": true,
@@ -32980,6 +32978,21 @@
         "tvl": true,
         "yields": false,
         "liquidity": true
+    },
+    "6051": {
+        "name": "kittypunch-punchswap-v3",
+        "tvl": true,
+        "yields": false
+    },
+    "6052": {
+        "name": "catex-metadex",
+        "tvl": true,
+        "yields": false
+    },
+    "6053": {
+        "name": "hypurrfi-isolated",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
@@ -34832,7 +34845,11 @@
         "dexs": true
     },
     "parent#hypurfi": {
-        "fees": true
+        "name": "hypurrfi",
+        "yields": false,
+        "tvl": true,
+        "fees": true,
+        "revenue": true
     },
     "parent#icecreamswap": {
         "name": "icecreamswap",
