@@ -10562,7 +10562,6 @@
         "name": "orbit-bridge",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "1982": {
