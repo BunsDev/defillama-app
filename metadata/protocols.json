@@ -3593,7 +3593,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -9550,7 +9551,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11229,7 +11229,6 @@
         "name": "titano-swych",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "2103": {
@@ -19553,7 +19552,6 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -25692,7 +25690,8 @@
     "4713": {
         "name": "earlyfans",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4714": {
         "name": "blastup",
