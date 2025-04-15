@@ -579,8 +579,7 @@
     "193": {
         "name": "unit-protocol",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "194": {
         "name": "pancakeswap-amm",
@@ -19286,8 +19285,7 @@
     "3526": {
         "name": "rexdex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3527": {
         "name": "blazebot",
@@ -30290,7 +30288,8 @@
     "5544": {
         "name": "elys-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5545": {
         "name": "theo-network",
@@ -34371,7 +34370,8 @@
     "parent#elys-protocol": {
         "name": "elys-protocol",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "dexs": true
     },
     "parent#empmoney": {
         "name": "empmoney",

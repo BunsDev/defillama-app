@@ -679,6 +679,7 @@
     },
     "elys": {
         "name": "Elys",
+        "dexs": true,
         "gecko_id": "elys-network",
         "tokenSymbol": "ELYS"
     },
