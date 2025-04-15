@@ -30884,7 +30884,7 @@
     },
     "5650": {
         "name": "filament-v1",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "fees": true,
         "revenue": true,
@@ -34501,7 +34501,6 @@
     "parent#filament": {
         "name": "filament-finance",
         "yields": false,
-        "tvl": true,
         "fees": true,
         "revenue": true,
         "perps": true
