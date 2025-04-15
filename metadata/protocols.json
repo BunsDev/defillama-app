@@ -654,7 +654,8 @@
         "name": "goose-finance",
         "tvl": true,
         "yields": true,
-        "forks": true
+        "forks": true,
+        "liquidity": true
     },
     "206": {
         "name": "xtoken",
@@ -11221,8 +11222,7 @@
         "name": "fstswap",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "activeUsers": true
+        "governance": true
     },
     "2102": {
         "name": "titano-swych",
