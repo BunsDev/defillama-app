@@ -3186,6 +3186,7 @@
         "tvl": true,
         "yields": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -10221,6 +10222,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11133,7 +11135,8 @@
     "2086": {
         "name": "rage-trade-v1",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2087": {
         "name": "chee-finance",
@@ -26093,8 +26096,7 @@
     "4783": {
         "name": "otsea",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4784": {
         "name": "pu239",
@@ -32993,6 +32995,10 @@
         "name": "hypurrfi-isolated",
         "tvl": true,
         "yields": false
+    },
+    "6054": {
+        "revenue": true,
+        "dexs": true
     },
     "chain#1": {
         "fees": true,
