@@ -8063,7 +8063,8 @@
     "1533": {
         "name": "life",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1534": {
         "name": "strikex",
@@ -10859,7 +10860,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2036": {
@@ -26504,7 +26505,7 @@
     },
     "4861": {
         "name": "aurus",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4862": {
