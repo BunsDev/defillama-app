@@ -1463,6 +1463,7 @@
         "forks": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -1553,6 +1554,7 @@
         "name": "gravity-finance",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "352": {
@@ -3384,6 +3386,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -9186,6 +9189,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11355,6 +11359,7 @@
         "name": "frax-swap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -11778,7 +11783,8 @@
         "yields": false,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2193": {
         "name": "amulet-liquidity-staking",
@@ -12852,6 +12858,7 @@
         "tvl": true,
         "yields": false,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -12869,6 +12876,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -15703,6 +15711,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -37212,6 +37221,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
