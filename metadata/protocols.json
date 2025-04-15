@@ -17621,7 +17621,8 @@
     "3240": {
         "name": "magician-mv",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3241": {
         "name": "meter-liquid-staking",
