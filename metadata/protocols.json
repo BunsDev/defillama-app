@@ -6625,7 +6625,7 @@
     },
     "1264": {
         "name": "smartdexbch",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1265": {
@@ -33987,9 +33987,6 @@
         "revenue": true,
         "dexs": true,
         "emissions": true
-    },
-    "parent#canary": {
-        "activeUsers": true
     },
     "parent#cap-finance": {
         "name": "cap-finance",
