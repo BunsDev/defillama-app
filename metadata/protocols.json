@@ -2394,7 +2394,8 @@
     "485": {
         "name": "tendieswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "486": {
         "name": "unfederalreserve",
@@ -4175,7 +4176,6 @@
         "name": "pureswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "activeUsers": true
     },
     "816": {
@@ -9953,8 +9953,7 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1872": {
         "name": "rift-finance",
@@ -10862,7 +10861,7 @@
     },
     "2035": {
         "name": "bitgert-swap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2036": {
