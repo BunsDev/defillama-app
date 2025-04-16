@@ -5137,8 +5137,7 @@
     "991": {
         "name": "midasdao",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "992": {
         "name": "ubiquity-dao",
@@ -15005,6 +15004,7 @@
         "name": "auragi-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -15229,6 +15229,7 @@
         "tvl": true,
         "yields": false,
         "forks": true,
+        "liquidity": true,
         "emissions": true
     },
     "2818": {
@@ -18777,8 +18778,7 @@
     "3438": {
         "name": "baklava-space",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3439": {
         "name": "hydration",
