@@ -6777,7 +6777,7 @@
     "1296": {
         "name": "zipswap",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "dexs": true
     },
     "1297": {
