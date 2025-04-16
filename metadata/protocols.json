@@ -2047,7 +2047,8 @@
     "431": {
         "name": "sun.io",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "432": {
         "name": "longdrink",
@@ -3581,6 +3582,7 @@
         "name": "sunswap-v1",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -4046,7 +4048,6 @@
         "name": "cashio",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "794": {
@@ -5166,8 +5167,7 @@
     "996": {
         "name": "ocp-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "997": {
         "name": "piggy",
@@ -6560,7 +6560,6 @@
         "name": "hakuswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "1255": {
@@ -16297,6 +16296,7 @@
         "name": "sunswap-v2",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -18033,8 +18033,7 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "3315": {
         "name": "crescentswap",
@@ -20122,8 +20121,7 @@
     "3679": {
         "name": "phase",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3680": {
         "name": "statix-farm",
@@ -22001,6 +21999,7 @@
         "name": "sunswap-v3",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -22996,7 +22995,8 @@
     "4204": {
         "name": "rockswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4205": {
         "name": "cygnus-finance",
@@ -27357,6 +27357,7 @@
         "name": "cyberperp",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "perps": true
     },
     "5017": {
@@ -36553,6 +36554,7 @@
         "name": "sun",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
