@@ -1911,7 +1911,8 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "409": {
         "name": "cafeswap",
@@ -11559,7 +11560,7 @@
     },
     "2156": {
         "name": "ethwswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2157": {
@@ -11682,7 +11683,8 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -12864,6 +12866,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -13046,8 +13049,7 @@
     "2429": {
         "name": "paraluni-dex",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2430": {
         "name": "waterfall-dex",
@@ -35901,7 +35903,6 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {

@@ -782,8 +782,7 @@
         "tokenSymbol": "EVMOS"
     },
     "exsat": {
-        "name": "exSat",
-        "chainAssets": true
+        "name": "exSat"
     },
     "fantom": {
         "name": "Fantom",
