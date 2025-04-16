@@ -142,8 +142,7 @@
     },
     "asset-chain": {
         "name": "Asset Chain",
-        "fees": true,
-        "dexs": true
+        "fees": true
     },
     "astar": {
         "name": "Astar",
