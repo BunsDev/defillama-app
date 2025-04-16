@@ -14855,8 +14855,7 @@
     "2744": {
         "name": "kavastarter",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2745": {
         "name": "leetswap",
@@ -16711,7 +16710,8 @@
     "3072": {
         "name": "dubble-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3073": {
         "name": "predy-v2",

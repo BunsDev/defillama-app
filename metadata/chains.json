@@ -187,7 +187,6 @@
     },
     "bahamut": {
         "name": "Bahamut",
-        "fees": true,
         "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"
@@ -1731,7 +1730,6 @@
     },
     "polynomial": {
         "name": "Polynomial",
-        "fees": true,
         "chainAssets": true
     },
     "prom": {
