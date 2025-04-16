@@ -3883,7 +3883,8 @@
     "743": {
         "name": "neku",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "744": {
         "name": "tranquil-finance",
@@ -4173,7 +4174,8 @@
         "name": "pureswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "816": {
         "name": "xsigma",
@@ -11466,6 +11468,7 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -12859,7 +12862,6 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -16395,8 +16397,7 @@
     "3024": {
         "name": "etherberry-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3025": {
         "name": "ktx-perps",
@@ -32962,7 +32963,7 @@
     "6047": {
         "name": "berapaw",
         "tvl": false,
-        "yields": false
+        "yields": true
     },
     "6048": {
         "name": "datamine-network",
