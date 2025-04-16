@@ -9554,6 +9554,7 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -12531,7 +12532,8 @@
         "name": "lodestar-v0",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2340": {
         "name": "optitude-finance",
@@ -17939,7 +17941,7 @@
     "3298": {
         "name": "factor-v2",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true,
         "fees": true,
         "revenue": true
@@ -34480,7 +34482,7 @@
     },
     "parent#factor": {
         "name": "factor",
-        "yields": true,
+        "yields": false,
         "tvl": true,
         "treasury": true,
         "liquidity": true,
