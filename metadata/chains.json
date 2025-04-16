@@ -220,6 +220,7 @@
         "aggregators": true,
         "options": true,
         "inflows": true,
+        "chainAssets": true,
         "gecko_id": "berachain-bera",
         "tokenSymbol": "BERA"
     },
@@ -2442,8 +2443,7 @@
     },
     "zkfair": {
         "name": "Zkfair",
-        "inflows": true,
-        "chainAssets": true
+        "inflows": true
     },
     "zklink-nova": {
         "name": "zkLink Nova",
