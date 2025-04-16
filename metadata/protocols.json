@@ -9098,6 +9098,7 @@
         "name": "coinflex",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "raises": true
     },
     "1718": {
@@ -12774,7 +12775,8 @@
     "2384": {
         "name": "oreoswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2385": {
         "name": "exactly",
@@ -26623,6 +26625,7 @@
         "name": "powercity-flex-protocol",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
