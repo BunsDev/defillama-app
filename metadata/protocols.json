@@ -4017,8 +4017,7 @@
     "785": {
         "name": "lootswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "786": {
         "name": "bagels-finance",
@@ -13901,7 +13900,8 @@
         "name": "king-finance",
         "tvl": false,
         "yields": false,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "2580": {
         "name": "nuls-pocm",
@@ -18807,8 +18807,7 @@
         "name": "loot--dao",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "3444": {
         "name": "liquid-finance-protocol",
