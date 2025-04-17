@@ -3730,7 +3730,7 @@
     },
     "716": {
         "name": "billion-happiness",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "717": {
