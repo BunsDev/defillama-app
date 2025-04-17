@@ -3189,7 +3189,6 @@
         "tvl": true,
         "yields": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -6119,7 +6118,6 @@
         "name": "psyoptions",
         "tvl": true,
         "yields": true,
-        "liquidity": true,
         "raises": true
     },
     "1173": {
