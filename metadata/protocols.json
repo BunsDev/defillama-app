@@ -10880,7 +10880,8 @@
     "2039": {
         "name": "phission-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2040": {
         "name": "lif3-swap",
