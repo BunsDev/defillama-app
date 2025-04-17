@@ -9854,7 +9854,7 @@
     "1853": {
         "name": "moonwell-lending",
         "tvl": true,
-        "yields": false,
+        "yields": true,
         "liquidity": true,
         "raises": true,
         "fees": true,
