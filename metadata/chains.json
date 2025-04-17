@@ -174,7 +174,6 @@
     },
     "avalanche": {
         "name": "Avalanche",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -201,7 +200,6 @@
     },
     "base": {
         "name": "Base",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -357,7 +355,6 @@
     },
     "bsc": {
         "name": "BSC",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -737,7 +734,6 @@
     },
     "ethereum": {
         "name": "Ethereum",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -1708,7 +1704,6 @@
     },
     "polygon": {
         "name": "Polygon",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
