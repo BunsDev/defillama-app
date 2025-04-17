@@ -13403,7 +13403,8 @@
     "2496": {
         "name": "fundex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2497": {
         "name": "dinosaur.finance",
