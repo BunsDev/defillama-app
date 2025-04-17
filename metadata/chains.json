@@ -89,6 +89,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "bridge-aggregators": true,
         "chainAssets": true,
         "gecko_id": "aptos",
         "tokenSymbol": "APT"
@@ -893,7 +894,6 @@
         "name": "Gnosis",
         "fees": true,
         "dexs": true,
-        "derivatives": true,
         "aggregators": true,
         "bridge-aggregators": true,
         "inflows": true,
@@ -1034,6 +1034,7 @@
         "name": "ICP",
         "fees": true,
         "dexs": true,
+        "aggregators": true,
         "gecko_id": "internet-computer",
         "tokenSymbol": "ICP"
     },
@@ -1439,7 +1440,6 @@
         "name": "Movement",
         "fees": true,
         "dexs": true,
-        "aggregators": true,
         "gecko_id": "movement",
         "tokenSymbol": "MOVE"
     },
