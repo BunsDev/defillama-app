@@ -96,7 +96,6 @@
     },
     "arbitrum": {
         "name": "Arbitrum",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -174,7 +173,6 @@
     },
     "avalanche": {
         "name": "Avalanche",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -200,7 +198,6 @@
     },
     "base": {
         "name": "Base",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -356,7 +353,6 @@
     },
     "bsc": {
         "name": "BSC",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -736,7 +732,6 @@
     },
     "ethereum": {
         "name": "Ethereum",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -1708,7 +1703,6 @@
     },
     "polygon": {
         "name": "Polygon",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -1877,7 +1871,6 @@
     },
     "scroll": {
         "name": "Scroll",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -1950,7 +1943,6 @@
     },
     "solana": {
         "name": "Solana",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -2221,7 +2213,6 @@
     },
     "tron": {
         "name": "Tron",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "aggregators": true,
@@ -2255,13 +2246,8 @@
     },
     "unit-zero": {
         "name": "Unit Zero",
-        "aggregators": true
-    },
-    "unit0": {
-        "name": "UNIT0",
         "dexs": true,
-        "gecko_id": "unit0",
-        "tokenSymbol": "UNIT0"
+        "aggregators": true
     },
     "ux": {
         "name": "UX",
