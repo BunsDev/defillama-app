@@ -6704,8 +6704,7 @@
         "name": "bent-finance",
         "tvl": true,
         "yields": false,
-        "governance": true,
-        "liquidity": true
+        "governance": true
     },
     "1284": {
         "name": "paladin-dao",
@@ -17579,8 +17578,7 @@
     "3236": {
         "name": "colafactory",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3237": {
         "name": "skydex",
