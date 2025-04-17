@@ -32972,8 +32972,7 @@
     "6048": {
         "name": "datamine-network",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "6049": {
         "name": "axiom",
