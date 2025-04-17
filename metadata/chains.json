@@ -1416,6 +1416,11 @@
         "gecko_id": "moonbeam",
         "tokenSymbol": "GLMR"
     },
+    "moonchain": {
+        "name": "Moonchain",
+        "gecko_id": "mxc",
+        "tokenSymbol": "MXC"
+    },
     "moonriver": {
         "name": "Moonriver",
         "fees": true,

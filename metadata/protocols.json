@@ -6607,7 +6607,7 @@
     },
     "1264": {
         "name": "smartdexbch",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1265": {
@@ -7417,8 +7417,7 @@
     "1416": {
         "name": "gemkeeper",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1417": {
         "name": "gemmine",
@@ -8818,8 +8817,7 @@
     "1668": {
         "name": "milkydex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1669": {
         "name": "tokensfarm",
@@ -10183,7 +10181,6 @@
         "tvl": false,
         "yields": true,
         "treasury": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -33032,6 +33029,27 @@
         "name": "solido-cash",
         "tvl": true,
         "yields": false
+    },
+    "6060": {
+        "name": "sablier-flow",
+        "tvl": true,
+        "yields": false
+    },
+    "6061": {
+        "name": "40-acres",
+        "tvl": true,
+        "yields": false
+    },
+    "6062": {
+        "name": "moonchain-swap",
+        "tvl": true,
+        "yields": false
+    },
+    "6064": {
+        "name": "kame-aggregator",
+        "tvl": false,
+        "yields": false,
+        "aggregator": true
     },
     "chain#1": {
         "fees": true,
