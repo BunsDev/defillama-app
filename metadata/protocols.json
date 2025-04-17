@@ -3598,8 +3598,7 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "693": {
         "name": "superfluid",
@@ -5360,7 +5359,8 @@
     "1034": {
         "name": "base-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1035": {
         "name": "bitpif",
@@ -29877,7 +29877,8 @@
     "5468": {
         "name": "ton-pump",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "dexs": true
     },
     "5469": {
         "name": "thetis-perps",
@@ -32300,7 +32301,8 @@
     "5920": {
         "name": "tea-rex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "perps": true
     },
     "5921": {
         "name": "squadswap-dynamo",
@@ -32820,7 +32822,8 @@
     "6014": {
         "name": "typus-perp",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "perps": true
     },
     "6015": {
         "name": "felix",
@@ -34412,6 +34415,14 @@
         "revenue": true,
         "dexs": true,
         "perps": true
+    },
+    "parent#ekubo": {
+        "name": "ekubo-protocol",
+        "yields": false,
+        "tvl": true,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "parent#electroswap": {
         "name": "electroswap",
@@ -36944,6 +36955,7 @@
         "yields": false,
         "tvl": true,
         "treasury": true,
+        "perps": true,
         "options": true
     },
     "parent#ubeswap": {
