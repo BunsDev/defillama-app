@@ -6696,7 +6696,8 @@
         "yields": false,
         "liquidity": true,
         "hacks": true,
-        "aggregator": true
+        "aggregator": true,
+        "bridgeAggregators": true
     },
     "1283": {
         "name": "bent-finance",

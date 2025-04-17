@@ -822,6 +822,7 @@
         "dexs": true,
         "derivatives": true,
         "inflows": true,
+        "chainAssets": true,
         "gecko_id": "flow",
         "tokenSymbol": "FLOW"
     },
@@ -2252,10 +2253,13 @@
         "aggregators": true,
         "chainAssets": true
     },
+    "unit-zero": {
+        "name": "Unit Zero",
+        "aggregators": true
+    },
     "unit0": {
         "name": "UNIT0",
         "dexs": true,
-        "aggregators": true,
         "gecko_id": "unit0",
         "tokenSymbol": "UNIT0"
     },
