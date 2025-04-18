@@ -1734,7 +1734,6 @@
     },
     "polynomial": {
         "name": "Polynomial",
-        "fees": true,
         "chainAssets": true
     },
     "prom": {

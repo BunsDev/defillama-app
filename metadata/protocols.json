@@ -9093,7 +9093,8 @@
     "1712": {
         "name": "evmoswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1713": {
         "name": "duet-protocol",
@@ -9198,7 +9199,7 @@
     },
     "1731": {
         "name": "honkswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "liquidity": true
     },
@@ -25595,8 +25596,7 @@
     "4679": {
         "name": "dragon-protocol",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4680": {
         "name": "iswap-tech",
