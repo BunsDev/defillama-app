@@ -22098,7 +22098,8 @@
     "4048": {
         "name": "circlepacific",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4049": {
         "name": "zerion-wallet",
@@ -30420,6 +30421,7 @@
         "name": "shadow-exchange-clmm",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -31063,6 +31065,7 @@
         "name": "shadow-exchange-legacy",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -36304,6 +36307,7 @@
         "name": "shadow-exchange",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
