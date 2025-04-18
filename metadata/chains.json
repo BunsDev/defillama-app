@@ -189,7 +189,6 @@
     },
     "bahamut": {
         "name": "Bahamut",
-        "fees": true,
         "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"
@@ -1034,7 +1033,6 @@
         "name": "ICP",
         "fees": true,
         "dexs": true,
-        "aggregators": true,
         "gecko_id": "internet-computer",
         "tokenSymbol": "ICP"
     },
