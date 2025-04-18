@@ -4866,7 +4866,6 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "943": {
@@ -28942,7 +28941,8 @@
     "5300": {
         "name": "loxodrome-perp",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "perps": true
     },
     "5301": {
         "name": "bulbaswap-v2",
@@ -32258,7 +32258,8 @@
     "5912": {
         "name": "chedda-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "revenue": true
     },
     "5913": {
         "name": "exit.tech",
@@ -33061,6 +33062,9 @@
         "tvl": false,
         "yields": false,
         "aggregator": true
+    },
+    "6066": {
+        "revenue": true
     },
     "chain#1": {
         "fees": true,
@@ -35305,7 +35309,8 @@
     "parent#loxodrome": {
         "name": "loxodrome",
         "yields": false,
-        "tvl": true
+        "tvl": true,
+        "perps": true
     },
     "parent#lsdx-finance": {
         "name": "lsdx-finance",
