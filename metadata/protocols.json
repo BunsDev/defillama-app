@@ -6607,7 +6607,7 @@
     },
     "1264": {
         "name": "smartdexbch",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "1265": {
@@ -7731,7 +7731,8 @@
     "1471": {
         "name": "bethash",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1472": {
         "name": "electrik-finance",
@@ -9168,7 +9169,7 @@
     },
     "1731": {
         "name": "honkswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "liquidity": true
     },
@@ -9685,8 +9686,7 @@
     "1823": {
         "name": "nomiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1824": {
         "name": "swapsicle-v1",
@@ -13582,7 +13582,6 @@
         "name": "solidlizard-dex",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -21344,6 +21343,7 @@
         "name": "kim-exchange-v1",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "3914": {
@@ -22038,6 +22038,7 @@
         "name": "kim-exchange-v2",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23525,6 +23526,7 @@
         "name": "kim-exchange-v3",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -33073,6 +33075,16 @@
         "fees": true,
         "revenue": true
     },
+    "6067": {
+        "name": "udonswap",
+        "tvl": true,
+        "yields": false
+    },
+    "6068": {
+        "name": "fomoswap",
+        "tvl": true,
+        "yields": false
+    },
     "chain#1": {
         "fees": true,
         "revenue": true
@@ -35108,6 +35120,7 @@
         "name": "kim-exchange",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
