@@ -10227,6 +10227,7 @@
         "tvl": false,
         "yields": true,
         "treasury": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true
     },
