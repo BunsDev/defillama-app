@@ -1417,6 +1417,7 @@
     },
     "moonchain": {
         "name": "Moonchain",
+        "chainAssets": true,
         "gecko_id": "mxc",
         "tokenSymbol": "MXC"
     },

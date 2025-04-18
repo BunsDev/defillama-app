@@ -15836,8 +15836,7 @@
     "2923": {
         "name": "tprotocol-v1",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2924": {
         "name": "goodentry",
@@ -19472,8 +19471,7 @@
     "3560": {
         "name": "tprotocol-v2",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3561": {
         "name": "tegro",
@@ -32259,6 +32257,7 @@
         "name": "chedda-finance",
         "tvl": true,
         "yields": false,
+        "fees": true,
         "revenue": true
     },
     "5913": {
@@ -32676,8 +32675,7 @@
     "5984": {
         "name": "anvil",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "5985": {
         "name": "axelar-cross-chain",
@@ -33063,7 +33061,16 @@
         "yields": false,
         "aggregator": true
     },
+    "6065": {
+        "name": "arbitrum-timeboost",
+        "tvl": false,
+        "yields": false
+    },
     "6066": {
+        "name": "kairos-timeboost",
+        "tvl": false,
+        "yields": false,
+        "fees": true,
         "revenue": true
     },
     "chain#1": {
@@ -36935,8 +36942,7 @@
         "name": "tprotocol",
         "yields": false,
         "tvl": true,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "parent#trader-joe": {
         "name": "lfj",
@@ -36967,7 +36973,8 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true
+        "liquidity": true,
+        "emissions": true
     },
     "parent#tropykus-finance": {
         "name": "tropykus-finance",
