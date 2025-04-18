@@ -25244,8 +25244,7 @@
     "4607": {
         "name": "cheelee",
         "tvl": false,
-        "yields": false,
-        "emissions": true
+        "yields": false
     },
     "4608": {
         "name": "metars-go",
