@@ -7899,8 +7899,7 @@
         "name": "fantasm",
         "tvl": true,
         "yields": false,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "1505": {
         "name": "floor-dao",
@@ -23013,7 +23012,6 @@
         "name": "bladeswap-amm",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "4207": {
@@ -25177,7 +25175,8 @@
     "4607": {
         "name": "cheelee",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "emissions": true
     },
     "4608": {
         "name": "metars-go",
@@ -25895,7 +25894,6 @@
         "name": "bladeswap-cl",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "4747": {
@@ -33899,7 +33897,6 @@
         "name": "bladeswap",
         "yields": false,
         "tvl": true,
-        "liquidity": true,
         "dexs": true
     },
     "parent#blasterswap": {
