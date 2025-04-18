@@ -3880,8 +3880,7 @@
     "740": {
         "name": "elephantdex",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "741": {
         "name": "vaulty-finance",
@@ -6633,7 +6632,7 @@
     },
     "1264": {
         "name": "smartdexbch",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "1265": {
@@ -7238,7 +7237,6 @@
         "name": "elephant-money",
         "tvl": false,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "1379": {
