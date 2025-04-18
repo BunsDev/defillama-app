@@ -3712,7 +3712,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -3845,7 +3845,8 @@
     "737": {
         "name": "dino.exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "738": {
         "name": "defi-halal",
@@ -13396,7 +13397,8 @@
     "2497": {
         "name": "dinosaur.finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2498": {
         "name": "umee",
@@ -35255,8 +35257,6 @@
         "dexs": true
     },
     "parent#lighter": {
-        "name": "lighter",
-        "yields": false,
         "tvl": true,
         "dexs": true
     },
