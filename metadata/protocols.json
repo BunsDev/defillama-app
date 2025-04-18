@@ -2306,6 +2306,7 @@
         "name": "complus-network",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "472": {
@@ -18041,7 +18042,8 @@
         "name": "rocketswap-base",
         "tvl": true,
         "yields": false,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "3315": {
         "name": "crescentswap",
@@ -36959,8 +36961,7 @@
         "tvl": true,
         "governance": true,
         "treasury": true,
-        "liquidity": true,
-        "emissions": true
+        "liquidity": true
     },
     "parent#tropykus-finance": {
         "name": "tropykus-finance",
