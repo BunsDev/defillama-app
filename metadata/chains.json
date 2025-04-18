@@ -175,7 +175,6 @@
     },
     "avalanche": {
         "name": "Avalanche",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
