@@ -111,8 +111,7 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "122": {
         "name": "nexus-mutual",
@@ -702,7 +701,6 @@
         "yields": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -1466,7 +1464,6 @@
         "forks": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -1919,8 +1916,7 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "409": {
         "name": "cafeswap",
@@ -2292,7 +2288,6 @@
         "yields": true,
         "liquidity": true,
         "raises": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -3621,8 +3616,7 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "693": {
         "name": "superfluid",
@@ -3755,7 +3749,7 @@
     },
     "716": {
         "name": "billion-happiness",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "717": {
@@ -6849,7 +6843,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -9183,7 +9176,6 @@
         "name": "meshswap",
         "tvl": true,
         "yields": false,
-        "activeUsers": true,
         "dexs": true
     },
     "1727": {
@@ -9393,7 +9385,6 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -11736,8 +11727,7 @@
         "name": "fortress-loans",
         "tvl": true,
         "yields": false,
-        "hacks": true,
-        "activeUsers": true
+        "hacks": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -11789,8 +11779,7 @@
     "2186": {
         "name": "usdfi-lending",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2187": {
         "name": "dolomite",
@@ -13488,6 +13477,7 @@
         "tvl": false,
         "yields": false,
         "treasury": true,
+        "liquidity": true,
         "raises": true
     },
     "2502": {
@@ -23794,7 +23784,7 @@
     },
     "4329": {
         "name": "staq",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4330": {
@@ -33759,7 +33749,6 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -35328,7 +35317,6 @@
         "tvl": true,
         "treasury": true,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,
@@ -37092,7 +37080,6 @@
         "governance": true,
         "treasury": true,
         "liquidity": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true,

@@ -1712,7 +1712,6 @@
     },
     "polygon": {
         "name": "Polygon",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
