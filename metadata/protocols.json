@@ -1235,7 +1235,6 @@
         "tvl": false,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "raises": true
     },
     "301": {
@@ -2318,8 +2317,7 @@
     "473": {
         "name": "baguette",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "474": {
         "name": "canary",
@@ -4404,8 +4402,7 @@
     "857": {
         "name": "aliensfarm",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "858": {
         "name": "piggybank-dao",
@@ -4651,7 +4648,8 @@
         "liquidity": true,
         "raises": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "901": {
         "name": "everestdao",
@@ -33961,7 +33959,8 @@
         "fees": true,
         "revenue": true,
         "dexs": true,
-        "perps": true
+        "perps": true,
+        "emissions": true
     },
     "parent#bluemove": {
         "name": "bluemove",
@@ -34645,7 +34644,8 @@
         "tvl": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#folks-finance": {
         "name": "folks-finance",
@@ -35460,7 +35460,8 @@
         "treasury": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "parent#mare-finance": {
         "name": "mare-finance",
@@ -35888,7 +35889,8 @@
         "revenue": true,
         "dexs": true,
         "perps": true,
-        "options": true
+        "options": true,
+        "emissions": true
     },
     "parent#pando": {
         "name": "pando",
@@ -36322,7 +36324,8 @@
         "liquidity": true,
         "fees": true,
         "revenue": true,
-        "dexs": true
+        "dexs": true,
+        "emissions": true
     },
     "parent#sharpe-ai": {
         "name": "sharpe-ai",
@@ -36554,7 +36557,8 @@
         "governance": true,
         "liquidity": true,
         "fees": true,
-        "revenue": true
+        "revenue": true,
+        "emissions": true
     },
     "parent#standard-protocol": {
         "name": "standard-protocol",
