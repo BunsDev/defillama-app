@@ -26899,7 +26899,9 @@
     "4932": {
         "name": "ostium",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true
     },
     "4934": {
         "name": "filliquid",
