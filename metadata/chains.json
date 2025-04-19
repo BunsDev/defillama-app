@@ -174,7 +174,6 @@
     },
     "avalanche": {
         "name": "Avalanche",
-        "activeUsers": true,
         "fees": true,
         "dexs": true,
         "derivatives": true,
@@ -1734,7 +1733,6 @@
     },
     "polynomial": {
         "name": "Polynomial",
-        "fees": true,
         "chainAssets": true
     },
     "prom": {
