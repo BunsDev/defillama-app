@@ -1439,7 +1439,6 @@
         "tvl": true,
         "yields": true,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "335": {
@@ -3365,7 +3364,8 @@
     "651": {
         "name": "chfry-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "652": {
         "name": "emiswap",
@@ -4175,8 +4175,7 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "816": {
         "name": "xsigma",
@@ -8372,7 +8371,8 @@
     "1588": {
         "name": "diamond-coin",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1589": {
         "name": "puzzle-swap",
@@ -26119,7 +26119,7 @@
     },
     "4784": {
         "name": "pu239",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "4785": {
