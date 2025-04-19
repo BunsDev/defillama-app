@@ -578,7 +578,8 @@
     "193": {
         "name": "unit-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "194": {
         "name": "pancakeswap-amm",
