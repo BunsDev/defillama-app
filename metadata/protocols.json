@@ -7777,8 +7777,7 @@
     "1479": {
         "name": "phantom-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1480": {
         "name": "xray-swap",
