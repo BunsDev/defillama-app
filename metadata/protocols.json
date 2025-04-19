@@ -4983,7 +4983,8 @@
     "958": {
         "name": "ester-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "959": {
         "name": "alpaca-city",
@@ -17715,7 +17716,8 @@
     "3244": {
         "name": "one-dex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3245": {
         "name": "venus-isolated-pools",
