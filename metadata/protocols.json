@@ -2785,8 +2785,7 @@
     "548": {
         "name": "dfs-network",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "549": {
         "name": "vigor",
@@ -4435,7 +4434,6 @@
         "name": "snowdog",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "hacks": true
     },
     "860": {
@@ -7945,7 +7943,8 @@
         "tvl": false,
         "yields": false,
         "governance": true,
-        "treasury": true
+        "treasury": true,
+        "liquidity": true
     },
     "1506": {
         "name": "pulse-dao",
@@ -9097,8 +9096,7 @@
     "1711": {
         "name": "candle",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1712": {
         "name": "evmoswap",
