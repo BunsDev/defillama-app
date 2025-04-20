@@ -188,6 +188,7 @@
     },
     "bahamut": {
         "name": "Bahamut",
+        "fees": true,
         "aggregators": true,
         "gecko_id": "fasttoken",
         "tokenSymbol": "FTN"
@@ -1331,7 +1332,6 @@
     },
     "meer": {
         "name": "MEER",
-        "dexs": true,
         "gecko_id": "qitmeer-network",
         "tokenSymbol": "MEER"
     },
@@ -1734,6 +1734,7 @@
     },
     "polynomial": {
         "name": "Polynomial",
+        "fees": true,
         "chainAssets": true
     },
     "prom": {
